@@ -1,0 +1,477 @@
+@import url('bootstrap.min.css');
+
+/* Basic color scheme */
+body {
+	background-color: #003366;
+}
+
+.foreground {
+	background-color: #f7f7f7;
+	min-height: 720px;
+	width: 90%;
+	margin: 0 5%;
+	padding-top: 5em;
+	padding-bottom: 5em;
+}
+
+@media screen and (max-width: 768px) {
+    .foreground {
+    	width:100%;
+    	margin: 0 auto;
+    }
+}
+
+article#content {
+	margin: 0 auto;
+}
+
+a {
+	color: #0065d1;			   /* tones down luminosity against light bg */
+}
+
+.navbar-dark .navbar-nav .nav-link {
+	color: rgba(255, 255, 255, 0.7);		/* up from alpha 0.5 in Bootstrap */
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+	text-decoration: underline;
+}
+
+/* Front page styling */
+body.front div#background {
+    background-image: url(/dsam2023fall/assets/img/course-title.png);
+}
+
+nav#front-nav {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    width: 100%;
+    padding: 0 1em 1em;
+}
+
+@media (min-width: 820px) {
+	.who-when-where {
+		display: grid;
+		grid-template-columns: 2fr 5fr;
+		grid-template-rows: 1fr 1fr;
+		grid-auto-flow: row;
+	}
+}
+
+.featured-image {
+	max-width: 20em;
+}
+
+p#description {
+	max-width: 50em;
+	margin: 1.5em;
+}
+
+.center-pills {
+    display: flex;
+    justify-content: center;
+	flex-wrap: wrap;
+}
+
+.center-pills .nav-item {
+		height: fit-content;
+		margin: 5px;
+}
+
+header h1, header h2, header h3, header h4 {
+	font-family: asap, calibri, sans-serif;
+}
+
+header h3 {
+    font-size: 1.3em;
+    font-weight: initial;
+    color: #777;
+}
+
+header, .page-header {
+	background-color: #f7f7f7;
+}
+
+.page-header {
+	max-width: 70%;
+}
+
+footer {
+    color: #d0d0d0;
+    bottom: 0;
+    margin: 0.5em 10%;
+		font-size: 0.8em;
+}
+
+footer a {
+    color: #8baee9;
+}
+
+footer a:hover, footer a:focus, footer a:visited {
+    color: #6a9af4;
+}
+
+dfn {
+    font-style: initial;
+}
+
+/* Header spacing */
+
+body.thin_header {
+	padding-top: 69px;
+}
+
+body.bottom_header {
+	padding-bottom: 69px;
+}
+
+body.front header {
+	flex-wrap: wrap;
+}
+
+div#navbar-collapse-1 {
+	margin-top: 9px;
+}
+
+body.full_header {
+	padding-top: 105px;
+}
+
+div#navbar-collapse-2 {   /* only used in full_header.html*/
+	margin-top: -15px;
+}
+
+button#menu-button {
+	margin-top: -3.5em;
+}
+
+img.banner {
+  width: 200%;
+  display: block;
+  margin-left: -50%;
+  margin-right: auto;
+}
+
+#navbarNav ul.navbar-nav {
+    align-items: flex-end;
+    margin-right: 0.5em;
+}
+
+h2, h3 {
+    margin-top: 1.1em;
+}
+
+/* Don't let the anchor-jumps get chomped by the header */
+h1::before, h2::before, h3::before, h4::before, #content::before, .slides img::before {
+  display: block;
+  content: " ";
+  margin-top: -85px;
+  height: 85px;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* Footnotes */
+.ftnref, .ftn {
+    font-size: .83em;
+    /* line-height: 0.5em; */
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+}
+
+.footnote-block {
+	margin: 2.5em 0;
+	font-size: 0.8em;
+}
+
+.footnote {
+  text-indent: -1.4em;
+  margin-left: 1em;
+}
+
+/* Images. Add padding, don't overflow column, don't overflow screen, maintain aspect ratio. */
+article figure img {
+    max-width: 100%;
+    max-height: 90vh;
+    height: auto;
+    margin: 0 auto;
+}
+
+article figure {
+    margin: 2em auto;
+}
+
+article figure figcaption {
+    margin: 1em;
+    font-style: italic;
+}
+
+/* Indent dictionary definitions, better demarcate dictionary terms */
+dt {
+    font-style:italic;
+    font-weight: bold;
+}
+
+dd {
+    margin: 0 0 1em 2em;
+}
+
+/* Make new alert class with a transparent middle but a colored border; useful for sidebar topics within main content */
+.alert-white {
+    border: 1px solid deepskyblue;
+}
+
+/* Some lists should be more widely spaced */
+ul.spaced > li, ol.spaced > li {
+	  margin-bottom: 1em;
+}
+
+ol.lalpha {
+	list-style-type: lower-alpha;
+}
+
+ol.ualpha {
+	list-style-type: upper-alpha;
+}
+
+
+/* Create side-by-side columns */
+.flex-container {
+	display: flex;
+	flex-direction: row;
+	/* flex-wrap: nowrap; */
+	justify-content: space-between;
+	align-items: flex-start;
+}
+
+/* Make <detail> accordion-style elements prettier */
+details summary {
+    width: 100%;
+    background-color: #a7d6ff;
+    border: 1px solid #75bfff;
+    margin: 5px 0;
+    padding: 0.5em;
+}
+
+details details summary {
+    background-color: #dee5eb;
+    border: 1px solid #7a92ad;
+    padding-left: 2em;
+}
+
+details[open], aside {
+    margin-bottom: 2em;
+  	padding-bottom: 1em;
+  	-webkit-box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
+	     -moz-box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
+	          box-shadow: 0 8px 6px -4px hsl(0, 0%, 66%);
+}
+
+details:not([open]) + p {
+    margin-top: 1.2em;
+}
+
+details summary h3 {
+    margin-top: -4em;
+    margin-left: 1em;
+    margin-bottom: 0;
+}
+
+/* But don't do this inside a colored alert */
+.alert summary {
+    background-color: inherit;
+}
+
+aside {
+    padding: 1em;
+    background-color: #F7FAFC;
+}
+
+
+/* Add more visual separation between consecutive
+   dictionary list items (e.g. on resources page) */
+dt:nth-child(1) {
+    border-top: 3px solid #008000a8;
+    padding-top: 0.5em;
+}
+
+dd + dt {
+    border-top: 3px solid #008000a8;
+    margin-top: 3em;
+    padding-top: 0.5em;
+}
+
+
+dd + dt:nth-of-type(even) {
+    border-top: 3px solid #05015ea8;
+}
+
+/* Get rid of that default pink code styling */
+pre, code {
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border: 1px solid hsla(210, 3%, 83%, 1);
+    padding: 3px;
+    line-height: inherit;
+    font-family: "Lucida Console", "Monaco", monospace;
+    font-size: 0.9rem;
+    color: #462d32;
+    background-color: #efefef;
+    vertical-align: baseline;
+}
+
+pre {
+    padding: 0.2em 1em 1.2em;
+}
+
+pre code {
+    border: none;
+    padding: initial;
+}
+
+/* Dummy span to stop Atom from italicizing after real underscores and asterisks */
+
+.hidden {
+	display: none;
+}
+
+/* TO DO: Add powerpoint-like "appear" animation where desired, using @keyframes and :active
+
+
+*/
+
+
+/* CSS-only Carousel, via https://css-tricks.com/css-only-carousel/ */
+
+.slider {
+    max-width: 600px;
+    text-align: center;
+    margin: 2em auto;
+    overflow: hidden;
+}
+
+.slides {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+
+    /*
+    scroll-snap-points-x: repeat(60vw);
+    scroll-snap-type: mandatory;
+    */
+}
+
+.slides::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+.slides::-webkit-scrollbar-thumb {
+    background: black;
+    border-radius: 10px;
+}
+.slides::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.slides > figure {
+    scroll-snap-align: start;
+    flex-shrink: 0;
+    width: 100%;
+    margin-right: 50px;
+    border-radius: 10px;
+    background: #eee;
+    transform-origin: center center;
+    transform: scale(1);
+    transition: transform 0.5s;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    scroll-margin-top: 10px;
+}
+
+.slides img {
+    object-fit: cover;
+    width: 100%;
+}
+
+.slider > a {
+    display: inline-flex;
+    width: 1.5rem;
+    height: 1.5rem;
+    background: white;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    margin: 0.5rem 0 0.5rem 0;
+    position: relative;
+}
+.slider > a:active {
+    top: 1px;
+}
+.slider > a:focus {
+    background: #333;
+    color: #48a0ff;
+}
+
+
+.slides figcaption {
+    font-size: 0.75em;
+}
+
+.slides code {
+    font-size:0.9em;
+    border: none;
+}
+
+.smaller {
+    font-size: smaller;
+}
+
+
+/* Blockquote styling from https://css-tricks.com/snippets/css/simple-and-nice-blockquote-styling/ */
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+	display: inline-block;
+}
+
+blockquote p.bq_cite {
+	max-width: 50%;
+	margin-right: 0;
+	margin-left: auto;
+	font-style: italic;
+}
+
+
+/* Don't need button navigation
+@supports (scroll-snap-type) {
+    .slider > a {
+      display: none;
+    }
+} */
+
+/* Don't use animations for people who prefer reduced motion */
+@media screen and (prefers-reduced-motion: reduce) {
+    .animate { animation: none !important; }
+  }

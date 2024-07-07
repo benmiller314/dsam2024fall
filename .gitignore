@@ -1,0 +1,9 @@
+_site/
+**/.DS_Store
+Gemfile.lock
+_config.yml
+**/~$*.docx
+plans/lesson*scrap.md
+.jekyll-metadata
+.DS_Store
+_site/**

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include sitewide_head.html %}
+</head>
+<body class="front">
+  <span class="sr-only sr-only-focusable"><a href="#front-nav">Jump to navigation</a></span>
+  <div id="background" class="container-fluid background">
+
+  <div id="foreground" class="foreground">
+
+      <header class="d-flex flex-row flex-sm-column m-4">
+        <div class="name-and-image d-flex flex-column">
+            <h1>{{site.course.name}}</h1>
+            <!-- <img class="featured-image"
+              src="{{site.course.featured_image}}" alt="{{site.course.featured_alt}}"> -->
+        </div>
+        <div class="who-when-where">
+            <h2>{{ site.course.instructor.name }}</h2>
+            <h2>{{ site.course.term }}</h2>
+            <h3>{{ site.course.time }}</h3>
+            <h3>{{ site.course.room }}</h3>
+        </div>
+      </header>
+
+    {%if page.course.featured_image %}
+      <div id="featured-image" class="col-md-5 col-md-offset-1 col-sm-12">
+
+      <!-- {{ page.featured_image }} -->
+      <img src="{{site.course.cover_image_path}}" alt="{{site.course.cover_image_alt}}" />
+
+      </div>
+    {% endif %}
+
+    <section id="content" class="d-flex flex-column-reverse flex-sm-row-reverse">
+
+    {{content}}
+
+    </section>
+  </div> <!-- end of foreground -->
+
+  </div> <!-- end of background -->
+  <footer>
+    {% include credits_and_license.html %}
+  </footer>
+
+
+<!--jQuery & Twitter Bootstrap JavaScript-->
+<script type="javascript" src="{{site.github_url}}/assets/js/jquery-3.4.1.min.js"></script>
+<script type="javascript" src="{{site.github_url}}/assets/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
