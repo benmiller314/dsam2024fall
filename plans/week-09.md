@@ -44,7 +44,7 @@ And maybe we can take some collaborative notes at [bit.ly/dsam2023fall-notes](ht
     <li><details><summary>We might look at some figures:</summary>
         <ul>
         <li><a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=162">Changing titles</a> on the same graph of racial disparities in rates of mental health diagnosis (Klein and D'Ignazio, figures 6.6 and 6.7)</li>
-        <li>Scale of <a href="https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html#:-:text=Figure%205.5%20Scale,most%20graphs.%E2%80%9D2">elementary perceptual tasks"</a> (Cairo, figure 5.5)</li>
+        <li>Scale of <a href="https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html#:-:text=Figure%205.5%20Scale,most%20graphs.%E2%80%9D2">"elementary perceptual tasks"</a> (Cairo, figure 5.5)</li>
         <li><a href="https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html#:-:text=For%20instance%2C%20think,Figure%205.7%20displays.">European asylum seeker application decisions</a> (Cairo, figure 5.7)</li>
         </ul></details>
     </li>
