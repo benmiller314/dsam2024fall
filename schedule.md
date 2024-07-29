@@ -26,23 +26,34 @@ Follow the links to individual class days for more information, including class 
 
 Week | Date | Lesson Title
 --- | --- | ---
-1 | Mon, Aug 28 | [Digital affordances](#week-01)
-2 | Mon, Sep 04 | [no class: Labor Day (getting ready)](#week-02)
-3 | Mon, Sep 11 | [Programming as literacy, as exploration](#week-03)
-4 | Mon, Sep 18 | [Critical code studies](#week-04)
-5 | Mon, Sep 25 | [no class: Yom Kippur (reflection and planning)](#week-05)
-6 | Mon, Oct 02 | [Presentations 1](#week-06)
-7 | Mon, Oct 09 | [Data 1: By whom? For what?](#week-07)
-8 | Mon, Oct 16 | [Data 2: Exploration and slicing](#week-08)
-9 | Mon, Oct 23 | [Data 3: Analysis and visualization](#week-09)
-10 | Mon, Oct 30 | [Presentations 2](#week-10)
-11 | Mon, Nov 06 | [People's choice 1](#week-11)
-12 | Mon, Nov 13 | [People's choice 2](#week-12)
-13 | Mon, Nov 20 | no class: Thanksgiving Break (digesting)
-14 | Mon, Nov 27 | [People's choice 3](#week-14)
-15 | Mon, Dec 04 | [Presentations 3](#week-15)
-16 | Mon, Dec 11 | [Overflow day, iff needed](#week-16)
+1 | Mon, Aug 26 | [Digital + Studies](#week-01)
+2 | Mon, Sep 02 | [**No class: Labor Day** (Getting ready)](#week-02)
+3 | Mon, Sep 09 | [GitHub, versioning, circulation](#week-03) <!-- goal: by end of class, be able to (a) make your own public repo; (b) work with a PittFuego template to make a simple public-facing website (and, thus, understand comments); (c) speak to the interface affordances of a website-building tool like WordPress or Wix -->
+4 | Mon, Sep 16 | [Data 1: By whom? For what?](#week-04)
+5 | Mon, Sep 23 | [Iteration 1: Objects](#week-05) <!-- What objects could you explore? What questions do you have? + PowerPoint Fu and other presentational modes -->
+6 | Mon, Sep 30 | [Code 1: What is it? Why does it matter?](#week-06) <!-- Rosh Hashanah starts Wednesday night; keep homework minimal. installation, mostly. -->
+7 | Mon, Oct 07 | [AI 1: machines learning to classify and predict](#week-07) <!-- Yom Kippur starts Friday night -->
+8 | Mon, Oct 14 | [**No class: Fall Break** (Reflection and planning)](#week-08) <!-- Sukkot begins Wed night. -->
+9 | Mon, Oct 21 | [Iteration 2: Processed](#week-09) <!-- Descriptive metadata. Exhibits. Hoshanna Rabba begins Wed night 10/23. Monitored withdrawal by Friday 10/25 -->
+10 | Mon, Oct 28 | [Digital accessibility](#week-10) <!-- Structured content and navigability. Font sizes and color. Alternative presentations. Spring enrollment begins. -->
+11 | Mon, Nov 04 | [People's choice 1](#week-11) <!-- "family weekend" Friday 11/8 – Sun 11/10-->
+12 | Mon, Nov 11 | [People's choice 2](#week-12)
+13 | Mon, Nov 18 | [Iteration 3: And...?](#week-13) <!-- making an argument -->
+14 | Mon, Nov 25 | [**No class: Thanksgiving Break** (Digesting)](#week-14)
+15 | Mon, Dec 02 | [People's choice 3](#week-15)
+16 | Mon, Dec 09 | [Iteration 4: Presented](#week-16) <!-- facing the public -->
 {: .table .table-sm}
+
+<!-- Fall grades due 11:59pm on Thurs 12/19 -->
+
+<h3 id="choices">Options for People's Choice weeks include...</h3>
+* Data 3: Analysis and visualization
+* Topic modeling and distant reading
+* Generative AI and Large Language Models
+* Critical code studies
+* Programming as an exploratory, epistemic process
+* The physicality of the digital <!-- find and add a reading on environmental impact of GenAI -->
+* Processing text / images: regular expressions / command-line macros
 
 
 
