@@ -27,12 +27,12 @@ Follow the links to individual class days for more information, including class 
 Week | Date | Lesson Title
 --- | --- | ---
 1 | Mon, Aug 26 | [Digital + Studies](#week-01)
-2 | Mon, Sep 02 | [**No class: Labor Day** (Getting ready)](#week-02)
+2 | Mon, Sep 02 | [**No class: Labor Day** (Setting up and setting out)](#week-02)
 3 | Mon, Sep 09 | [GitHub, versioning, circulation](#week-03) <!-- goal: by end of class, be able to (a) make your own public repo; (b) work with a PittFuego template to make a simple public-facing website (and, thus, understand comments); (c) speak to the interface affordances of a website-building tool like WordPress or Wix -->
-4 | Mon, Sep 16 | [Data 1: By whom? For what?](#week-04)
+4 | Mon, Sep 16 | [Data: By whom? For what?](#week-04)
 5 | Mon, Sep 23 | [Iteration 1: Objects](#week-05) <!-- What objects could you explore? What questions do you have? + PowerPoint Fu and other presentational modes -->
-6 | Mon, Sep 30 | [Code 1: What is it? Why does it matter?](#week-06) <!-- Rosh Hashanah starts Wednesday night; keep homework minimal. installation, mostly. -->
-7 | Mon, Oct 07 | [AI 1: machines learning to classify and predict](#week-07) <!-- Yom Kippur starts Friday night -->
+6 | Mon, Sep 30 | [Code: What is it? Why does it matter?](#week-06) <!-- Rosh Hashanah starts Wednesday night; keep homework minimal. installation, mostly. -->
+7 | Mon, Oct 07 | [AI: Machines learning to classify and predict](#week-07) <!-- Yom Kippur starts Friday night -->
 8 | Mon, Oct 14 | [**No class: Fall Break** (Reflection and planning)](#week-08) <!-- Sukkot begins Wed night. -->
 9 | Mon, Oct 21 | [Iteration 2: Processed](#week-09) <!-- Descriptive metadata. Exhibits. Hoshanna Rabba begins Wed night 10/23. Monitored withdrawal by Friday 10/25 -->
 10 | Mon, Oct 28 | [Digital accessibility](#week-10) <!-- Structured content and navigability. Font sizes and color. Alternative presentations. Spring enrollment begins. -->
@@ -47,35 +47,41 @@ Week | Date | Lesson Title
 <!-- Fall grades due 11:59pm on Thurs 12/19 -->
 
 <h3 id="choices">Options for People's Choice weeks include...</h3>
-* Data 3: Analysis and visualization
-* Topic modeling and distant reading
-* Generative AI and Large Language Models
+* Batch editing: regular expressions and pixel manipulation
 * Critical code studies
+* Data access and metadata standards
+* Data exploration and transformation
+* Data visualization
 * Programming as an exploratory, epistemic process
+* Teaching and generative models
 * The physicality of the digital <!-- find and add a reading on environmental impact of GenAI -->
-* Processing text / images: regular expressions / command-line macros
+* Topic modeling and distant reading
 
 
 
-<h3 id="week-01"><a href='plans/week-01'>Week 1: Mon, Aug 28</a> – Digital affordances</h3>
 
-By Friday, **watch**:
+
+<h3 id="week-01"><a href='plans/week-01'>Week 1: Mon, Aug 26</a> – Digital + Studies</h3>
+<a id="current"></a>
+
+**Schedule a meeting with Ben** for some time next week (that isn't Monday) to talk about possible objects for you to process and present on. See the [office hours](office) page for how to claim a slot or request an alternative if the usual slots won't work for you.
+
+Before that meeting, ideally by this Friday, **watch**:
 * Posner, Miriam. “How Did They Make That? The Video!” Miriam Posner's Blog, April 17, 2014. <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/">http://miriamposner.com/blog/how-did-they-make-that-the-video/</a>.
 
 and **read**:
 
 * Posner, Miriam. How Did They Make That? 29 Aug. 2013, <a href="https://miriamposner.com/blog/how-did-they-make-that/">https://miriamposner.com/blog/how-did-they-make-that/</a>.
-
 * Risam, Roopika, and Alex Gil. “Introduction: The Questions of Minimal Computing.” Digital Humanities Quarterly, vol. 16, no. 2, 2022, <a href="http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html">http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html</a>.
 * EXT for eager readers:
     - Murray, Janet H. “Affordances of the Digital Medium.” <em>Inventing the Medium: Principles of Interaction Design as a Cultural Practice</em>, The MIT Press, 2011, pp. 51–85. <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66">https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66</a>.
     - N Katherine Hayles. “PRINT IS FLAT, CODE IS DEEP: The Importance of Media-Specific Analysis.” _Transmedia Frictions_, edited by Tara McPherson and Marsha Kinder, 1st ed., University of California Press, 2014, pp. 20–33. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.1525/j.ctt6wqc2f.6">https://doi.org/10.1525/j.ctt6wqc2f.6</a>.
 
-**Schedule** a meeting with Ben for some time next week (that isn't Monday); see the [office hours](office) page for how to claim a slot or request an alternative if the usual slots won't work for you.
+<h3 id="week-02"><a href="plans/week-02">Week 2: Mon, Sep 02</a> – Setting Up and Setting Out – **No class: Labor Day**</h3>
 
-<h3 id="week-02"><a href="plans/week-02">Week 2: Mon, Sep 04</a> – (getting ready)</h3>
+Meet Ben in [office hours](office) some time this week. Take notes in your [Mindful Practice Journal](projects.md).
 
-**No class: Labor Day**
+To prepare for week 3:
 
 Meet Ben in [office hours](office) some time this week.
 
@@ -90,7 +96,7 @@ By Friday, **read**...
     - D’Ignazio, Catherine, and Lauren F. Klein. “Chapter Seven: Show Your Work.” _Data Feminism_, MIT Press, 2020, pp. 97–124. mitpressonpubpub.mitpress.mit.edu, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
 
 
-<h3 id="week-03"><a href='plans/week-03'>Week 3: Mon, Sep 11</a> – Programming as literacy, as exploration</h3>
+<h3 id="week-03"><a href='plans/week-03'>Week 3: Mon, Sep 09</a> – GitHub, versioning, circulation</h3>
 
 By Friday, **read**...
 
@@ -102,20 +108,23 @@ By Friday, **read**...
     - Vee, Annette. “Introduction: Computer Programming as Literacy.” _Coding Literacy_, MIT Press, 2017. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.7551/mitpress/10655.003.0003">https://doi.org/10.7551/mitpress/10655.003.0003</a>.
 
 
-<h3 id="week-04"><a href='plans/week-04'>Week 4: Mon, Sep 18</a> – Critical code studies</h3>
+<h3 id="week-04"><a href='plans/week-04'>Week 4: Mon, Sep 16</a> – Data: By whom? For what?</h3>
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
 By the time we get back in Week 6, [**prepare a presentation**](projects#presentations-and-peer-review) on your independent project: what are you looking at? what questions do you have about that? what are your next steps?
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
-<h3 id="week-05">Week 5: Mon, Sep 25 – Reflection and planning</h3>
+<h3 id="week-05">Week 5: Mon, Sep 23 – Project presentations, iteration 1: Objects</h3>
+
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
 **No class this week: Yom Kippur.**
 
 By Sunday, **pre-record** a 5-minute presentation to show in class, and be ready to discuss! NB: _bring your own dongle_, if you need one.
 
 
-<h3 id="week-06"><a href='plans/week-06'>Week 6: Mon, Oct 02</a> – Presentations (iteration 1)</h3>
+<h3 id="week-06"><a href='plans/week-06'>Week 6: Mon, Sep 30</a> – Code: What is it? Why does it matter?</h3>
 
 By Friday, **read**...
 
@@ -133,8 +142,9 @@ EXT for eager readers:
     - “3: Why Are Programmers So Intense About Languages?”
 * Birnbaum, David J. "What is XML and why should humanists care? An even gentler introduction to XML." [http://dh.obdurodon.org/what-is-xml.xhtml](http://dh.obdurodon.org/what-is-xml.xhtml). Originally from 2011; updated as of 31 December 2021.
 
+<h3 id="week-07"><a href='plans/week-07'>Week 7: Mon, Oct 07</a> – AI: Machines learning to classify and predict</h3>
 
-<h3 id="week-07"><a href='plans/week-07'>Week 7: Mon, Oct 09</a> – Data 1: By whom? For what?</h3>
+By Friday, look through the options for the three upcoming People's Choice weeks, and [register your preferences]().
 
 By Friday, **read**...
 
@@ -144,100 +154,68 @@ By Friday, **read**...
 * Gradek, Bob, and Liz Monk. "Dataset Summaries: Pivot Tables", 2022. vimeo.com, <a href="https://vimeo.com/703773939">https://vimeo.com/703773939</a>.
 
 
-<h3 id="week-08"><a href='plans/week-08'>Week 8: Mon, Oct 16</a> – Data 2: Exploration and slicing</h3>
-
-By Friday, **read**...
+<h3 id="week-08"><a href='plans/week-08'>Week 8: Mon, Oct 14</a> – <strong>No class: Fall Break</strong> (reflection and planning)</h3>
 
 * Cairo, Alberto. “5: Basic Principles of Visualization.” The Truthful Art: Data, Charts, and Maps for Communication, New Riders, 2016. learning.oreilly.com, <a href="https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html">https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html</a>.
 * Cairo, Alberto. “6: Exploring Data with Simple Charts.” The Truthful Art: Data, Charts, and Maps for Communication, New Riders, 2016. learning.oreilly.com, <a href="https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch06.html">https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch06.html</a>.
 * D’Ignazio, Catherine, and Lauren F. Klein. "6: The Numbers Don't Speak for Themselves." _Data Feminism_. MIT Press, 2020. ProQuest Ebook Central, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
 * NEW: Arnold, Taylor, and Lauren Tilton. “New Data? The Role of Statistics in DH.” _Debates in the Digital Humanities_ 2019, Univ of Minnesota Press, 2019, <a href="https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24">https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24</a>.
 
+By Sunday, prepare an updated presentation to class, now with a stronger sense of your argument and evidence, even if they're still works in progress. **Pre-record 5 minutes** to show in class, and be ready to discuss! 
 
-<h3 id="week-09"><a href='plans/week-09'>Week 9: Mon, Oct 23</a> – Data 3: Analysis and visualization</h3>
+[**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to answer these questions: 
 
-By Sunday, prepare an updated presentation to class, now with a stronger sense of your argument and evidence, even if they're still works in progress. **Pre-record 5 minutes** to show in class, and be ready to discuss! NB: _bring your own dongle_, if you need one.
+* 
+* 
+* 
+* 
 
 Optionally, I also recommend that you **read**:
 
 * Ford, Paul, _What is Code?_ section 6.2: "What is debugging?" <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code">https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code</a>.
 
-
-<h3 id="week-10"><a href='plans/week-10'>Week 10: Mon, Oct 30</a> – Presentations (iteration 2)</h3>
-
-By Friday, **read**...
-<ul>
-    <li>Jaffe, Rachel. "Library Guide: Metadata Creation." UC Santa Cruz University Library. <a href="https://guides.library.ucsc.edu/c.php?g=618773">https://guides.library.ucsc.edu/c.php?g=618773</a>. (Don't miss the five sections; I searched long and hard for a good intro to Dublin Core, and this is one of the most straightforward I found.)</li>
-    <li>Gilliland, Anne J. "Setting the Stage." <em>Introduction to Metadata.</em> Edited by Murtha Baca, Getty Research Institute, Los Angeles, 2016, <a href="http://www.getty.edu/publications/intrometadata">http://www.getty.edu/publications/intrometadata</a>.</li>
-    <li>Using Dublin Core. 26 May 2005, <a href="https://www.dublincore.org/specifications/dublin-core/usageguide/2005-08-15/elements/">https://www.dublincore.org/specifications/dublin-core/usageguide/2005-08-15/elements/</a>. What the DublinCore team thinks is a simple introduction.</li>
-    <li>Jessop, Martyn. “Metadata Creation for Digital Humanities Projects.” Archiving Conference, vol. 3, no. 1, Jan. 2006, pp. 84–87. DOI.org (Crossref), <a href="https://doi.org/10.2352/issn.2168-3204.2006.3.1.art00020">https://doi.org/10.2352/issn.2168-3204.2006.3.1.art00020</a>.</li>
-    <li><a href="https://scalar.usc.edu/works/intro-to-dh-hs3393/media/seeingstandards_glossary_poster.pdf">Glossary of metadata standards</a>: a giant poster created and shared by Jenn Riley under a <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/us/">CC-BY-NC-SA license</a>.</li>
-    <li>EXT for eager readers:
-        <ul><li>Eide, Øyvind, and Christian-Emil Smith Ore. “Ontologies and Data Modeling.” <em>The Shape of Data in the Digital Humanities: Modeling Texts and Text-Based Resources</em>, edited by Julia Flanders and Fotis Jannidis, 1st ed., Routledge, 2018, pp. 178–96. DOI.org (Crossref), <a href="https://doi.org/10.4324/9781315552941">https://doi.org/10.4324/9781315552941</a>.</li></ul>
-    </li>
-</ul>
+NB: _bring your own dongle_, if you need one.
 
 
-<!--One possible cluster might be on ways the digital is still physical. That could include...*
+<h3 id="week-09"><a href='plans/week-09'>Week 9: Mon, Oct 21</a> – Project presentations, iteration 2: Processed</h3>
 
-* Ford, Paul, "What is Code?" section 2: Let's Begin. <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begi">https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begi</a>.
-* Crawford, Kate, and Vladan Joler. “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources.” AI Now Institute and Share Lab, 7 Sept. 2018, <a href="https://www.anatomyof.ai">https://www.anatomyof.ai</a>.
-* Gries, Laurie, Jenny Bay, Derek Mueller, and Nathaniel Rivers. “New Materialisms, Networks, and Humanities Research.” _Networked Humanities: Within and without the University_, edited by Jeff Rice and Brian McNely, Parlor Press, 2018, pp. 85–102.
 
-*Another way forward might be to go deeper into programming as an exploratory, epistemic process. That could include...*
 
-* Montfort, Nick. _Exploratory Programming for the Arts and Humanities, 2nd edition_. MIT Press: 2021.
-    * "Appendix A: Why Program?"
-    * "6: Programming Fundamentals"
-    * "10: Image I: Pixel by Pixel"
-* Miller, Benjamin. “Chapter 17: The Pleasurable Difficulty of Programming.” _Methods and Methodologies for Research in Digital Writing and Rhetoric Centering Positionality in Computers and Writing Scholarship_, Volume 2, edited by Victor Del Hierro and Crystal VanKooten, The WAC Clearinghouse; University Press of Colorado, 2022, pp. 159–83. DOI.org (Crossref), <a href="https://doi.org/10.37514/PRA-B.2022.1664.2.17">https://doi.org/10.37514/PRA-B.2022.1664.2.17</a>.
--->
 
-<h3 id="week-11"><a href='plans/week-11'>Week 11: Mon, Nov 06</a> – People's choice 1: Metadata and digital ontologies</h3>
+<h3 id="week-10"><a href='plans/week-10'>Week 10: Mon, Oct 28</a> – Digital accessibility</h3>
 
 By Friday, **read**...
 
-<ul>
-    <li>Ford, Paul, “What is Code?” section 2: Let’s Begin. <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin">https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#lets-begin</a>.</li>
-    <li>Crawford, Kate, and Vladan Joler. “Anatomy of an AI System: The Amazon Echo As An Anatomical Map of Human Labor, Data and Planetary Resources.” AI Now Institute and Share Lab, 7 Sept. 2018, <a href="https://www.anatomyof.ai">https://www.anatomyof.ai</a>.</li>
-    <li>Gries, Laurie, Jenny Bay, Derek Mueller, and Nathaniel Rivers. “New Materialisms, Networks, and Humanities Research.” <em>Networked Humanities: Within and without the University</em>, edited by Jeff Rice and Brian McNely, Parlor Press, 2018, pp. 85–102. (I have a scan of this one, which is <a href="https://canvas.pitt.edu/courses/220016/files?preview=14626125">now posted to Canvas</a> – remember Canvas?)</li>
-</ul>
-<!-- One possible cluster might be on topic modeling and distant reading. That could include...*
 
-* Underwood, Ted. “Topic Modeling Made Just Simple Enough.” The Stone and the Shell, 7 Apr. 2012, <a href="http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/">http://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/</a>.
-* Meeks, Elijah, and Scott B Weingart. “The Digital Humanities Contribution to Topic Modeling.” _Journal of Digital Humanities_, vol. 2, no. 1, Apr. 2013, <a href="http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/">http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/</a>.
-* More from that issue of _Journal of Digital Humanities_
-* Cottom, Tressie McMillan. “47: More Scale, More Questions: Observations from Sociology.” Debates in the Digital Humanities 2016, University of Minnesota Press, 2016, <a href="https://dhdebates.gc.cuny.edu/read/untitled/section/55e48b34-543a-41f7-97c9-8c8643bf8844#ch47">https://dhdebates.gc.cuny.edu/read/untitled/section/55e48b34-543a-41f7-97c9-8c8643bf8844#ch47</a>.
-* EXT for eager readers:
-    - Underwood, Ted. “A Genealogy of Distant Reading.” _Digital Humanities Quarterly_, vol. 11, no. 2, 2017. <a href="http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html">http://www.digitalhumanities.org/dhq/vol/11/2/000317/000317.html</a>.
-    - Guldi, Jo. “Critical Search: A Procedure for Guided Reading in Large-Scale Textual Corpora.” _Journal of Cultural Analytics_, Dec. 2018. <a href="https://culturalanalytics.org/article/11028">https://culturalanalytics.org/article/11028</a>
--->
+<h3 id="week-11"><a href='plans/week-11'>Week 11: Mon, Nov 04</a> – People's choice 1</h3>
+
+By Friday, **read**...
 
 
-<h3 id="week-12"><a href='plans/week-12'>Week 12: Mon, Nov 13</a> – People's choice 2: the physicality of the digital</h3>
 
-By the time we get back from break, please **read**...
 
-<ul>
-    <li>Onuoha, Mimi and Mother Cyborg (Diana Nucera). “A People’s Guide To Tech: Artificial Intelligence.” Allied Media Projects, Aug. 2018, <a href="https://alliedmedia.org/resources/peoples-guide-to-ai">https://alliedmedia.org/resources/peoples-guide-to-ai</a>.</li>
-    <li>Crawford, Kate, and Trevor Paglen. “Excavating AI: The Politics of Training Sets for Machine Learning.” 19 Sept. 2019, <a href="https://excavating.ai">https://excavating.ai</a>.</li>
-    <li>Vee, Annette. “Large Language Models Write Answers.” <em>Composition Studies</em>, vol. 51, no. 1, Spring 2023, pp. 176–81. <a href="https://compositionstudiesjournal.files.wordpress.com/2023/06/vee.pdf">https://compositionstudiesjournal.files.wordpress.com/2023/06/vee.pdf</a></li>
-    <li>Your choice of 2-3 more items from the “Where we are now” section of the same <a href="https://compstudiesjournal.com/current-issue-spring-2023-51-1/#:~:text=where%20we%20are"><em>Composition Studies</em> issue</a> (i.e. the surrounding context for Annette's piece)</li>
-    <li>Laquintano, Tim, Carly Schnitzler and Annette Vee (2023). "Introduction to teaching with text generation technologies." In A. Vee, T. Laquintano, & C. Schnitzler (Eds.), <em>TextGenEd: Teaching with Text Generation Technologies</em>. The WAC Clearinghouse. <a href="https://doi.org/10.37514/TWR-J.2023.1.1.02">https://doi.org/10.37514/TWR-J.2023.1.1.02</a></li>
-    <li>Your choice of 2-3 assignments from the TextGenEd collection. (Multiple Pitt PhD students and faculty, past or present, are included!)</li>
-</ul>
+<h3 id="week-12"><a href='plans/week-12'>Week 12: Mon, Nov 11</a> – People's choice 2</h3>
 
-<h3 id="week-13"><a href='plans/week-13'>Week 13: Mon, Nov 20</a> – no class: Thanksgiving Break (digesting)</h3>
+<h3 id="week-13"><a href='plans/week-13'>Week 14: Mon, Nov 18</a> – Project presentations, iteration 3: And...?</h3>
 
-<h3 id="week-14"><a href='plans/week-14'>Week 14: Mon, Nov 27</a> – People's choice 3: Artificial Intelligence and Large Language Models</h3>
-By Sunday, prepare your final presentation to class. Pre-record 10 minutes, and be ready to discuss!
+[**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to answer these questions: 
 
-<a id="current"></a>
-<h3 id="week-15"><a href='plans/week-15'>Week 15: Mon, Dec 04</a> – Presentations (iteration 3)</h3>
+* 
+* 
+* 
+* 
+
+
+<h3 id="week-14"><a href='plans/week-14'>Week 14: Mon, Nov 25</a> – no class: Thanksgiving Break (digesting)</h3>
+
+
+
+
+<h3 id="week-15"><a href='plans/week-15'>Week 15: Mon, Dec 02</a> – People's choice 3</h3>
 
 Work toward your final reflections. If we collectively agree that we need another studio day, we'll use week 16; otherwise, the final portfolio (reflection plus last iteration on your palimpsest) is due Wednesday, December 13 at 2pm.
 
-<h3 id="week-16">Week 16: Mon, Dec 11 – Overflow day, iff needed</h3>
+<h3 id="week-16"><a href='plans/week-16'>Week 16: Mon, Dec 09</a> – Project presentations, iteration 4: Presented</h3>
 
 Enjoy the break!
 
