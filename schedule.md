@@ -149,9 +149,9 @@ In preparation for week 6, please **read**:
     - [Section 6.5](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#and-now-for-something-beautiful): "And Now for Something Beautiful."
 * Vee, Annette. “Introduction: Computer Programming as Literacy.” <em>Coding Literacy</em>, MIT Press, 2017, pp. 1–42, <a href="https://doi.org/10.7551/mitpress/10655.003.0003">https://doi.org/10.7551/mitpress/10655.003.0003</a>.
 * Miller, Benjamin. “Chapter 17: The Pleasurable Difficulty of Programming.” <em>Methods and Methodologies for Research in Digital Writing and Rhetoric: Centering Positionality in Computers and Writing Scholarship</em>, Volume 2, edited by Victor Del Hierro and Crystal VanKooten, The WAC Clearinghouse; University Press of Colorado, 2022, pp. 159–83. <a href="https://doi.org/10.37514/PRA-B.2022.1664.2.17">https://doi.org/10.37514/PRA-B.2022.1664.2.17</a>.
-* Montfort, Nick. “1: Introduction.” <em>Exploratory Programming for the Arts and Humanities</em>, 2nd ed., The MIT Press, 2021, pp. 1–22, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/1">https://mitpress.ublish.com/ebook/epah2e-preview/12629/1</a>.
+* Montfort, Nick. "Appendix A: Why Program?" <em>Exploratory Programming for the Arts and Humanities</em>, 2nd ed., The MIT Press, 2021, pp. 319–330, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/1">https://mitpress.ublish.com/ebook/epah2e-preview/12629/1</a>.
 * EXT for eager readers:
-    - Montfort, Nick. "Appendix A: Why Program?" <em>Exploratory Programming for the Arts and Humanities</em>, 2nd ed., The MIT Press, 2021, pp. 319–330, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/1">https://mitpress.ublish.com/ebook/epah2e-preview/12629/1</a>.
+    - Montfort, Nick, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C Marino, Michael Mateas, Casey Reas, Mark Sample, and Noah Vawter. “10: Introduction.” _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_, The MIT Press, 2012, pp. 1–17. direct.mit.edu, <a href="https://doi.org/10.7551/mitpress/9040.001.0001">https://doi.org/10.7551/mitpress/9040.001.0001</a>.
     
 
 <h3 id="week-06"><a href='plans/week-06'>Week 6: Mon, Sep 30</a> – Code: What is it? Why does it matter?</h3>
