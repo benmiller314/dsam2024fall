@@ -34,7 +34,7 @@
 
 * I invite you to make yourself a little name-plate on a tri-folded piece of paper – or adjust the way your name displays in Zoom. For example, I want you to know that you can call me Ben, and that I use he/him pronouns. How would you like us to address you?
 
-* For a little more getting to know you, please fill out [this first day info sheet](https://forms.gle/Nqc7KLeP5CMBVhBi8) via Google Forms. If you can't get to it now, then at your earliest convenience. And if you have a device but not this page, you can get here by loading [https://benmiller314.github.io/dsam2024fall](https://benmiller314.github.io/dsam2024fall), clicking Schedule, and scrolling down to click on Week 1. (Or use the "current lesson" shortcut link at the top.)
+* For a little more getting to know you, please fill out [this first day info sheet](https://forms.gle/o4mCg2iKCmr26F7X7) via Google Forms. If you can't get to it now, then at your earliest convenience. And if you have a device but not this page, you can get here by loading [benmiller314.github.io/dsam2024fall](https://benmiller314.github.io/dsam2024fall), clicking Schedule, and scrolling down to click on Week 1. (Or use the "current lesson" shortcut link at the top.)
 
 * Last pre-class note: I want this class to welcome everyone. While I have not received word from anyone about challenges to hearing or vision, that doesn't mean the challenges don't exist. If you would prefer that I speak up, slow down, or zoom in, or if there's any other class feature that's impeding your success, please do let me know!
 
@@ -75,15 +75,16 @@ Janet H. Murray, author of _Hamlet on the Holodeck_ and _Inventing the Medium_, 
 
 > Everything made of electronic bits is potentially:
 >
-> * procedural (composed of executable rules)
-> * participatory (inviting human action and manipulation of the represented world)
-> * encyclopedic (containing very high capacity of information in multiple media formats)
-> * spatial (navigable as an information repository and/or a virtual place)
+> * **procedural** (composed of executable rules)
+> * **participatory** (inviting human action and manipulation of the represented world)
+> * **encyclopedic** (containing very high capacity of information in multiple media formats)
+> * **spatial** (navigable as an information repository and/or a virtual place)
 
 (To read more, see Murray, Janet H. “Affordances of the Digital Medium.” _Inventing the Medium: Principles of Interaction Design as a Cultural Practice_, The MIT Press, 2011, pp. 51–85. Pitt libraries [has a digital copy](https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66).)
 
 <div class="alert alert-success">
-When you look back at your notes from the start of class, how well do Murray's descriptions line up? What do these affordances help you see about the digital examples you'd chosen... or vice versa?
+<p>Take a look back at your notes from the start of class.</p>
+<ul><li>What do these affordances help you see about the digital examples you'd chosen?</li> <li>What to your examples help you understand about how Murray defines these affordances?</li> <li>How well do Murray's descriptions line up with your own expectations of what's entailed by being "digital"?</li></ul>
 </div>
 
 Again, let's try to use the [shared notes doc](https://bit.ly/dsam2024fall-notes) if possible.
@@ -91,11 +92,11 @@ Again, let's try to use the [shared notes doc](https://bit.ly/dsam2024fall-notes
 <details><summary>EXT: another framework</summary>
 <p>Lev Manovich, in <em>The Language of New Media</em>, proposes five "principles of new media," or essential features that shape how digital media behave:</p>
 <ul>
-    <li>numerical representation: new media objects can be described or manipulated mathematically</li>
-    <li>modularity: new media objects are composed of independent elements that can separated or acted on independently</li>
-    <li>automation: actions on new media objects can be performed by other new media objects, seemingly without direct human action, allowing humans to "collaborate with the machine"</li>
-    <li>variability: new media objects have no fixed form, but maintain their identity through changing representations</li>
-    <li>transcoding: we understand culture through the lens of computers, and computers through the lens of culture</li>
+    <li><strong>numerical representation:</strong> new media objects can be described or manipulated mathematically</li>
+    <li><strong>modularity:</strong> new media objects are composed of independent elements that can separated or acted on independently</li>
+    <li><strong>automation:</strong> actions on new media objects can be performed by other new media objects, seemingly without direct human action, allowing humans to "collaborate with the machine"</li>
+    <li><strong>variability:</strong> new media objects have no fixed form, but maintain their identity through changing representations</li>
+    <li><strong>transcoding:</strong> we understand culture through the lens of computers, and computers through the lens of culture</li>
 </ul>
 
 <div class="alert alert-success">Where do these new terms map neatly onto Murray's, and where do they highlight something else? What affordances follow from these principle features? What questions do they raise?
@@ -113,7 +114,7 @@ You can download it from the website in [.docx](/{{site.course.base_path}}upload
 ## 3. A letter back to Ben.
 I'll try to leave a little time at the end of class to add on, too, but let's take until about 10:30 to start an informal response.
 
-Please do this **on the last page of that same survey from the start of class**, which you should still have open. If you've misread the instructions and already turned it in, email's a good fallback option: I'm at millerb@pitt.edu.
+Please do this **on the last page of that same [survey from the start of class](https://forms.gle/o4mCg2iKCmr26F7X7)**, which you should still have open. If you've misread the instructions and already turned it in, email's a good fallback option: I'm at millerb@pitt.edu.
 
 Some considerations you might address include:
 
