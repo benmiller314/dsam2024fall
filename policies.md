@@ -18,7 +18,7 @@ If you have a disability for which you are or may be requesting an accommodation
 
 I also ask that everyone in the class strive to help ensure that everyone can learn in a supportive and respectful environment, including [gender-inclusive language](https://www.gsws.pitt.edu/resources/faculty-resources/gender-inclusivenon-sexist-language-statement-syllabi).
 
-For my part, I will work to ensure multiple ways of accessing class materials, including written lesson plans in screen-reader compliant html, alternative text for images, and transcriptions for recorded videos. Because proofreading the latter is particularly time-consuming, I ask that you please [let me know](mailto:millerb@pitt.edu) if you will be relying on transcriptions.
+For my part, I will work to ensure multiple ways of accessing class materials, including written lesson plans in screen-reader compliant html, alternative text for images, and transcriptions for recorded videos. Because proofreading the latter can be particularly time-consuming, I ask that you please [let me know](mailto:millerb@pitt.edu) early in the semester if you will be relying on transcriptions primarily.
 
 While we're on the subject of email, I am obligated to include the standard statement on using your University-issued email address:
 <details><summary>Click to expand.</summary>
@@ -31,7 +31,9 @@ While we're on the subject of email, I am obligated to include the standard stat
 ## Avoiding Plagiarism
 
 This is a collaborative class, in which we offer each other suggestions and constructive criticism. However, the goal of all this collaboration is to clarify the expression of original ideas – never to substitute someone else's ideas for our own, or to impose our ideas on someone else.
+
 To misrepresent the origins of an idea is plagiarism, and it is a problem both for your own learning and for the well-being of the community, which depends on mutual trust.
+
 If you want to incorporate materials that others have created, you can do so if you give credit to your source. At a minimum, readers of your work should be able to get back to the original, so be sure to provide at least the author's identity; the original title; the publication venue; the date of publication and/or access; and a URL if appropriate. The English department has some useful resources at <a href="https://www.english.pitt.edu/undergraduate/plagiarism">www.english.pitt.edu/undergraduate/plagiarism</a>.
 
 (And if you want to collaborate with an AI, there are ways to do so without sacrificing your learning. [See below](#artificial-intelligence) for starters, but let’s talk!)
@@ -79,27 +81,35 @@ _Much of the language below is adapted from Alison Langmead's 2022 fall syllabus
 
 As composition theorist Peter Elbow has written in a number of places (see especially his [“Ranking, Evaluating, and Liking”](https://www.jstor.org/stable/378503 "Elbow, Peter. “Ranking, Evaluating, and Liking: Sorting out Three Forms of Judgment.” College English, vol. 55, no. 2, Feb. 1993, pp. 187–206.")), grades are a surprisingly crude way of measuring or producing learning: they reduce complex phenomena to a single letter or number, and thus obscure the differences between, say, public speaking skills and ability to support an argument. Some teachers might try to get around this by assigning percentages of their grades to particular skill-sets, but I find I can’t know, in advance, what any one of you will need to work on: I want us to be free to give more targeted feedback, and set more targeted goals, than any pre-set percentage allows us to do. As I see it, each of you is here to do more than you could before, not be better than anyone else. Grades distract from that, and distract from the particular reactions and suggestions that can help you improve and grow.
 
-Assessment, though, is different from grading. Throughout the semester, you will be assessing your own work, through your [Mindful Practice Journals](projects#mindful-practice-journal) and reflections; you will be offering feedback to each other at presentation time and in conversation; and I will be offering my own formative guidance, based on years in the profession, as you iteratively develop your projects. You will not be lacking in moments of evaluation, even as you will not have specific grades ranking your success on any given project against some putative norm.
+Assessment, though, is more than grading. Throughout the semester, you will be assessing your own work, through your [Mindful Practice Journals](projects#mindful-practice-journal) and reflections on what you were aiming for and what you achieved; you will be offering feedback to each other at presentation time and in conversation; and I will be offering my own formative guidance, based on years in the profession, as you iteratively develop your projects. In short, you will have plentiful moments of evaluation, even as you will not have specific grades ranking your success on any particular assignment against some putative norm.
 
-Nevertheless, at the end of the term, I will be required to submit letter grades to the Registrar. So, **at the end of term, I will ask _you_ to select the grade that you will receive in this seminar.** While I am required to reserve the right to change these grades as appropriate, I will not do so.
+Nevertheless, at the end of the term, I will be required to submit letter grades to the Registrar. Instead of a fixed rubric or calculation, these **final grades will be based on your own self-assessment**: to the extent you can point to evidence of _course engagement and learning_, you can succeed in this class, regardless of where your project stands in the grand scheme of projects. 
 
-I am more than happy to talk through what it means to produce a self-assessment with each of you individually or together as a group, but given that this request is not (yet) widespread in academia, I also feel that it is important to offer some written guidance on this process for you here so that you can refer to it on your own time.
+<!-- Check Data and Discipline syllabus: any language there you can use? What about Seminar in Pedagogy? -->
+<!-- **at the end of term, I will ask _you_ to select the grade that you will receive in this seminar.** While I am required to reserve the right to change these grades as appropriate, I will not do so – unless I believe you are judging yourself too harshly. -->
 
-I have requested specific types of course engagement and deliverables from you. These have all carefully been designed to guide you through the process of learning what it means to use digital computers mindfully in the context of the humanities and allied social sciences. In a way, my work requests aspire to be tools for learning in and of themselves, and can serve as signposts of worthwhile engagement. I have offered some metacognitive questions below to help you think through how the work of this course forms a coherent pedagogical point of view and structures for you to inhabit.
+I am more than happy to talk through what it means to produce this kind of self-assessment, with each of you individually or together as a group, but at the heart of it is **a reflection that looks both forward (what do I want to achieve?) and backward (what have I achieved?), recursively.**
 
-You can be confident that you are successfully working through this seminar by:
+One set of goals can come from me, in that I have requested specific types of course engagement and deliverables from you. These have all been chosen to guide you through a process of learning what it means to use digital computers mindfully in the context of the humanities and allied social sciences. In a way, my work-requests aspire to be tools for learning in and of themselves, and can serve as signposts of worthwhile engagement. I have offered some metacognitive questions below to help you think through how the work of this course forms a coherent pedagogical point of view and structures for you to inhabit.
 
-* Completing the iterations as described in the course plan, and on the schedule recommended.
-    - Example questions you might ask yourself about this task: _Why is completion important? Why is the schedule important? Why can I not be "answering my question" and still succeeding in the context of this seminar?_
-* Offering cogent and professional presentations that stay within the requested time limit.
-    - Example questions you might ask yourself about this task: _Why is professionalism important? Why is the time limit important?_
-* Offering a content-rich, web-based palimpsest that you are proud to share with others.
-    - Example questions you might ask yourself about this task: _Why pride? Why do we share our findings publicly at this point in our (different) careers?_
-* Writing two peer evaluations after each iteration is due.
-    - Example questions you might ask yourself about this task: _Why are these evaluations requested? How can I help someone else improve when I am still so unsure of what I am doing? How can evaluating someone else help me improve?_
-* Working at least 2-4 hours on your project every week, and documenting this effort in your Mindful Practice Journal.
-    - Example questions you might ask yourself about this task: _Why is consistency important? Why is so much self-reflection a part of this seminar?_
-* Engaging productively with the community in our weekly conversations, whether in class or in any other manner that you deem fit.
-    - Example questions you might ask yourself in conversation about this task: _What is the purpose of seminar conversation? How do we learn from it? How do we balance speaking up, sitting back, and listening to produce the most effective learning environment for ourselves?_
+**You can be confident that you are successfully engaging with this seminar by:**
 
-Insofar as grades have always been a part of your educational experience, you may have strong feelings about what they have meant to you over the years, and what they might mean to you still. In the context of this seminar, I ask that we separate the practice of offering insightful, engaged feedback (which is essential to the learning process) from summative ranking (which is not), and tightly focus on what it takes to produce meaningful intellectual change over time rather than striving toward/against standards of normative success.
+* Engaging productively with the community in our weekly conversations, whether in class or online or in any other manner that you or your classmates can point to.
+    - Consider: _What is the purpose of seminar conversation? How do we learn from it? How do we balance speaking up, sitting back, and listening to produce the most effective learning environment for ourselves?_
+* Completing the project iterations as described in the course plan, and on the schedule recommended.
+    - Consider: _Why is iteration important? Why is the schedule important? How can I be not answering my question and nevertheless succeeding in the context of this seminar?_
+* Offering a content-rich, public-facing project site that you are proud to share with others.
+    - Consider: _Why pride? Why do we share our findings publicly at this point in our (different) careers?_
+* Offering cogent and professional [presentations](projects#presentations-and-peer-review) that stay within the requested time limit.
+    - Consider: _Why is presentation to peers important? Why is the time limit important?_
+* Writing two peer evaluations after each iteration is due, reflecting back what you notice and what you wonder about your peers' projects.
+    - Consider: _Why are these evaluations requested on top of in-class discussion? How can I help someone else improve if I am still unsure of what I am doing? How can evaluating someone else's work help me improve?_
+* Working at least 2-4 hours on your project every week, and documenting this effort in your [Mindful Practice Journal](projects#mindful-practice-journal).
+    - Consider: _Why is consistency important? Why is documentation important? Why is so much self-reflection a part of this seminar?_
+
+
+<!-- Insofar as grades have always been a part of your educational experience, you may have strong feelings about what they have meant to you over the years, and what they might mean to you still. In the context of this seminar, I ask that we separate the practice of offering insightful, engaged feedback (which is essential to the learning process) from summative ranking (which is not), and tightly focus on what it takes to produce meaningful intellectual change over time, rather than striving toward/against standards of normative success. -->
+
+You will almost assuredly have other goals of your own! To the extent that these goals are Specific, Measurable, Achievable, Relevant, and Time-bound, you will have an easier time of articulating just how far you've come; but some immeasurable things are also very much worth pursuing, so feel free to name some of those, too.
+
+We'll talk more about how I'll read your [final reflections](projects#final-reflection) as we get closer to the end of the term. For now, just keep taking notes on your goals and your progress in your Mindful Practice Journals, so you're more likely to have evidence to draw from.
