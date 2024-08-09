@@ -3,7 +3,7 @@ Files toward a Jekyll-based course website for an interdisciplinary graduate-lev
 
 Many other syllabi were consulted in the construction of this one, but an especially heavy debt goes to Alison Langmead.
 
-NB: This is just source code! For the live site, with better formatting, please go to https://benmiller314.github.io/dsam2023fall.
+NB: This is just source code! For the live site, with better formatting, please go to https://benmiller314.github.io/dsam2024fall.
 
 
 ---
