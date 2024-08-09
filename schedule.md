@@ -31,8 +31,8 @@ Week | Date | Lesson Title
 3 | Mon, Sep 09 | [GitHub, versioning, circulation](#week-03) <!-- goal: by end of class, be able to (a) make your own public repo; (b) work with a PittFuego template to make a simple public-facing website (and, thus, understand comments); (c) speak to the interface affordances of a website-building tool like WordPress or Wix -->
 4 | Mon, Sep 16 | [Data: By whom? For what?](#week-04)
 5 | Mon, Sep 23 | [Iteration 1: Objects](#week-05) <!-- What objects could you explore? What questions do you have? + PowerPoint Fu and other presentational modes -->
-6 | Mon, Sep 30 | [Code: What is it? Why does it matter?](#week-06) <!-- Rosh Hashanah starts Wednesday night; keep homework minimal. installation, mostly. -->
-7 | Mon, Oct 07 | [AI: Machines learning to classify and predict](#week-07) <!-- Yom Kippur starts Friday night -->
+6 | Mon, Sep 30 | [Code: What is it? Why does it matter?](#week-06) <!-- Rosh Hashanah starts Wednesday night; keep homework minimal. -->
+7 | Mon, Oct 07 | [AI: Machines learning to classify and predict](#week-07) <!-- Yom Kippur starts Friday night; keep homework minimal. -->
 8 | Mon, Oct 14 | [**No class: Fall Break** (Reflection and planning)](#week-08) <!-- Sukkot begins Wed night. -->
 9 | Mon, Oct 21 | [Iteration 2: Processed](#week-09) <!-- Descriptive metadata. Exhibits. Hoshanna Rabba begins Wed night 10/23. Monitored withdrawal by Friday 10/25 -->
 10 | Mon, Oct 28 | [Digital accessibility](#week-10) <!-- Structured content and navigability. Font sizes and color. Alternative presentations. Spring enrollment begins. -->
@@ -57,6 +57,8 @@ Week | Date | Lesson Title
 * The physicality of the digital <!-- find and add a reading on environmental impact of GenAI -->
 * Topic modeling and distant reading
 
+or something else you suggest! (with enough lead time...)
+
 
 
 
@@ -73,9 +75,12 @@ and **read**:
 
 * Posner, Miriam. How Did They Make That? 29 Aug. 2013, <a href="https://miriamposner.com/blog/how-did-they-make-that/">https://miriamposner.com/blog/how-did-they-make-that/</a>.
 * Risam, Roopika, and Alex Gil. “Introduction: The Questions of Minimal Computing.” Digital Humanities Quarterly, vol. 16, no. 2, 2022, <a href="http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html">http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html</a>.
+
 * EXT for eager readers:
+    - Sample DSAM project reflections from years past <!-- [Addison Eldin (capstone)](https://addeldin.github.io/projects/dsam-reflection/) -->
     - Murray, Janet H. “Affordances of the Digital Medium.” <em>Inventing the Medium: Principles of Interaction Design as a Cultural Practice</em>, The MIT Press, 2011, pp. 51–85. <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66">https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66</a>.
-    - N Katherine Hayles. “PRINT IS FLAT, CODE IS DEEP: The Importance of Media-Specific Analysis.” _Transmedia Frictions_, edited by Tara McPherson and Marsha Kinder, 1st ed., University of California Press, 2014, pp. 20–33. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.1525/j.ctt6wqc2f.6">https://doi.org/10.1525/j.ctt6wqc2f.6</a>.
+    - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
+    <!-- - N Katherine Hayles. “PRINT IS FLAT, CODE IS DEEP: The Importance of Media-Specific Analysis.” _Transmedia Frictions_, edited by Tara McPherson and Marsha Kinder, 1st ed., University of California Press, 2014, pp. 20–33. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.1525/j.ctt6wqc2f.6">https://doi.org/10.1525/j.ctt6wqc2f.6</a>. -->
 
 <h3 id="week-02"><a href="plans/week-02">Week 2: Mon, Sep 02</a> – Setting Up and Setting Out – **No class: Labor Day**</h3>
 
@@ -83,137 +88,203 @@ Meet Ben in [office hours](office) some time this week. Take notes in your [Mind
 
 To prepare for week 3:
 
-Meet Ben in [office hours](office) some time this week.
+* **install a plain-text editor** if you don't already have one (e.g. [Pulsar](https://pulsar-edit.dev/) or [Visual Studio Code](https://code.visualstudio.com/)).
+* **create a GitHub account** if you don't already have one. Think about your username: it can, but need not, indicate your real name or match your other online profiles. (Pros and cons either way.)
+* **install the [GitHub Desktop](https://desktop.github.com) app** and any dependencies it recommends. (NB: This may take up to 20 minutes, so please don't wait until the morning of class.)
+    - NB: If you get an error saying it's not an approved app, don't worry: it's safe. Instead of double-clicking to open the installer, right-click and choose "Open" to give yourself permission to open it anyway.
 
-By Monday, **install** a plain-text editor (e.g. [Pulsar](https://pulsar-edit.dev/) or [Visual Studio Code](https://code.visualstudio.com/)) if you don't already have one.
+and **read**:
 
-By Friday, **read**...
-* Ford, Paul. _What Is Code? If You Don’t Know, You Need to Read This_, Bloomberg.com, <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/</a>. Accessed 19 June 2015.
-    - Section 1: "The Man in the Taupe Blazer."
-    - Section 6.5: "And Now for Something Beautiful."
-* Montfort, Nick. “1: Introduction.” _Exploratory Programming for the Arts and Humanities_, 2nd ed., The MIT Press, 2021, pp. 1–22, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/1">https://mitpress.ublish.com/ebook/epah2e-preview/12629/1</a>.
+* Stolley, Karl. “The Lo-Fi Manifesto, v 2.0.” Kairos: A Journal of Rhetoric, Technology, and Pedagogy, vol. 20, no. 2, Jan. 2016, <a href="https://kairos.technorhetoric.net/20.2/inventio/stolley/">https://kairos.technorhetoric.net/20.2/inventio/stolley/</a>.
 * EXT for eager readers:
-    - D’Ignazio, Catherine, and Lauren F. Klein. “Chapter Seven: Show Your Work.” _Data Feminism_, MIT Press, 2020, pp. 97–124. mitpressonpubpub.mitpress.mit.edu, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
+    - Stolley's "[README for The Lo-Fi Manifesto, v 2.0](https://kairos.technorhetoric.net/20.2/inventio/stolley/readme/)"
+    - Stolley's notes on his earlier draft, "[Lo-Fi Manifesto, v 1.2](https://kairos.technorhetoric.net/20.2/inventio/stolley/1.2)"
 
 
 <h3 id="week-03"><a href='plans/week-03'>Week 3: Mon, Sep 09</a> – GitHub, versioning, circulation</h3>
 
-By Friday, **read**...
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-* Montfort, Nick, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C Marino, Michael Mateas, Casey Reas, Mark Sample, and Noah Vawter. “10: Introduction.” _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_, The MIT Press, 2012, pp. 1–17. direct.mit.edu, <a href="https://doi.org/10.7551/mitpress/9040.001.0001">https://doi.org/10.7551/mitpress/9040.001.0001</a>.
-* Whalen, Zach. “Any Means Necessary to Refuse Erasure by Algorithm: Lillian-Yvonne Bertram’s Travesty Generator.” _Digital Humanities Quarterly_, vol. 017, no. 2, July 2023, <a href="http://digitalhumanities.org:8081/dhq/vol/17/2/000707/000707.html">http://digitalhumanities.org:8081/dhq/vol/17/2/000707/000707.html</a>.
-* Raja, Tasneem. “Is Coding the New Literacy?” _Mother Jones_, 16 June 2014, <a href="https://www.motherjones.com/media/2014/06/computer-science-programming-code-diversity-sexism-education/">https://www.motherjones.com/media/2014/06/computer-science-programming-code-diversity-sexism-education/</a>.
-* Benjamin, Ruha. "Preface" and “Introduction: The New Jim Code.” _Race after Technology: Abolitionist Tools for the New Jim Code_, Polity, 2019, pp. 16–101, but you can stop at p. 78 if you want. [Available on Overdrive](https://pitt.primo.exlibrisgroup.com/permalink/01PITT_INST/e8h8hp/alma9999863389206236).
+To prepare for week 4, **read**:
+
+* D’Ignazio, Catherine, and Lauren F. Klein. <em>Data Feminism</em>, MIT Press, 2020. ProQuest Ebook Central, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
+    - “Introduction: Why Data Science Needs Feminism.” pp. 1–19.
+    - "4. 'What Gets Counted Counts.' " pp. 97-124.
+* Onuoha, Mimi. On Missing Data Sets. 2016. 16 July 2024. GitHub, <a href="https://github.com/MimiOnuoha/missing-datasets">https://github.com/MimiOnuoha/missing-datasets</a>.
+* Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.” <em>Journal of Digital Humanities</em>, Nov. 2013, <a href="https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/">https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/</a>.
+* Ghorayshi, Azeen. “No One Knows How Many L.G.B.T.Q. Americans Die by Suicide.” <em>The New York Times</em>, 1 June 2023. NYTimes.com, <a href="https://www.nytimes.com/2023/06/01/health/lgbtq-suicide-data.html">https://www.nytimes.com/2023/06/01/health/lgbtq-suicide-data.html</a>.
 * EXT for eager readers:
-    - Vee, Annette. “Introduction: Computer Programming as Literacy.” _Coding Literacy_, MIT Press, 2017. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.7551/mitpress/10655.003.0003">https://doi.org/10.7551/mitpress/10655.003.0003</a>.
+    - D’Ignazio and Klein. "3. On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." <em>Data Feminism</em>, MIT Press, 2020. pp. 73-96.
+    - Drucker, Johanna. “Humanities Approaches to Graphical Display.” <em>Digital Humanities Quarterly</em>, vol. 005, no. 1, Mar. 2011, <a href="http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html</a>.
+
+
+and **watch**:
+
+* Brown, AmyJo. “Building Your Own Data Set: A Journalist’s Approach.” _What Are Digital Humanities?_, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/brown/">https://cmu-lib.github.io/dhlg/project-videos/brown/</a>.
 
 
 <h3 id="week-04"><a href='plans/week-04'>Week 4: Mon, Sep 16</a> – Data: By whom? For what?</h3>
+
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-By the time we get back in Week 6, [**prepare a presentation**](projects#presentations-and-peer-review) on your independent project: what are you looking at? what questions do you have about that? what are your next steps?
+For week 5, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to answer the following: 
+
+* What objects are you working with? 
+* What questions do you have about them? 
+* What are your long-term goals? 
+* What are your next steps? 
+
+NB: _bring your own dongle_, if you need one.
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
 <h3 id="week-05">Week 5: Mon, Sep 23 – Project presentations, iteration 1: Objects</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
+Post **feedback for your partners** on their current project iteration.
 
-**No class this week: Yom Kippur.**
+In preparation for week 6, please **read**:
 
-By Sunday, **pre-record** a 5-minute presentation to show in class, and be ready to discuss! NB: _bring your own dongle_, if you need one.
-
+* Ford, Paul. <em>What Is Code? If You Don’t Know, You Need to Read This</em>, Bloomberg.com, <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/</a>. 
+    - Section 1: "The Man in the Taupe Blazer."
+    - [Section 6.5](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#and-now-for-something-beautiful): "And Now for Something Beautiful."
+* Vee, Annette. “Introduction: Computer Programming as Literacy.” <em>Coding Literacy</em>, MIT Press, 2017, pp. 1–42, <a href="https://doi.org/10.7551/mitpress/10655.003.0003">https://doi.org/10.7551/mitpress/10655.003.0003</a>.
+* Miller, Benjamin. “Chapter 17: The Pleasurable Difficulty of Programming.” <em>Methods and Methodologies for Research in Digital Writing and Rhetoric: Centering Positionality in Computers and Writing Scholarship</em>, Volume 2, edited by Victor Del Hierro and Crystal VanKooten, The WAC Clearinghouse; University Press of Colorado, 2022, pp. 159–83. <a href="https://doi.org/10.37514/PRA-B.2022.1664.2.17">https://doi.org/10.37514/PRA-B.2022.1664.2.17</a>.
+* Montfort, Nick. “1: Introduction.” <em>Exploratory Programming for the Arts and Humanities</em>, 2nd ed., The MIT Press, 2021, pp. 1–22, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/1">https://mitpress.ublish.com/ebook/epah2e-preview/12629/1</a>.
+* EXT for eager readers:
+    - Montfort, Nick. "Appendix A: Why Program?" <em>Exploratory Programming for the Arts and Humanities</em>, 2nd ed., The MIT Press, 2021, pp. 319–330, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/1">https://mitpress.ublish.com/ebook/epah2e-preview/12629/1</a>.
+    
 
 <h3 id="week-06"><a href='plans/week-06'>Week 6: Mon, Sep 30</a> – Code: What is it? Why does it matter?</h3>
 
-By Friday, **read**...
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-* Montfort, Nick. “7: Standard Starting Points.” _Exploratory Programming for the Arts and Humanities_, Second Edition, The MIT Press, 2016, pp. 93–118. pitt.primo.exlibrisgroup.com, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/C1">https://mitpress.ublish.com/ebook/epah2e-preview/12629/C1</a>.
-* D’Ignazio, Catherine, and Lauren F. Klein. “Chapter Four: ‘What Gets Counted Counts.’” _Data Feminism_, MIT Press, 2020, pp. 97–124. mitpressonpubpub.mitpress.mit.edu, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=612095">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=612095</a>.
+In preparation for week 7, please **watch / read**:
 
-and **watch**:
+* "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty." WIRED, YouTube, 18 Aug 2021. <a href="https://www.youtube.com/watch?v=5q87K1WaoFI">https://www.youtube.com/watch?v=5q87K1WaoFI</a>.
+* Newhauser, Mary. “What Is Generative AI? A Comprehensive Guide for Everyone.” GPTech, 26 June 2023, <a href="https://www.gptechblog.com/what-is-generative-ai-comprehensive-guide-beginners">https://www.gptechblog.com/
+* Crawford, Kate, and Trevor Paglen. “Excavating AI: The Politics of Training Sets for Machine Learning.” 19 Sep 2019, <a href="https://excavating.ai">https://excavating.ai</a>.
+what-is-generative-ai-comprehensive-guide-beginners</a>.
+* Onuoha, Mimi and Mother Cyborg (Diana Nucera). “A People’s Guide To Tech: Artificial Intelligence.” Allied Media Projects, Aug 2018, <a href="https://alliedmedia.org/resources/peoples-guide-to-ai">https://alliedmedia.org/resources/peoples-guide-to-ai</a>.
+* Shane, Janelle. “An Exercise in Frustration.” AI Weirdness, 21 May 2024, <a href="https://www.aiweirdness.com/an-exercise-in-frustration/">https://www.aiweirdness.com/an-exercise-in-frustration/</a>.
+* Shane, Janelle. “When Algorithms Surprise Us.” AI Weirdness, 13 Apr 2018, <a href="https://www.aiweirdness.com/when-algorithms-surprise-us-18-04-13/">https://www.aiweirdness.com/when-algorithms-surprise-us-18-04-13/</a>.
 
-* Beshero-Bondar, Elisa. “How to Grow Data Forests with XML Trees.” _What Are Digital Humanities?_, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/besherobondar/">https://cmu-lib.github.io/dhlg/project-videos/besherobondar/</a>.
-* Brown, AmyJo. “Building Your Own Data Set: A Journalist’s Approach.” _What Are Digital Humanities?_, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/brown/">https://cmu-lib.github.io/dhlg/project-videos/brown/</a>.
-
-EXT for eager readers:
-* Ford, Paul. _What Is Code? If You Don’t Know, You Need to Read This_, Bloomberg.com, <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code</a>.
-    - "4: Why Are Coders Angry?"
-    - “3: Why Are Programmers So Intense About Languages?”
-* Birnbaum, David J. "What is XML and why should humanists care? An even gentler introduction to XML." [http://dh.obdurodon.org/what-is-xml.xhtml](http://dh.obdurodon.org/what-is-xml.xhtml). Originally from 2011; updated as of 31 December 2021.
+* EXT: eager learners can read / watch the following:
+    - Alammar, Jay. "ChatGPT Has Never Seen a SINGLE Word (Despite Reading Most of The Internet). Meet LLM Tokenizers." YouTube, 26 Jul 2023. <a href="https://www.youtube.com/watch?v=uSinkCeUg9U">https://www.youtube.com/watch?v=uSinkCeUg9U</a>.
+    - Karpathy, Andrej. "State of GPT \| BRK216HFS." Microsoft Build 2023. YouTube, 25 May 2023. <a href="https://www.youtube.com/watch?v=bZQun8Y4L2A">https://www.youtube.com/watch?v=bZQun8Y4L2A</a>. 
+        * NB: at 42 minutes, this is long; the first 20 minutes go into some more detail on how large language models are trained and built up, and is perhaps the more DSAM-level portion; the second half is advice on how to work with models, e.g. through prompt engineering, and what may be coming next.
+    - Kozyrkov, Cassie. "Introduction to ML and AI - MFML Part 1." posted to YouTube 3 Oct 2021, but filmed in 2018. <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U">https://www.youtube.com/watch?v=lYWt-aCnE2U</a>. 
+        * NB: another long video, and part of an even longer series. I recommend the following sections:
+        * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U&t=973s">from 16:13</a> to 34:45: The process of building a regression model and why that matters.
+        * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U">from 39:42</a> to 45:37: Why did AI start booming in the late 2010s?
+        * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U&t=3264s">from 54:28</a> to 1:07:05: When can you trust machine learning?
+    - Cheung, Diana. “Demystifying Generative AI: Introducing the Underlying Technologies & Models of Generative AI.” Codesmith.io/Blog, Aug 30, 2023, <a href="https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai">https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai</a>.
 
 <h3 id="week-07"><a href='plans/week-07'>Week 7: Mon, Oct 07</a> – AI: Machines learning to classify and predict</h3>
 
-By Friday, look through the options for the three upcoming People's Choice weeks, and [register your preferences]().
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-By Friday, **read**...
+By Friday, look through the options for the three upcoming People's Choice weeks, and <a class="disabled" aria-disabled="true" title="link to poll coming soon">register your preferences</a>.
 
-* D’Ignazio, Catherine, and Lauren F. Klein. "5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars." _Data Feminism_. MIT Press, 2020. ProQuest Ebook Central, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
-* Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.” Journal of Digital Humanities, Nov. 2013, <a href="https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/">https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/</a>.
-* Rawson, Katie, and Trevor Muñoz. “23: Against Cleaning.” Debates in the Digital Humanities 2019, edited by Matthew K. Gold and Lauren F. Klein, <a href="https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51#ch23">https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/07154de9-4903-428e-9c61-7a92a6f22e51#ch23</a>. Accessed 18 Aug. 2023.
-* Gradek, Bob, and Liz Monk. "Dataset Summaries: Pivot Tables", 2022. vimeo.com, <a href="https://vimeo.com/703773939">https://vimeo.com/703773939</a>.
 
 
 <h3 id="week-08"><a href='plans/week-08'>Week 8: Mon, Oct 14</a> – <strong>No class: Fall Break</strong> (reflection and planning)</h3>
 
-* Cairo, Alberto. “5: Basic Principles of Visualization.” The Truthful Art: Data, Charts, and Maps for Communication, New Riders, 2016. learning.oreilly.com, <a href="https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html">https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html</a>.
-* Cairo, Alberto. “6: Exploring Data with Simple Charts.” The Truthful Art: Data, Charts, and Maps for Communication, New Riders, 2016. learning.oreilly.com, <a href="https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch06.html">https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch06.html</a>.
-* D’Ignazio, Catherine, and Lauren F. Klein. "6: The Numbers Don't Speak for Themselves." _Data Feminism_. MIT Press, 2020. ProQuest Ebook Central, <a href="http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">http://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
-* NEW: Arnold, Taylor, and Lauren Tilton. “New Data? The Role of Statistics in DH.” _Debates in the Digital Humanities_ 2019, Univ of Minnesota Press, 2019, <a href="https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24">https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24</a>.
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-By Sunday, prepare an updated presentation to class, now with a stronger sense of your argument and evidence, even if they're still works in progress. **Pre-record 5 minutes** to show in class, and be ready to discuss! 
+In preparation for week 9, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to *look back through your journal* to answer the following: 
 
-[**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to answer these questions: 
-
-* 
-* 
-* 
-* 
-
-Optionally, I also recommend that you **read**:
-
-* Ford, Paul, _What is Code?_ section 6.2: "What is debugging?" <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code">https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code</a>.
+* What objects are you working with? (Remind us or update us)
+* What have you done with or to those objects? 
+* What have you learned in the process? 
+* What are your next steps? 
 
 NB: _bring your own dongle_, if you need one.
+
+Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. Also optionally, you may want to read <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#what-is-debugging">section 6.2</a> of Paul Ford's _What is Code?_: "What is debugging?"
 
 
 <h3 id="week-09"><a href='plans/week-09'>Week 9: Mon, Oct 21</a> – Project presentations, iteration 2: Processed</h3>
 
+Post **feedback for your partners** on their current project iteration.
 
+In preparation for week 10, please **read / watch**:
+
+* Eisenberg, David. “Digital Accessibility: What It Is and Why It Matters.” Perkins School for the Blind, 17 May 2021, <a href="https://www.perkins.org/digital-accessibility-makes-the-world-a-better-place/">https://www.perkins.org/digital-accessibility-makes-the-world-a-better-place/</a>.
+* Selections from the W3C Web Accessibility Initiative (WAI):
+    - <a href="https://www.w3.org/WAI/fundamentals/accessibility-principles/">"Accessibility Principles"</a> (Overview)
+        - <a href="https://www.w3.org/WAI/people-use-web/tools-techniques/perception/">Perception - hearing, feeling and seeing</a>
+        - <a href="https://www.w3.org/WAI/people-use-web/tools-techniques/presentation/">Presentation - distinguishing and understanding</a>
+        - <a href="https://www.w3.org/WAI/people-use-web/tools-techniques/input/">Input - typing, writing, and clicking</a>
+        - <a href="https://www.w3.org/WAI/people-use-web/tools-techniques/navigation/">Interaction - navigating and finding</a>
+    - <a href="https://www.youtube.com/watch?v=3f31oufqFSM">"Web Accessibility Perspectives - Compilation of 10 Topics/Videos"</a>
+    - <a href="https://www.w3.org/WAI/people-use-web/tools-techniques/">How People with Disabilities Use the Web: Tools and Techniques</a>
+* Yergeau, M. Remi, Elizabeth Brewer, Stephanie L. Kerschbaum, Sushil Oswal, Margaret Price, Michael J. Salvo, Cynthia L. Selfe, and Franny Howes. “Multimodality in Motion: Disability and Kairotic Spaces.” Kairos: A Journal of Rhetoric, Technology, and Pedagogy, vol. 18, no. 1, Aug. 2013, <a href="https://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html">https://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html</a>.
+
+* EXTs for eager readers:
+    - D’Ignazio, Catherine, and Lauren F. Klein. <em>Data Feminism</em>, MIT Press, 2020. ProQuest Ebook Central.
+        * <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=86">3: "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints"</a>
+        * <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=138">5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars</a>
+    - W3C Web Accessibility Initiative (WAI), <a href="https://www.w3.org/WAI/people-use-web/user-stories/">"Stories of Web Users"</a>
+    
 
 
 <h3 id="week-10"><a href='plans/week-10'>Week 10: Mon, Oct 28</a> – Digital accessibility</h3>
 
-By Friday, **read**...
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
+
+Readings / resources for next week are t.b.d. based on the vote!
 
 
 <h3 id="week-11"><a href='plans/week-11'>Week 11: Mon, Nov 04</a> – People's choice 1</h3>
 
-By Friday, **read**...
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-
+Readings / resources for next week are t.b.d. based on the vote!
 
 
 <h3 id="week-12"><a href='plans/week-12'>Week 12: Mon, Nov 11</a> – People's choice 2</h3>
 
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
+
+In preparation for week 13, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to *look back through your journal* to answer the following: 
+
+* What questions are you pursuing by processing your objects? (Remind us or update us)
+* What answers do you have so far, however tentative?
+* What are your next steps to deepen your questions and answers? 
+* What have you learned in the process? 
+
+NB: _bring your own dongle_, if you need one.
+
+Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. 
+
+
 <h3 id="week-13"><a href='plans/week-13'>Week 14: Mon, Nov 18</a> – Project presentations, iteration 3: And...?</h3>
 
-[**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to answer these questions: 
+Post **feedback for your partners** on their current project iteration.
 
-* 
-* 
-* 
-* 
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
 
 <h3 id="week-14"><a href='plans/week-14'>Week 14: Mon, Nov 25</a> – no class: Thanksgiving Break (digesting)</h3>
 
-
+Readings / resources for next class are t.b.d. based on the vote. Have a great break!
 
 
 <h3 id="week-15"><a href='plans/week-15'>Week 15: Mon, Dec 02</a> – People's choice 3</h3>
 
-Work toward your final reflections. If we collectively agree that we need another studio day, we'll use week 16; otherwise, the final portfolio (reflection plus last iteration on your palimpsest) is due Wednesday, December 13 at 2pm.
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
+
+In preparation for our final class, **pre-record** a now-<strong>10</strong>-minute presentation on your independent project, which we can view in class and discuss. For this iteration, you should be able to _look back through your journal and your **public-facing project site**_ to answer the following: 
+
+* What materials (objects, processing steps, arguments) are you providing on your site?
+* How have you prepared your materials for presentation to a public readership?
+* When you look back at your initial goals, where have you ended up? 
+* What have you learned in the process that could apply to future projects? 
+
+NB: _bring your own dongle_, if you need one. 
+
+Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. 
+
 
 <h3 id="week-16"><a href='plans/week-16'>Week 16: Mon, Dec 09</a> – Project presentations, iteration 4: Presented</h3>
 
