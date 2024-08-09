@@ -137,6 +137,10 @@ Assuming we left off at 10:30, let's aim to start up again at 10:40 or so. That 
 <a id="second-half"></a>
 ## Second half: Getting to know GitHub
 
+Show of hands: who here has encountered GitHub before? In what contexts?
+
+<details><summary>The problem GitHub is designed to solve</summary>
+
 Maybe this will seem familiar:
 
 <figure role="figure">
@@ -148,11 +152,14 @@ Retaining and renaming ever more files eats up your storage space, sets you up f
 
 There is a better way!
 
-The *git* version control system instead allows you to **track the differences** between versions of files **while keeping the same filenames.**
+<div class="alert alert-info">
+<p>The <em>git</em> version control system instead allows you to <strong>track the differences</strong> between versions of files <strong>while keeping the same filenames.</strong></p>
+<p><em><a href="https://github.com">GitHub</a></em> is a cloud-based system for sharing files and histories with other people.</p>
+</div>
 
-*[GitHub](https://github.com)* is a cloud-based system for sharing files and histories with other people. If you spend a while working with digital methods, chances are you're eventually going to be directed to GitHub to download some code or data. But as we'll see, there are reasons to put the power of GitHub to work for you, too, that are independent of programming.
+If you spend a while working with digital methods, chances are you're eventually going to be directed to GitHub to download some code or data. But as we'll see, there are reasons to put the power of GitHub to work for you, too, that are independent of programming.
 
-
+</details>
 
 ### Text demo
 
