@@ -7,15 +7,17 @@ banneralt: "banner: phases of the moon"
 
 # Class-by-Class Schedule
 
-*[Jump to latest lesson plan](#current)*
-*For the in-class notes doc, go to [bit.ly/dsam2023fall-notes](https://bit.ly/dsam2023fall-notes).*
+<nav id="shortcuts" class="alert alert-white">
+<a href="#current">Jump to latest lesson plan</a>. For the in-class notes doc, go to <a href="https://bit.ly/dsam{{site.course.slugterm}}-notes">bit.ly/dsam{{site.course.slugterm}}-notes</a>.
+</nav>
+
 
 Assignments are listed (as HW) *on the day they are assigned*. Readings should be completed, if possible, <strong>by end-of-day Friday</strong><a href="#ftn1" class="ftnref" id="ftnref1" title="This early deadline is not my way of being mean; it's just that sometimes things will take longer than you expect, and I'd really like for you to be able to sleep, and for me to be able to look over your work in the morning before class. Those latter two things are the real priorities that the 'night before' policy is meant to achieve."><sup>[1]</sup></a>, so you can post to our <a href="{{site.repo_url}}/discussions}}">discussion forum</a>. Exercises and presentations are due the following class meeting, unless otherwise specified, and given our early start time I recommend endeavoring to complete them *by 9pm the night before* at the latest.
 
 You should in general also have access to all your work in class, so we can discuss and/or revise. Possible methods of access include [GitHub](https://github.com) (recommended), Pitt's [OneDrive](https://www.technology.pitt.edu/services/cloud-collaboration-box-and-onedrive) instance (next best thing), an external service like Dropbox, or flash drive.
 
-<div class="panel panel-info">
-<div class="panel-body">
+<div class="panel panel-info alert alert-info">
+<div class="panel-body alert-body">
 
 Follow the links to individual class days for more information, including class notes and more complete homework instructions. <strong>NB: This schedule is subject to revision based on our needs.</strong>
 
@@ -27,19 +29,19 @@ Follow the links to individual class days for more information, including class 
 Week | Date | Lesson Title
 --- | --- | ---
 1 | Mon, Aug 26 | [Digital + Studies](#week-01)
-2 | Mon, Sep 02 | [**No class: Labor Day** (Setting up and setting out)](#week-02)
+2 | Mon, Sep 02 | [**No class: Labor Day** (setting up and setting out)](#week-02)
 3 | Mon, Sep 09 | [GitHub, versioning, circulation](#week-03) <!-- goal: by end of class, be able to (a) make your own public repo; (b) work with a PittFuego template to make a simple public-facing website (and, thus, understand comments); (c) speak to the interface affordances of a website-building tool like WordPress or Wix -->
 4 | Mon, Sep 16 | [Data: By whom? For what?](#week-04)
 5 | Mon, Sep 23 | [Iteration 1: Objects](#week-05) <!-- What objects could you explore? What questions do you have? + PowerPoint Fu and other presentational modes -->
 6 | Mon, Sep 30 | [Code: What is it? Why does it matter?](#week-06) <!-- Rosh Hashanah starts Wednesday night; keep homework minimal. -->
 7 | Mon, Oct 07 | [AI: Machines learning to classify and predict](#week-07) <!-- Yom Kippur starts Friday night; keep homework minimal. -->
-8 | Mon, Oct 14 | [**No class: Fall Break** (Reflection and planning)](#week-08) <!-- Sukkot begins Wed night. -->
+8 | Mon, Oct 14 | [**No class: Fall Break** (reflection and planning)](#week-08) <!-- Sukkot begins Wed night. -->
 9 | Mon, Oct 21 | [Iteration 2: Processed](#week-09) <!-- Descriptive metadata. Exhibits. Hoshanna Rabba begins Wed night 10/23. Monitored withdrawal by Friday 10/25 -->
 10 | Mon, Oct 28 | [Digital accessibility](#week-10) <!-- Structured content and navigability. Font sizes and color. Alternative presentations. Spring enrollment begins. -->
 11 | Mon, Nov 04 | [People's choice 1](#week-11) <!-- "family weekend" Friday 11/8 – Sun 11/10-->
 12 | Mon, Nov 11 | [People's choice 2](#week-12)
 13 | Mon, Nov 18 | [Iteration 3: And...?](#week-13) <!-- making an argument -->
-14 | Mon, Nov 25 | [**No class: Thanksgiving Break** (Digesting)](#week-14)
+14 | Mon, Nov 25 | [**No class: Thanksgiving Break** (digesting)](#week-14)
 15 | Mon, Dec 02 | [People's choice 3](#week-15)
 16 | Mon, Dec 09 | [Iteration 4: Presented](#week-16) <!-- facing the public -->
 {: .table .table-sm}
@@ -57,14 +59,13 @@ Week | Date | Lesson Title
 * The physicality of the digital <!-- find and add a reading on environmental impact of GenAI -->
 * Topic modeling and distant reading
 
-or something else you suggest! (with enough lead time...)
+or something else you suggest (with enough lead time...)!
 
 
 
 
-
-<h3 id="week-01"><a href='plans/week-01'>Week 1: Mon, Aug 26</a> – Digital + Studies</h3>
 <a id="current"></a>
+<h3 id="week-01"><a href='plans/week-01'>Week 1: Mon, Aug 26</a> – Digital + Studies</h3>
 
 **Schedule a meeting with Ben** for some time next week (that isn't Monday) to talk about possible objects for you to process and present on. See the [office hours](office) page for how to claim a slot or request an alternative if the usual slots won't work for you.
 
@@ -82,7 +83,7 @@ and **read**:
     - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
     <!-- - N Katherine Hayles. “PRINT IS FLAT, CODE IS DEEP: The Importance of Media-Specific Analysis.” _Transmedia Frictions_, edited by Tara McPherson and Marsha Kinder, 1st ed., University of California Press, 2014, pp. 20–33. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.1525/j.ctt6wqc2f.6">https://doi.org/10.1525/j.ctt6wqc2f.6</a>. -->
 
-<h3 id="week-02"><a href="plans/week-02">Week 2: Mon, Sep 02</a> – Setting Up and Setting Out – **No class: Labor Day**</h3>
+<h3 id="week-02"><a href="plans/week-02">Week 2: Mon, Sep 02</a> – <strong>No class: Labor Day</strong> (setting up and setting out)</h3>
 
 Meet Ben in [office hours](office) some time this week. Take notes in your [Mindful Practice Journal](projects.md).
 
@@ -265,7 +266,7 @@ Post **feedback for your partners** on their current project iteration.
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
 
-<h3 id="week-14"><a href='plans/week-14'>Week 14: Mon, Nov 25</a> – no class: Thanksgiving Break (digesting)</h3>
+<h3 id="week-14"><a href='plans/week-14'>Week 14: Mon, Nov 25</a> – <strong>No Class: Thanksgiving Break</strong> (digesting)</h3>
 
 Readings / resources for next class are t.b.d. based on the vote. Have a great break!
 
