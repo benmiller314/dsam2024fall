@@ -92,10 +92,10 @@ I am more than happy to talk through what it means to produce this kind of self-
 
 One set of goals can come from me, in that I have requested specific types of course engagement and deliverables from you. These have all been chosen to guide you through a process of learning what it means to use digital computers mindfully in the context of the humanities and allied social sciences. In a way, my work-requests aspire to be tools for learning in and of themselves, and can serve as signposts of worthwhile engagement. I have offered some metacognitive questions below to help you think through how the work of this course forms a coherent pedagogical point of view and structures for you to inhabit.
 
-**You can be confident that you are successfully engaging with this seminar by:**
+<h3 id="forms-of-engagement">You can be confident that you are successfully engaging with this seminar by:</h3>
 
-* Engaging productively with the community in our weekly conversations, whether in class or online or in any other manner that you or your classmates can point to.
-    - Consider: _What is the purpose of seminar conversation? How do we learn from it? How do we balance speaking up, sitting back, and listening to produce the most effective learning environment for ourselves?_
+* Contributing respectfully to our weekly topical conversations, whether in class or online.
+    - Consider: _What is the purpose of seminar conversation? How do we learn from it? How do we balance speaking up, sitting back, branching out, and listening in, to produce the most effective learning environment for ourselves and others?_
 * Completing the project iterations as described in the course plan, and on the schedule recommended.
     - Consider: _Why is iteration important? Why is the schedule important? How can I be not answering my question and nevertheless succeeding in the context of this seminar?_
 * Offering a content-rich, public-facing project site that you are proud to share with others.
