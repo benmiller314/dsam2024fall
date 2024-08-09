@@ -222,6 +222,11 @@ dd {
     border: 1px solid deepskyblue;
 }
 
+/* Shortcut menu on schedule page should be italicized, but it's not really content, so let's do it here */
+#shortcuts {
+    font-style: italic;
+}
+
 /* Some lists should be more widely spaced */
 ul.spaced > li, ol.spaced > li {
 	  margin-bottom: 1em;
@@ -235,6 +240,32 @@ ol.ualpha {
 	list-style-type: upper-alpha;
 }
 
+/* and pretty much all nested lists */
+li li:last-of-type {
+    margin-bottom: 1em;
+}
+
+li li:first-of-type {
+    margin-top: 0.25em;
+}
+
+li:has(ul) + li {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+/* while we're talking nested lists, let's make level-2 bullets more prominent than level-3 */
+ul ul {
+    list-style-type: square;
+}
+
+ul ul ul {
+    list-style-type: circle;
+}
+
+ol ul:first-of-type {
+    list-style-type: disc; 
+}
 
 /* Create side-by-side columns */
 .flex-container {
