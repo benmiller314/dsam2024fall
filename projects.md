@@ -2,7 +2,7 @@
 
 In addition to shared in-class assignments and weekly [reading responses](#readings-and-responses), everyone in the class will be expected to [work on an independent project](#mindful-practice-journal) for several hours a week outside of class, and to iteratively update a [public-facing archive](#palimpsest-of-public-iteration) of your progress as you go. You will [present your project to the class](#presentations-and-peer-review) several times over the semester for generous, formative review by your professor (me) and each other (writing two letters each).
 
-These projects can vary as much as your interests do, and should incorporate tools and theories appropriate to the questions each person is asking. I'll expect everyone to [meet with me](office.md) before the end of week 3 (in 2024, that would be by Friday, September 13th) – and **ideally before the end of week 2 (September 6th)** – so I can help point you in productive directions.
+These projects can vary as much as your interests do, and should incorporate tools and theories appropriate to the questions each person is asking. **I'll expect everyone to [meet with me](office.md)** before the end of week 3 (in 2024, that would be by Friday, September 13th) – and **ideally before the end of week 2 (September 6th)** – so I can help point you in productive directions.
 
 We'll generally reserve some time in class to collectively troubleshoot your independent projects-in-progress, which will surely help everyone to learn both about a wider range of tools and about the process of finding paths forward! But you can also always ask me for follow-up advice during office hours.
 
