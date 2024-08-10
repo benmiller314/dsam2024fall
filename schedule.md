@@ -59,7 +59,7 @@ Week | Date | Lesson Title
 * The physicality of the digital <!-- find and add a reading on environmental impact of GenAI -->
 * Topic modeling and distant reading
 
-or something else you suggest (with enough lead time...)!
+or something else you suggest (with enough lead time...)! We'll vote asynchronously in week 8 and finalize in week 9, setting the agenda for weeks 11, 12, and 15.
 
 
 
