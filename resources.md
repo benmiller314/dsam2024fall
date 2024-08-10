@@ -24,7 +24,7 @@ Table of contents:
 
 <!-- /TOC -->
 
-{% capture services_at_pitt %}
+
 ## Services at Pitt
 <dl>
 <dt><a href="http://www.studentaffairs.pitt.edu/drs/">Disability Resources</a></dt>
@@ -32,6 +32,12 @@ Table of contents:
 
 <dt><a href="https://library.pitt.edu/digital-scholarship-services">Digital Scholarship Services at Pitt Libraries</a></dt>
 <dd>As their website says, DSS is "a front-end to the library's resources, expertise, and services in support of a broad range of digital and data-intensive scholarly activities. From designing a digital humanities project to making a data management plan for a grant application, [they]’re here to help." You can make an appointment for a consult on coding and computation; research data services; digital creation and stewardship; geospatial or textual data and analysis; and more. See especially their subscribe-able calendar of free <a href="https://pitt.libcal.com/calendar/today/?cid=2274&t=d&d=0000-00-00&cal=2274&ct=26796,28278&inc=0">workshops</a> and/or <a href="https://confirmsubscription.com/h/t/DF8BAC3FE84F3E2D">sign up for their newsletter</a> to get email updates and reminders.</dd>
+
+<dt><a href="https://my.pitt.edu/task/all/cssd-linkedinlearning">LinkedIn Learning tutorials</a></dt>
+<dd>
+<p>This is a portal for high-quality, often in-depth, video and screencast tutorials for a wide variety of digital tools: from audio, image, and video editing, to web design, to photography and graphic design, to programming languages. Your tuition dollars give you access while you're at Pitt; might as well take advantage while you can!</p> <figure class="float-right"><img src="assets/img/linked-in-learning-start-button.png" alt="The start button follows the 'LinkedIn Learning' header and a heart button to 'Add Favorite'." /></figure>
+<p>You'll need to <strong>log in first through my.pitt.edu</strong>; click the Start button to access the video library, and then search within that. Otherwise, it'll try to get you to sign up or log in through LinkedIn, which is probably not what you meant to do.</p>
+</dd>
 
 <dt><a href="http://www.studentaffairs.pitt.edu/cc/">Counseling Services</a></dt>
 <dd>Pitt also offers free counseling for students who are experiencing personal or emotional difficulties. The Counseling Center, located on the 2nd Floor Nordenberg Hall, offers Psychological Services and Sexual Assault Services (412-648-7930) (8:30 am-5:00 pm, Monday-Friday) or (412-648-7856) (after 5 pm, Monday-Friday or on weekends).</dd>
@@ -43,7 +49,7 @@ Table of contents:
 <dd>Though not every consultant will have experience in multimodal composing or digital media, some will; but more importantly, the Writing Center's emphases on process-oriented reflection and rhetorical thinking makes every consultant a useful sounding board for developing ideas, getting feedback from an outside reader, and getting organized for revision and reflection. It's a good idea to <a href="http://writingcenter.pitt.edu/undergraduate-services">plan for your visit</a> and to make an appointment before you go.</dd>
 
 </dl>
-{% endcapture %}
+
 <a href="#top"><em>Back to top</em></a>
 
 ## Help with Git and GitHub
