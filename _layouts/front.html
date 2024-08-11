@@ -8,6 +8,7 @@
   <div id="background" class="container-fluid background">
 
   <div id="foreground" class="foreground">
+    <div class="content-wrapper">
 
       <header class="d-flex flex-row flex-sm-column m-4">
         <div class="name-and-image d-flex flex-column">
@@ -32,11 +33,9 @@
       </div>
     {% endif %}
 
-    <section id="content" class="d-flex flex-column-reverse flex-sm-row-reverse">
-
     {{content}}
 
-    </section>
+  </div> <!-- end of content-wrapper -->
   </div> <!-- end of foreground -->
 
   </div> <!-- end of background -->

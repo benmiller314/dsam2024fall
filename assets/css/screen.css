@@ -39,7 +39,7 @@ a {
 
 /* Front page styling */
 body.front div#background {
-    background-image: url(/dsam2023fall/assets/img/course-title.png);
+    background-image: url(/../img/course-title.png);
 }
 
 nav#front-nav {
@@ -49,6 +49,20 @@ nav#front-nav {
     padding: 0 1em 1em;
 }
 
+body.front details {
+    margin: 0 2em;
+}
+
+body.front details summary {
+    background-color: initial;
+    border: initial;
+    
+}
+
+body.front #content {
+    display: grid;
+}
+
 @media (min-width: 820px) {
 	.who-when-where {
 		display: grid;
@@ -56,14 +70,40 @@ nav#front-nav {
 		grid-template-rows: 1fr 1fr;
 		grid-auto-flow: row;
 	}
+
+    body.front .content-wrapper {
+        max-width: 80em;
+        margin: 1em auto;
+    }
+
+    body.front section#content {
+        grid-template-columns: 2fr 5fr;
+    }
+    
+    #description {
+        grid-column: 2 / 3;
+        grid-row-start: 1;
+    }
+
+    #responsibilities {
+        grid-column: 2 / 3;
+        grid-row-start: 2;
+        align-content: start;
+    }
+    
+    #front-nav {
+        grid-column: 1 / 2;
+        grid-row: 1 / 5;
+        align-content: start;
+    }
 }
 
 .featured-image {
 	max-width: 20em;
 }
 
-p#description {
-	max-width: 50em;
+#description {
+	max-width: 40em;
 	margin: 1.5em;
 }
 
