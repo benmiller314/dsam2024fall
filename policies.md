@@ -12,13 +12,11 @@ This class meets only once a week, and several of those weeks include holidays t
 That said, I know life is complex, and we have a lot going on – including conferences, illnesses, families, and other legitimate claims on our time and energy. If you know in advance that you will not be able to attend, please let me know and we can try to arrange an alternative form of participation. If you must be absent unexpectedly, please try to reach out to me and your classmates as soon as you're able. It won't be the same as if you were here, but something may yet be gleaned as we try to catch you up.
 
 ## Inclusion and Access
-I strive to set you up for success. If there are circumstances that may affect your performance in this class, please let me know as soon as possible so that we can work together to develop strategies for succeeding, which might include adapting assignments to meet both your needs and the requirements of the course.
+I strive to set you up for success. If there are circumstances that may affect your performance in this class, _please let me know as soon as possible so that we can work together to develop strategies for succeeding_, which might include adapting assignments to meet both your needs and the requirements of the course.
 
 If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and the Office of Disability Resources and Services, 140 William Pitt Union, 412-648-7890 / 412-624-3346 (Fax), as early as possible in the term. Disability Resources and Services will verify your disability and help determine reasonable accommodations for this course. For more information, visit [www.studentaffairs.pitt.edu/drsabout](https://www.studentaffairs.pitt.edu/drsabout).
 
-I also ask that everyone in the class strive to help ensure that everyone can learn in a supportive and respectful environment, including [gender-inclusive language](https://www.gsws.pitt.edu/resources/faculty-resources/gender-inclusivenon-sexist-language-statement-syllabi).
-
-For my part, I will work to ensure multiple ways of accessing class materials, including written lesson plans in screen-reader compliant html, alternative text for images, and transcriptions for recorded videos. Because proofreading the latter can be particularly time-consuming, I ask that you please [let me know](mailto:millerb@pitt.edu) early in the semester if you will be relying on transcriptions primarily.
+For my part, I will work to ensure multiple ways of accessing class materials, including written lesson plans in screen-reader compliant html, alternative text for images, and transcriptions for recorded videos. Because proofreading the latter can be particularly time-consuming, I ask that you please [let me know](mailto:millerb@pitt.edu) early in the semester if you will be relying primarily on transcriptions to access the videos your classmates will produce: I can introduce digital tools like otter.ai that may help with the first draft.
 
 While we're on the subject of email, I am obligated to include the standard statement on using your University-issued email address:
 <details><summary>Click to expand.</summary>
@@ -90,7 +88,7 @@ Nevertheless, at the end of the term, I will be required to submit letter grades
 
 I am more than happy to talk through what it means to produce this kind of self-assessment, with each of you individually or together as a group, but at the heart of it is **a reflection that looks both forward (what do I want to achieve?) and backward (what have I achieved?), recursively.**
 
-One set of goals can come from me, in that I have requested specific types of course engagement and deliverables from you. These have all been chosen to guide you through a process of learning what it means to use digital computers mindfully in the context of the humanities and allied social sciences. In a way, my work-requests aspire to be tools for learning in and of themselves, and can serve as signposts of worthwhile engagement. I have offered some metacognitive questions below to help you think through how the work of this course forms a coherent pedagogical point of view and structures for you to inhabit.
+One set of goals can come from me, in that I have requested specific types of course engagement and deliverables from you. These have all been chosen to guide you through a process of learning what it means to use digital computers mindfully in the context of the humanities and allied social sciences. In a way, my work-requests aspire to be tools for learning in and of themselves, and can serve as signposts of worthwhile engagement. I have offered some metacognitive questions below to help you think through how the work of this course forms a coherent pedagogical point of view and set of structures for you to inhabit.
 
 <h3 id="forms-of-engagement">You can be confident that you are successfully engaging with this seminar by:</h3>
 
