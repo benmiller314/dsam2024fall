@@ -259,7 +259,7 @@ NB: _bring your own dongle_, if you need one.
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. 
 
 
-<h3 id="week-13"><a href='plans/week-13'>Week 14: Mon, Nov 18</a> – Project presentations, iteration 3: And...?</h3>
+<h3 id="week-13"><a href='plans/week-13'>Week 13: Mon, Nov 18</a> – Project presentations, iteration 3: And...?</h3>
 
 Post **feedback for your partners** on their current project iteration.
 
