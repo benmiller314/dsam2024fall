@@ -32,7 +32,7 @@ Week | Date | Lesson Title
 2 | Mon, Sep 02 | [**No class: Labor Day** (setting up and setting out)](#week-02)
 3 | Mon, Sep 09 | [GitHub, versioning, circulation](#week-03) <!-- goal: by end of class, be able to (a) make your own public repo; (b) work with a PittFuego template to make a simple public-facing website (and, thus, understand comments); (c) speak to the interface affordances of a website-building tool like WordPress or Wix -->
 4 | Mon, Sep 16 | [Data: By whom? For what?](#week-04)
-5 | Mon, Sep 23 | [Iteration 1: Objects](#week-05) <!-- What objects could you explore? What questions do you have? + PowerPoint Fu and other presentational modes -->
+5 | Mon, Sep 23 | [Iteration 1: Sources](#week-05) <!-- What objects could you explore? What questions do you have? + PowerPoint Fu and other presentational modes -->
 6 | Mon, Sep 30 | [Code: What is it? Why does it matter?](#week-06) <!-- Rosh Hashanah starts Wednesday night; keep homework minimal. -->
 7 | Mon, Oct 07 | [AI: Machines learning to classify and predict](#week-07) <!-- Yom Kippur starts Friday night; keep homework minimal. -->
 8 | Mon, Oct 14 | [**No class: Fall Break** (reflection and planning)](#week-08) <!-- Sukkot begins Wed night. -->
@@ -67,7 +67,7 @@ or something else you suggest (with enough lead time...)! We'll vote asynchronou
 <a id="current"></a>
 <h3 id="week-01"><a href='plans/week-01'>Week 1: Mon, Aug 26</a> – Digital + Studies</h3>
 
-**Schedule a meeting with Ben** for some time next week (that isn't Monday) to talk about possible objects for you to process and present on. See the [office hours](office) page for how to claim a slot or request an alternative if the usual slots won't work for you.
+**Schedule a meeting with Ben** for some time next week (that isn't Monday) to talk about possible sources/objects for you to process and present on. See the [office hours](office) page for how to claim a slot or request an alternative if the usual slots won't work for you.
 
 Before that meeting, ideally by this Friday, **watch**:
 * Posner, Miriam. “How Did They Make That? The Video!” Miriam Posner's Blog, April 17, 2014. <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/">http://miriamposner.com/blog/how-did-they-make-that-the-video/</a>.
@@ -130,7 +130,7 @@ Continue working on your project, and take notes in your [Mindful Practice Journ
 
 For week 5, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to answer the following: 
 
-* What objects are you working with? 
+* What sources / objects are you working with? 
 * What questions do you have about them? 
 * What are your long-term goals? 
 * What are your next steps? 
@@ -139,7 +139,7 @@ NB: _bring your own dongle_, if you need one.
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
-<h3 id="week-05">Week 5: Mon, Sep 23 – Project presentations, iteration 1: Objects</h3>
+<h3 id="week-05">Week 5: Mon, Sep 23 – Project presentations, iteration 1: Sources</h3>
 
 Post **feedback for your partners** on their current project iteration.
 
@@ -194,8 +194,8 @@ Continue working on your project, and take notes in your [Mindful Practice Journ
 
 In preparation for week 9, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to *look back through your journal* to answer the following: 
 
-* What objects are you working with? (Remind us or update us)
-* What have you done with or to those objects? 
+* What sources / objects are you working with? (Remind us or update us)
+* What have you done with or to those sources? 
 * What have you learned in the process? 
 * What are your next steps? 
 
@@ -249,7 +249,7 @@ Continue working on your project, and take notes in your [Mindful Practice Journ
 
 In preparation for week 13, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to *look back through your journal* to answer the following: 
 
-* What questions are you pursuing by processing your objects? (Remind us or update us)
+* What questions are you pursuing by processing your sources / objects? (Remind us or update us)
 * What answers do you have so far, however tentative?
 * What are your next steps to deepen your questions and answers? 
 * What have you learned in the process? 
@@ -277,7 +277,7 @@ Continue working on your project, and take notes in your [Mindful Practice Journ
 
 In preparation for our final class, **pre-record** a now-<strong>10</strong>-minute presentation on your independent project, which we can view in class and discuss. For this iteration, you should be able to _look back through your journal and your **public-facing project site**_ to answer the following: 
 
-* What materials (objects, processing steps, arguments) are you providing on your site?
+* What materials (sources, processing steps, arguments) are you providing on your site?
 * How have you prepared your materials for presentation to a public readership?
 * When you look back at your initial goals, where have you ended up? 
 * What have you learned in the process that could apply to future projects? 
