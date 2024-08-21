@@ -359,6 +359,22 @@ aside {
     background-color: #F7FAFC;
 }
 
+/* And have a more post-it like appearance for the opening lists of texts to have read and writing to turn in */
+
+.prereqs {
+    background-color: rgba(234, 230, 114, .33);
+}
+
+.prereqs details summary {
+    background-color: initial;
+    border: initial;
+}
+
+.prereqs details {
+    padding: 0.1em;
+}
+
+
 
 /* Add more visual separation between consecutive
    dictionary list items (e.g. on resources page) */

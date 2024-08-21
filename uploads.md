@@ -12,9 +12,9 @@ On this page, you'll find links to important course documents and readings you c
 
 ## Syllabus-related materials
 
-* [The whole shebang](uploads/2241 Benjamin Miller DSAM 3000 Seminar in Digital Studies and Methods Fall 2023.docx)
+* [The whole shebang](uploads/2251 Benjamin Miller DSAM 3000 Seminar in Digital Studies and Methods Fall 2024.docx)
 
-* [Just Ben's letter](uploads/letter-from-ben.docx)
+* [Just Ben's letter](uploads/letter-from-ben-2024.docx)
 
 
 <!-- * [Full syllabus, including Grading Contract]({{site.github.repository_url}}/raw/gh-pages/uploads/miller--syllabus--with-grading-contract--composing-digital-media--{{site.course.slugterm}}.pdf)

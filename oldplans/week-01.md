@@ -1,40 +1,46 @@
 
-# Lesson 1: Digital Affordances
-<span class="date">August 28, 2023</span>
-
-**Texts to have read:** the course description, Ben's email from last week
-
-**Writing to turn in:**
-
-* (at end of class) survey about your work environment, etc + a letter to Ben in response to his
-
-
+# Lesson 1: Digital + Studies
+<span class="date">August 26, 2024</span>
+<section class="prereqs">
+<details open><summary><strong>Texts to have read</strong></summary>
+    <ul>
+        <li>The course description</li>
+        <li>Ben's email from last week</li>
+    </ul>
+</details>
+<details open><summary><strong>Writing to turn in:</strong></summary>
+    <ul>
+        <li>(at end of class) survey about your work environment, etc, including a letter to Ben in response to his</li>
+    </ul>
+</details>
+</section>
 
 ## Plan for the day:
 
-* [First half](#first-half): Getting to know each other (90 min)
-    - Entering the room (preliminary announcements; first-day info sheet; private writing to seed discussion) (~10 min)
-    - Discussion: What are we studying in "digital studies"? (~50 min) <!-- key terms: affordance, procedural, participatory, encyclopedic, spatial -->
-    - Letter from Ben (~10 min) <!-- play 5 min of Posner *during* the letter?? -->
-    - Letter to Ben (~20 min)
+* [First half](#first-half): What are we getting into here? (90 min)
+    - Entering the room (preliminary announcements + setup) (~5 min)
+    - Writing to seed discussion (~10 min)
+    - Discussion: What are we studying in "digital studies"? (~60 min) <!-- key terms: affordance, procedural, participatory, encyclopedic, spatial -->
+    - Writing to remember (~15 min)
 * Break (10 min)
-* [Second half](#second-half): Getting to know GitHub (70 min)
-    - Why do versions need controlling? (~5 min)
-    - Text demo (~10-15 min) <!-- key terms: repository, commit, fork, clone -->
-    - Your turn (~20-25 min)
-    - Update letter to Ben (~10 min)
-* HW for next time (~10 min)
+* [Second half](#second-half): Getting to know each other (70 min)
+    - Letter from Ben (~10 min)
+    - Letter to Ben (~20 min)
+    - The briefest intro to GitHub (~10 min)
+* HW for next time (~15 min)
+
 
 
 
 <a id="first-half"></a>
+
 ## Entering the room
 
 ### As you're settling in:
 
 * I invite you to make yourself a little name-plate on a tri-folded piece of paper – or adjust the way your name displays in Zoom. For example, I want you to know that you can call me Ben, and that I use he/him pronouns. How would you like us to address you?
 
-* For a little more getting to know you, please fill out [this first day info sheet](https://forms.gle/o4mCg2iKCmr26F7X7) via Google Forms. If you can't get to it now, then at your earliest convenience. And if you have a device but not this page, you can get here by loading [benmiller314.github.io/dsam2024fall](https://benmiller314.github.io/dsam2024fall), clicking Schedule, and scrolling down to click on Week 1. (Or use the "current lesson" shortcut link at the top.)
+* For a little more getting to know you, please fill out [this first day survey](https://forms.gle/o4mCg2iKCmr26F7X7) via Google Forms. If you can't get to it now, then at your earliest convenience. And if you have a device but not this page, you can get here by loading [benmiller314.github.io/dsam2024fall](https://benmiller314.github.io/dsam2024fall), clicking Schedule, and scrolling down to click on Week 1. (Or use the "current lesson" shortcut link at the top.)
 
 * Last pre-class note: I want this class to welcome everyone. While I have not received word from anyone about challenges to hearing or vision, that doesn't mean the challenges don't exist. If you would prefer that I speak up, slow down, or zoom in, or if there's any other class feature that's impeding your success, please do let me know!
 
@@ -52,16 +58,16 @@ With those preliminaries out of the way, let's begin with some writing! I won't 
 
 EXT: What makes something digital different from something non-digital? What can digital things _do_ (or not do), or what can we do with them?
 
-<div class="alert alert-info">
-NB: I often use that EXT notation to signal an "extension activity," i.e. something you can do if you finish before the rest of the class, or if you just want to dig a little deeper. (There is always more to do.) In this grad class, I'll also use it to for optional readings that provide more depth or background than we'll have time to get into together, but which might be helpful for some of you on particular subjects.)
-</div>
+<aside class="alert alert-info">
+NB: I often use that EXT notation to signal an "extension activity," i.e. something you can do if you finish before the rest of the class, or if you just want to dig a little deeper. (There is always more to do.) In this grad class, I'll also use it to for optional readings that provide more depth or background than we'll have time to get into together, but which might be helpful for some of you on particular subjects.
+</aside>
 
 
 ## Discussion: What are we studying in "digital studies"?
 
 ### Part 1: Studies
 
-Let's talk! Please tell us (1) your name, (2) your preferred pronouns if you'd like, and then (3) your brief answer to the second of the seed prompts above: What's an area or field you're familiar with that uses "studies" in its name, and what does it mean to add that term or take it away?
+Let's talk! Please tell us (1) your name, (2) your preferred pronouns if you'd like, and then (3) your brief answer to the _second_ of the seed prompts above: What's an area or field you're familiar with that uses "studies" in its name, and what does it mean to add that term or take it away?
 
 Oh, also! Should we want to take notes, we have a shared google doc just for that purpose, which you can access and edit at **[bit.ly/dsam2024fall-notes](https://bit.ly/dsam2024fall-notes)**.
 
@@ -106,213 +112,141 @@ Again, let's try to use the [shared notes doc](https://bit.ly/dsam2024fall-notes
 
 </details>
 
+## Writing to remember
+
+<div class="alert alert-success">
+    <p>Spend some time putting marks on a page to help you think through, and consolidate for yourself, what we discussed today. What do you want to remember? What are you left wondering?</p>
+</div>
+
+After a few minutes, I'll ask everyone to share one thing, to which the only response will be "thank you."
+
+<details><summary>EXT: writing to grok</summary>
+
+<p>I sometimes call this practice "grok-writing," but you're not likely to hear anyone else call it that – unless they've taken my classes, I guess. The phrase "to grok" comes from Robert Heinlein's science fiction novel _Stranger in a Strange Land_ (first printing, Putnam 1961). Leaving aside, for now, the weird gender-relations of the novel, Heinlein spends a lot of the book harping on how hard it is to translate the word "grok" from Martian to English. It's often rendered as "drink" or especially "drink in." But in general (albeit nerdy) use &mdash; and certainly as I will use it from time to time in this course &mdash; to grok [something] means "to understand [something] fully," in the sense that (a) you no longer need to think consciously about how [something] works, and (b) you could make modifications if the need arose. It's drinking in the sense of absorbing, making it part of you.</p>
+
+<details>
+    <summary>More detail and some fun quotes</summary>
+    <p>Here's an example of the original usage:</p>
+    <blockquote>
+        <p>The Martian Race had encountered the people of the fifth planet, grokked them completely, and had taken action; asteroid ruins were all that remained, save that the Martians continued to cherish and praise the people they had destroyed. This new work of art was one of many attempts to grok the whole beautiful experience in all its complexity in one opus. But before it could be judged it was necessary to grok how to judge it. (Heinlein 93)</p>
+    </blockquote>
+    <p>Wikipedia's <a href="https://en.wikipedia.org/w/index.php?title=Grok&amp;oldid=695270451#In_computer_programmer_culture">current page on "Grok"</a> features this definition, which matches my experience of the term's usage:</p>
+    <blockquote>
+        <p>The <a href="https://en.wikipedia.org/wiki/Jargon_File">Jargon File</a>, which describes itself as a "Hacker's Dictionary" and has been published under that name three times, puts grok in a programming context:</p>
+        <blockquote>
+            <p>When you claim to "grok" some knowledge or technique, you are asserting that you have not merely learned it in a detached instrumental way but that it has become part of you, part of your identity. For example, to say that you "know" <a href="http://www.catb.org/jargon/html/L/LISP.html">Lisp</a> is simply to assert that you can code in it if necessary &mdash; but to say you "grok" LISP is to claim that you have deeply entered the world-view and spirit of the language, with the implication that it has transformed your view of programming. Contrast <a href="http://www.catb.org/jargon/html/Z/zen.html">zen</a>, which is a similar supernatural understanding experienced as a single brief flash.</p>
+        </blockquote>
+    </blockquote>
+</details> <!--/ fun quotes -->
+
+<p><strong>Grok-<em>writing</em></strong>, as I will use the term, means _using writing to internalize a discussion_: to drink it in and set it down and make what had been only air and vibrations &ndash; ephemeral sound &ndash; into something you can return to, perhaps repeatedly. In other words, please save your grok-writing somewhere you'll be able to find it again.</p>
+
+<p>Procedurally, this also draws on the Canadian tradition of "inkshedding," whereby we all write privately in a public space, but knowing that <strong>we will be expected to share <em>>something</em> from what we just wrote</strong>. I won't collect it, and we won't discuss it. Instead, we'll go around and each read some excerpt (how long is up to each of us) and then say, simply, "Thank you."</p>
+
+<p>Today's grok-writing and -sharing starts off already a bit disrupted by this explanation, but as the weeks go on I hope we'll be able to transition more smoothly from the writing to the talking to the sharing... and then into the break, where the ideas we share can linger and buzz and mix.</p>
+</details>
 
 
-## 2. A letter from Ben
-You can download it from the website in [.docx](/{{site.course.base_path}}uploads/letter-from-ben.docx) or [.md](/{{site.course.base_path}}uploads/letter-from-ben.md) format if you'd like to follow along.
-
-## 3. A letter back to Ben.
-I'll try to leave a little time at the end of class to add on, too, but let's take until about 10:30 to start an informal response.
-
-Please do this **on the last page of that same [survey from the start of class](https://forms.gle/o4mCg2iKCmr26F7X7)**, which you should still have open. If you've misread the instructions and already turned it in, email's a good fallback option: I'm at millerb@pitt.edu.
-
-Some considerations you might address include:
-
-* What were your expectations for the course coming in? What were your goals? If they’ve changed at all after the first half of class, how?
-* What, if anything, surprised you in my letter? Why? If you have any questions or concerns, please ask them!
-* If anything in my letter particularly excites you, or helps you, please let me know that, too!
-* What assets or experiences do you bring to the class that might help you or your classmates? What challenges do you think you’ll face?
-
-
-Don’t feel that you have to answer every single one of these questions, and especially don’t feel you have to answer them in order. Similarly, don’t feel your letter must be limited to only those questions covered in the bullet points.
-
-* EXT: If you finish early, think about making the letter multimodal. e.g. What images or sounds would you want to add? How might you arrange the images and text?
-* EXT: If you finish that, too, consider audience: how might you want to change this letter for posting an introduction to yourself on the course's (public) website, vs. just sending to me?
-* EXT: Finally, if you've considered those and still feel pretty satisfied, feel free to start your break!
+#### Sharing
+Don't forget to say "Thank you!"
 
 
 ## Break (10 min)
 Assuming we left off at 10:30, let's aim to start up again at 10:40 or so. That should beat the elevator rush for 11am classes.
 
 <a id="second-half"></a>
-## Second half: Getting to know GitHub
 
-Show of hands: who here has encountered GitHub before? In what contexts?
+## A letter from Ben
+You can download it from the website in [MS Word](/{{site.course.base_path}}uploads/letter-from-ben-2024.docx) or [Markdown](/{{site.course.base_path}}uploads/letter-from-ben-2024.md) format if you'd like to follow along.
 
-<details><summary>The problem GitHub is designed to solve</summary>
+## A letter back to Ben
+I'd love to know what you're thinking, after hearing what I've been thinking! To help you all answer at once, without talking over each other, I'd like to find out *in writing*.
 
-Maybe this will seem familiar:
+Please do this **on the last page of that same [survey from the start of class](https://forms.gle/o4mCg2iKCmr26F7X7)**, which you should still have open – or, if you missed your chance to answer the survey questions at 9:00, go ahead and do it now. If you've misread the instructions and already turned it in, email's a good fallback option: I'm at [millerb@pitt.edu](mailto:millerb@pitt.edu).
 
-<figure role="figure">
-  <a href="http://phdcomics.com/comics/archive.php?comicid=1531"><img src="../assets/img/cham-phd101212s.gif" style="max-height: 600px; max-height: 70vh; width: auto;" alt="webcomic shows a series of panels renaming final.doc to final_rev2, final_rev_6.comments, and so on to absurdity" title="I'm not the first to use this comic in a discussion of version control. See, for example, https://caltechlibrary.github.io/git-desktop/aio/."></a>
-  <figcaption>from <a href="http://phdcomics.com/comics/archive.php?comicid=1531">PhD Comics</a> by Jorge Cham (2012).</figcaption>
-</figure>
+Not sure what to say? Perhaps consider:
 
-Retaining and renaming ever more files eats up your storage space, sets you up for disappointment if you use "final" labels, and – if you ever need to recover some old version, which is presumably why you were bothering to keep these all around in the first place - doesn't make it any easier to keep track of what you've got.
+* What were your expectations for the course coming in? What were your goals? If they’ve changed at all after the first half of class, how?
+* What, if anything, surprised you in my letter? Why? If you have any questions or concerns, please ask them!
+* If anything in my letter particularly excites you, or helps you, please let me know that, too!
+* What assets or experiences do you bring to the class that might help you or your classmates? What challenges do you think you’ll face?
 
-There is a better way!
+Don’t feel that you have to answer every single one of these questions, and especially don’t feel you have to answer them in order. Similarly, don’t feel your letter must be limited to only those questions covered in the bullet points.
 
-<div class="alert alert-info">
-<p>The <em>git</em> version control system instead allows you to <strong>track the differences</strong> between versions of files <strong>while keeping the same filenames.</strong></p>
-<p><em><a href="https://github.com">GitHub</a></em> is a cloud-based system for sharing files and histories with other people.</p>
-</div>
+* EXT: If you finish early, think about making the letter multimodal. e.g. What images or sounds would you want to add? How might you arrange the images and text?
+* EXT: If you finish that, too, consider audience: how might you want to change this letter for posting an introduction to yourself on the course's (public) website, vs. just sending to me?
+* EXT: Finally, if you've considered those and still feel pretty satisfied, feel free to read ahead, and possibly to post what you just imagined! You will need a (free) login to GitHub.com, for which I recommend using a .edu email address.
 
-If you spend a while working with digital methods, chances are you're eventually going to be directed to GitHub to download some code or data. But as we'll see, there are reasons to put the power of GitHub to work for you, too, that are independent of programming.
+## The briefest intro to GitHub
 
-</details>
+We'll talk about GitHub a lot more when we get back in two weeks. For now, here are some essentials:
 
-### Text demo
+* It's a site where a lot of people share code.
+* And not just code files: the entire revision history of all the files.
+* But not just code: *any* file can be shared and its revision history tracked.
+* This makes it pretty awesome for project management.
+* I think as digital studies scholars, you should at least be familiar with GitHub, even if you never use it again after this course.
+* To start, I'm going to use one (I hope familiar) feature of the site: a built-in [discussion forum]({{site.repo_url}}/discussions).
+    * You'll need a (free) account. If you don't have one, I recommend you register using a .edu email address, because it'll give you some bonus freebies.
 
-<div class="alert alert-success">
-Let's check out the GitHub.com web interface, and see how it works:
-<strong><a href="https://github.com/benmiller314/text-demo">https://github.com/benmiller314/text-demo</a></strong>
-</div>
-
-
-Initial questions to ask of any app:
-
-- How is the space laid out?
-- What's given the most prominent visual focus? Secondary focus?
-- What features/tools do you have quick access to?
-
-In other words: what functions or actions are _afforded_ by this interface?
-
-<details><summary>Once we've set some expectations, let's see what we can do.</summary>
-
-Here's my plan, and for now, I'll drive. (You'll have your turn later.)
-<ol>
-    <li>Tour the file system, including how to navigate and where the history lives.</li>
-    <li>Edit our text file, and let's have fun with it.</li>
-    <li><strong>Commit</strong> the edited file directly to master.<ul>
-        <li>Note that the commit message has two parts: a short label, and a bigger box. These are kind of like the subject line of an email and the email body. The first is what you'll see automatically when browsing the history; the second will require an additional click. GitHub will let you leave the "body" blank, but you're required to have a "subject line."</li>
-        <li>Note as well that <em>the default commit messages are pretty meaningless</em>. We can do better! Let's always try to say *how* a file is changing, or what we're trying to accomplish by changing it, rather than just saying that it's changed.</li>
-        </ul>
-    </li>
-    <li>Let's get some more changes! After the second or third, I want us to create a new <strong>branch</strong> and <strong>pull request</strong> instead of committing.<ul>
-        <li>Why, you ask? It matters when you're working with others: you want to make sure you're comparing against the most up-to-date version, so you don't accidentally erase something new.</li>
-        </ul>
-    </li>
-</ol>
-</details>
+If time allows, please log in and post a quick intro at the link above! I'll try to demonstrate some of the affordances.
 
 
+## Homework!
 
-### Your turn! Download what you'll need
+This is probably the most time I'll need to explain homework, both because it's our first time and because we have *two* weeks to cover: Monday is a holiday, so there's no synchronous class next week.
 
-To work directly on the GitHub website, you don't need anything but a web browser. But most of the time, you're going to want to have a *local copy* of your project that you can *pull* down from the clouds, make your changes on your own machine, and then *push* back up with the changes and history intact.
-
-In git-speak, that linked local copy is called a *clone*. There are some good [instructions (including pictures) in the GitHub documentation](https://help.github.com/articles/cloning-a-repository) for how to make a clone. But probably the easiest way to is to work with an app like [GitHub Desktop](https://desktop.github.com/).
-<!--
-I've got another repo for you to [Digital Affordances repo](https://github.com/benmiller314/dsam-digital-affordances). -->
-
-To make a clone from a repo on the GitHub website, first click the green code button:
-
-<figure>
-    <img alt="Clicking code lets you Open with GitHub Desktop" src="../assets/img/github--clone-code.png">
-    <figcaption>Clicking "Open with GitHub Desktop" will guide you to the download page if you don't already have it.</figcaption>
-</figure>
-
-Note that there is a "Download ZIP" option: that would let you get the _current_ version of the files. But it wouldn't let you contribute back to the repo. Plus, if you clone, _you get the whole revision history_. Double win!
-
-<!--
-5. Use the CODE button to *Open in GitHub Desktop*. Ask the questions above again: how is the space laid out? What's given the most prominent visual focus? Secondary focus? What features/tools do you have quick access to?
--->
-
-<div class="alert alert-success">
-Select "Open with GitHub Desktop" and follow the link to download the app if you haven't yet.
-</div>
+Thank you for bearing with me!
 
 
-Once you get the file open, let's again ask our questions:
+### For next week
 
-- How is the space laid out?
-- What's given the most prominent visual focus? Secondary focus?
-- What features/tools do you have quick access to?
+In lieu of a whole-class meeting, I'm asking everyone to schedule a one-on-one meeting with me for some time in the next two weeks: I want to help you brainstorm some ideas for your semester-long independent project.
 
-In other words: what functions or actions are _afforded_ by this interface?
+The first set of assigned readings below is in prep for that office hour visit; they're about the scope and range of digital projects, so it makes sense to **schedule your meeting for after you've looked through these texts.** See the [office hours](../office) page for how to claim a slot or request an alternative if the usual slots won't work for you. That page also has directions to my office.
 
-
-### Various views of the same files
-
-When you clone a repository, it shows up on your computer as a folder, because *that's all a repository is: it's a file folder.* You can open it in Finder (Mac) or Explorer (Windows), and everything's arranged just the way you'd expect.
-
-In fact, you'll need to tell GH Desktop where you want this repo to live within your file system – and if you're getting an error that the "folder is not empty," you just need to give it a new name to create the repo as a subfolder.
-
-<details><summary>Help with "folder is not empty" error</summary>
-<figure>
-<img alt="You may need to change the 'local path' when cloning." src="../assets/img/github-desktop--directory-not-empty.png">
-</figure>
-</details>
-
-Note that you can also open the repository (folder, directory – they're all the same thing, essentially) via [command line](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line) (a.k.a. _Terminal_ on Mac, or _GitBash_ or _PowerShell_ on Windows), and the files will be the same. They're all just different vantage points on the same location.
-
-**GH Desktop, though, will only show you the files that have changed.** If you're looking at a blank window and you're worried that no files are showing, all it means is that everything's in sync with the latest commit. In that case, though, GH Desktop kindly offers to open the file in your usual file system – or in an external text editor. Let's do that!
-
-<figure>
-    <img alt="The repository menu of GH Desktop provides access to the folder in Finder or a text editor of your choice." src="../assets/img/github-desktop--open-in-vscode.png">
-</figure>
-
-VS Code or Pulsar will work equivalently here, as will most other plaintext editors. MS Word will not, though as an EXT you're welcome to try and see what happens!
-
-<div class="alert alert-success">
-    <p>Working on your own or in pairs, edit the poem on your own device and save the file.</p>
-    <p>Then head back into GH Desktop. What do you see? What features/tools do you have quick access to now (e.g. if you right-click)?</p>
-</div>
-
-### Push and pull (and fork)
-
-Saving changes to your file is only the first step to changing your repository. For now, git knows the file has changed, but it's not sure if you're ready to take the next step – to commit.
-
-Note that this is one key difference between editing directly on the GitHub website and editing locally: on the website, you have to commit to save. On your own machine, you can instead wait until several files are ready before bundling all those changes into a single commit. Even then, you can also choose to include just *some* of your changes in the commit. Working on your own machine gives you that flexibility.
-
-And there's still one more step before everyone else can see even your most committed changes: you still have to **push** your changes.
-
-If you try to do that with this repo, you'll notice a problem: I didn't give you edit access.
-
-<details><summary>What does GH Desktop do to help you solve this problem?</summary>
-
-<p>Where a <em>clone</em> is a kind of one-to-one shadow of a remote repository (or vice versa), a <strong>fork</strong> is like an alternate reality: a new copy that lives (more or less) independently from the first one. (Any <a title="Fork had a different association for me in high school, but it turns out to have a pretty similar effect." href="https://gatherer.wizards.com/Pages/Card/Details.aspx?printed=false&multiverseid=202493">Magic: The Gathering</a> fans in the room?) You can still merge across forks, and in fact this is the reason that a pull request is called a pull <em>request</em>: you have to get permission from the owner of the original repo before merging in.</p>
-
-<p>You can also fork directly from the GitHub website: just look for the button along the top of the repo's root page.</p>
-    <details><summary>Show me</summary>
-    <figure>
-        <img alt="Links on the GitHub website allow you to make your own fork of someone else's repo or view existing forks of the current repo." src="../assets/img/github--clone-and-find-forks.png">
-    </figure>
-    </details>
-
-</details>
-
-<!-- Remember that all these error messages and cross-links (e.g. to preferences) had to be set by human programmers. Figuring out what behaviors to anticipate, and how to gently steer people in the right direction, is the field of User Experience Design, or UX. -->
-
-### Update letter to Ben (if you want)
-
-If time and interest encourage you to do so, feel free to add to the end of your letter to me. Otherwise, go ahead and submit the survey / send the email before you leave!
-
-
-
-## Homework
-
-### For next time
-There's no class next Monday, so I'm asking everyone to instead schedule a meeting with me for some time in the next two weeks: I want to help you brainstorm some ideas for your semester-long independent project.
-
-The first set of assigned readings are in prep for that office hour visit, and are about the scope and range of digital projects, so it makes sense to **schedule your meeting for after you've looked through these texts.** See the [office hours](../office) page for how to claim a slot or request an alternative if the usual slots won't work for you. That page also has directions to my office.
-
-- If you missed the opportunity earlier, please do fill out and submit the [first-day survey](https://forms.gle/Nqc7KLeP5CMBVhBi8) to help me get to know you.
-    * Did you know that Canvas lets you record your name as you'd like it to be pronounced, and listen to the name pronunciations of your classmates? Look for the NameCoach Roster, for our class and others!
-
-- By Friday, **watch / read** the following:
+1. Getting to know each other
+    * If you missed the opportunity earlier, please do fill out and submit the [first-day survey](https://forms.gle/o4mCg2iKCmr26F7X7) to help me get to know you.
+    * You can also post a quick intro on the [discussion forum]({{site.repo_url}}/discussions) from a moment ago; doing it early should surface any login problems before you have to post the reading discussion later on.
+        - You'll need to **create a GitHub account** if you don't already have one. Think about your username: it can, but need not, indicate your real name or match your other online profiles. (Pros and cons either way.)
+    * Did you know that Canvas lets you record your name as you'd like it to be pronounced, and listen to the name pronunciations of your classmates? Look for the NameCoach Roster, which will work for for our class and others!
+2. By Friday, **watch / read** the following:
     * Posner, Miriam. “How Did They Make That? The Video!” Miriam Posner's Blog, April 17, 2014. <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/">http://miriamposner.com/blog/how-did-they-make-that-the-video/</a>.
     * Posner, Miriam. How Did They Make That? 29 Aug. 2013, <a href="https://miriamposner.com/blog/how-did-they-make-that/">https://miriamposner.com/blog/how-did-they-make-that/</a>.
     * Risam, Roopika, and Alex Gil. “Introduction: The Questions of Minimal Computing.” Digital Humanities Quarterly, vol. 16, no. 2, 2022, <a href="http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html">http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html</a>.
-
-- **Write a brief response** on the [discussion forum]({{site.repo_url}}/issues).
-    * You should ground your response in a particular passage or scene, if possible, but plan to write at least 100 words of your own: questions, confusions, connections, excitements, incitements, and so on.
-    * Responding directly to each other is optional but encouraged! To make that more possible, please try to post by Friday evening when you can.
-
-* EXT for eager readers:
-    - Murray, Janet H. “Affordances of the Digital Medium.” <em>Inventing the Medium: Principles of Interaction Design as a Cultural Practice</em>, The MIT Press, 2011, pp. 51–85. <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66">https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66</a>.
-    - N Katherine Hayles. “PRINT IS FLAT, CODE IS DEEP: The Importance of Media-Specific Analysis.” _Transmedia Frictions_, edited by Tara McPherson and Marsha Kinder, 1st ed., University of California Press, 2014, pp. 20–33. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.1525/j.ctt6wqc2f.6">https://doi.org/10.1525/j.ctt6wqc2f.6</a>.
+    * EXT for eager readers:
+        - [Sample DSAM project reflections](../sample-projects.md) from years past
+        - Murray, Janet H. “Affordances of the Digital Medium.” <em>Inventing the Medium: Principles of Interaction Design as a Cultural Practice</em>, The MIT Press, 2011, pp. 51–85. <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66">https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66</a>.
+        - Sorapure, Madeline. "Five Principles of New Media: Or, Playing Lev Manovich." <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 8, no. 2, <a href="http://kairos.technorhetoric.net/8.2/coverweb/sorapure/">http://kairos.technorhetoric.net/8.2/coverweb/sorapure/</a>. NB: The obsolescence of Adobe Flash is both unfortunate and also a lesson in the challenges of technical debt. :\
+        - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
+        <!-- - N Katherine Hayles. “PRINT IS FLAT, CODE IS DEEP: The Importance of Media-Specific Analysis.” _Transmedia Frictions_, edited by Tara McPherson and Marsha Kinder, 1st ed., University of California Press, 2014, pp. 20–33. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.1525/j.ctt6wqc2f.6">https://doi.org/10.1525/j.ctt6wqc2f.6</a>. -->
+3. Attend your scheduled office-hour meeting
+4. Begin your [Mindful Practice Journal](projects.md) by taking notes in prep for, and in the aftermath of, that meeting.
 
 ### For week 3
 
-When we get back together on September 11th, we'll be talking about programming as a literate practice – including as a generative practice. There will be some additional readings to prime that conversation, with an additional discussion forum. I'll post and email a reminder next week!
+When we get back together on September 9th, we'll be talking about GitHub, filetypes, and version control, with only one new reading. BUT there are also **downloads** that you should make sure to start early; if you run into trouble, I can help you troubleshoot during office hours. 
+
+There will also be another discussion forum post besides the introductory one, to give you a chance to think in writing about the readings and to seed our in-class conversation. I'll remind you to look for the link next week.
+
+<details><summary>Click to see download instructions.</summary>
+
+<ul><li><strong>install a plain-text editor</strong> if you don't already have one (e.g. <a href="https://pulsar-edit.dev/">Pulsar</a> or <a href="https://code.visualstudio.com/">Visual Studio Code</a>).</li>
+<li><strong>install the <a href="https://desktop.github.com">GitHub Desktop</a> app</strong> and any dependencies it recommends. (NB: This may take up to 20 minutes, so please don't wait until the morning of class!)
+    <ul><li>NB: If you get an error saying it's not an approved app, don't worry: it's safe. Instead of double-clicking to open the installer, right-click and choose "Open" to give yourself permission to open it anyway.</li></ul>
+    </li>
+</ul>
+</details>
+
+<details><summary>Click to see readings.</summary>
+<ul>
+    <li>Stolley, Karl. “The Lo-Fi Manifesto, v 2.0.” <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 20, no. 2, Jan. 2016, <a href="https://kairos.technorhetoric.net/20.2/inventio/stolley/">https://kairos.technorhetoric.net/20.2/inventio/stolley/</a>.</li>
+    <li>EXT for eager readers:
+    <ul>
+        <li>Stolley's "<a href="https://kairos.technorhetoric.net/20.2/inventio/stolley/readme/">README for The Lo-Fi Manifesto, v 2.0</a>"</li>
+        <li>Stolley's notes on his earlier draft, "<a href="https://kairos.technorhetoric.net/20.2/inventio/stolley/1.2">Lo-Fi Manifesto, v 1.2</a>"</li>
+    </ul>
+    </li>
+</ul>
+</details>
+
