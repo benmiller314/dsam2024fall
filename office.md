@@ -6,7 +6,9 @@ banneralt: "banner: phases of the moon"
 
 
 ## Office Hours
-Drop-ins are welcome during my regular hours, {{site.course.instructor.office_hours}}, or you can book an appointment using the form below. Meetings will be simultaneously <strong>on Zoom, at <a href="https://pitt.zoom.us/my/benmiller314">pitt.zoom.us/my/benmiller314</a></strong>, and (when classes are meeting in person) in <strong>CL 617-N</strong>: through the glass doors near the elevators, then the right-side hallway and way back. And if none of these times work for you, email me (millerb@pitt) to see if we can arrange something else. NB: Office hours will be extended in the first 2-3 weeks to accommodate the first required one-on-one meetings to make plans, but **hours outside the regular will be virtual only**.
+Drop-ins are welcome during my regular hours, {{site.course.instructor.office_hours}}, or you can book an appointment using the form below. Meetings will be simultaneously <strong>on Zoom, at <a href="https://pitt.zoom.us/my/benmiller314">pitt.zoom.us/my/benmiller314</a></strong>, and (when classes are meeting in person) in <strong>CL 617-N</strong>: through the glass doors near the elevators, then the right-side hallway and way back. And if none of these times work for you, email me (millerb@pitt) to see if we can arrange something else. 
+
+<div class="alert alert-warning">NB: Office hours will be extended in the first 2-3 weeks to accommodate the first required one-on-one meetings to make plans, but <strong>hours outside the regular will be virtual only</strong>.</div>
 
 Note as well that this app only is configured to give me a minimum warning of 2 hours, and not to book up more than two weeks in advance. Below the signup calendar, I'm also embedding my busy/free status for office hours. <em>If it looks like I have no appointments left open, you can check that lower calendar:</em> actual reserved appointment slots will show up as "busy" during the standard office-hour window. If you don't see those, you can probably stop by!
 
