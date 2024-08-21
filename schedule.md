@@ -67,7 +67,7 @@ or something else you suggest (with enough lead time...)! We'll vote asynchronou
 <a id="current"></a>
 <h3 id="week-01"><a href='plans/week-01'>Week 1: Mon, Aug 26</a> – Digital + Studies</h3>
 
-**Schedule a meeting with Ben** for some time next week (that isn't Monday) to talk about possible sources/objects for you to process and present on. See the [office hours](office) page for how to claim a slot or request an alternative if the usual slots won't work for you.
+For next time: **Schedule a meeting with Ben** for some time next week (that isn't Monday) to talk about possible sources/objects for you to process and present on. See the [office hours](office) page for how to claim a slot or request an alternative if the usual slots won't work for you.
 
 Before that meeting, ideally by this Friday, **watch**:
 * Posner, Miriam. “How Did They Make That? The Video!” Miriam Posner's Blog, April 17, 2014. <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/">http://miriamposner.com/blog/how-did-they-make-that-the-video/</a>.
@@ -78,7 +78,7 @@ and **read**:
 * Risam, Roopika, and Alex Gil. “Introduction: The Questions of Minimal Computing.” Digital Humanities Quarterly, vol. 16, no. 2, 2022, <a href="http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html">http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html</a>.
 
 * EXT for eager readers:
-    - Sample DSAM project reflections from years past <!-- [Addison Eldin (capstone)](https://addeldin.github.io/projects/dsam-reflection/) -->
+    - [Sample DSAM project reflections](./sample-projects) from years past
     - Murray, Janet H. “Affordances of the Digital Medium.” <em>Inventing the Medium: Principles of Interaction Design as a Cultural Practice</em>, The MIT Press, 2011, pp. 51–85. <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66">https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66</a>.
     - Sorapure, Madeline. "Five Principles of New Media: Or, Playing Lev Manovich." <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 8, no. 2, <a href="http://kairos.technorhetoric.net/8.2/coverweb/sorapure/">http://kairos.technorhetoric.net/8.2/coverweb/sorapure/</a>. 
         * NB: this article was built using the now-deprecated Adobe Flash, so it no longer displays the interactive features that illustrated each of the principles. (You can still read a PDF description of what used to be there.) But it's still a more concise encapsulation than reading Manovich's <em>The Language of New Media</em>.
