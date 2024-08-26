@@ -28,7 +28,7 @@ Composition, and my research has mostly involved visualizing metadata
 (data *about* data), especially metadata about written sources: things
 like where they were written, and when, that might be applicable to
 other kinds of corpora. For the kind of analysis I've done most, word
-order isn't as important as how many times words come up. I end up
+order isn't as important as how many times words come up, in what clusters. I end up
 saying "in the aggregate" a lot. I work with code, though I'm not a
 brilliant programmer, and that combination gives me a deep appreciation
 for the scale of what brilliant programmers have been able to achieve,
@@ -41,9 +41,9 @@ probably will, if you get me started), but I'll be equally excited if
 you find something I've never seen before, and excited also to explore
 it with you.
 
-If we're being real, though you *are* kind of stuck with my
+If we're being real, though, you *are* kind of stuck with my
 experience-thus-far in terms of shared readings and demos -- I can't yet
-know what I don't know yet -- which is why I do devote some time to
+know what I don't know yet -- which is why I will devote some time to
 code, data, and GitHub. Things that have been formative for me will tend
 to inform what I think might be relevant to you. But the shared
 assignments are really just a kind of crossroads inn to bring us back
@@ -69,14 +69,13 @@ to it to make it tractable by digital machines. And then you use the
 digital machines to make some aspect of that source material more
 tangible, visible, accessible, present.
 
-Maybe some of you are already thinking of what your sources could be;
-maybe you have questions that will lead you to define that source
-material, or maybe you have some material in mind to work with, and want
-the machines to help you find the questions. Either approach is fine! In
-my experience, those are two poles of an alternating current that powers
-most projects, including writing projects: exhibits need arguments for
-interpretation, arguments need exhibits for evidence. Wherever you
-start, you'll likely need to go both ways.
+Maybe some of you are already thinking of what your sources could be; 
+maybe you have questions that will lead you to define that source material; 
+or maybe you have some material in mind to work with, and want the machines 
+to help you find the questions. In my experience, these are the poles of an 
+alternating current that powers most projects, including writing projects: 
+exhibits need arguments for interpretation, and arguments need exhibits 
+for evidence. So wherever you start, you’ll likely need to go both ways.
 
 That's one reason the independent projects for this class are designed
 to be produced through *iterations*: you really, truly, don't want to
@@ -84,7 +83,7 @@ build a digital project as a one-and-done, no matter how quickly you can
 turn out a draft of a seminar paper. Some parts may feel automatic, and
 fast; but figuring out which automations to run, and what to do with the
 outputs, and -- ha! that's assuming there will even *be* an output
-without lots of experimentation matching your inputs to what the
+without lots of experimentation to match your inputs to what the
 software expects -- suffice it to say, [as Paul Valéry said of
 poems](https://www.jstor.org/stable/4333487), a digital project is
 "never really finished, only abandoned."
@@ -102,21 +101,21 @@ write down what hours you worked on your project, and what you did in
 that time. We'll call this (borrowing the title from Alison Langmead,
 who taught this course for many years), your *Mindful Practice
 Journals*; see the
-[Projects](file:////%257B%257Bsite.course.base_path%257D%257Dprojects#mindful-practice-journal)
+[Projects](https://benmiller314.github.io/dsam2024fall/projects#mindful-practice-journal)
 page for more. Looking back at these notes, you'll know you weren't
 wasting time: you were reading documentation, or you were cleaning messy
 data, or so on and so forth. And maybe even writing! Who knows. But you
 were *moving*.
 
-Second, I'm going to ask you to publicly present your project: before
+Second, I'm going to ask you to publicly present your project, _before_
 it's finished, and multiple times. Four times, to be exact -- once each
 month. To help you deepen your project and see the progress you're
 making, I've named each of these iterations using Posner's summary as a
 template: first establish what you're working with (iteration 1:
 sources); then figure out how to make it tractable by computers
-(iteration 2: processed); ideally, that gives you space to form some
-hypotheses, a sense of what processing these sources helps you to see or
-say (iteration 3: and...?); the final day of class will be about
+(iteration 2: processed). Ideally, that gives you space to form some
+hypotheses: a sense of what processing these sources helps you to see or
+say (iteration 3: and...?). The final day of class will be about
 showcasing all you've achieved (iteration 4: presented).
 
 These presentations can be informal -- they're about work in progress,
@@ -128,7 +127,7 @@ noticed, and working together we're more likely to figure some things
 out. As we move forward, I'll have more specific guidance for how to
 prepare for the presentations -- and how to [share your
 project-in-progress with the larger
-world](file:////Users/MILLERB/OneDrive-UniversityofPittsburgh%20(Archive)/_BoxMigration/teaching/DSAM%203000/%257B%257Bsite.course.base_path%257D%257Dprojects#palimpsest-of-public-iteration).
+world](https://benmiller314.github.io/dsam2024fall/projects#palimpsest-of-public-iteration).
 
 Third, and potentially related to that last point, I'm going to make
 sure everyone here knows how to use GitHub, one of the places a lot of

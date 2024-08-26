@@ -90,7 +90,7 @@ Janet H. Murray, author of _Hamlet on the Holodeck_ and _Inventing the Medium_, 
 
 <div class="alert alert-success">
 <p>Take a look back at your notes from the start of class.</p>
-<ul><li>What do these affordances help you see about the digital examples you'd chosen?</li> <li>What to your examples help you understand about how Murray defines these affordances?</li> <li>How well do Murray's descriptions line up with your own expectations of what's entailed by being "digital"?</li></ul>
+<ul><li>What do these affordances help you see about the digital examples you'd chosen?</li> <li>What do your examples help you understand about how Murray defines these affordances?</li> <li>How well do Murray's descriptions line up with your own expectations of what's entailed by being "digital"?</li></ul>
 </div>
 
 Again, let's try to use the [shared notes doc](https://bit.ly/dsam2024fall-notes) if possible.
@@ -105,7 +105,7 @@ Again, let's try to use the [shared notes doc](https://bit.ly/dsam2024fall-notes
     <li><strong>transcoding:</strong> we understand culture through the lens of computers, and computers through the lens of culture</li>
 </ul>
 
-<div class="alert alert-success">Where do these new terms map neatly onto Murray's, and where do they highlight something else? What affordances follow from these principle features? What questions do they raise?
+<div class="alert alert-success">Where do these new terms map neatly onto Murray's, and where do they highlight something else? What affordances follow from these principles/features? What questions do they raise?
 </div>
 
 <p>NB: My preferred way to read more about this hasn't actually been Manovich's book, but rather a webtext by Madeline Sorapure, “Five Priniciples of New Media: Or, Playing Lev Manovich.” <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 8, no. 2, <a href="http://kairos.technorhetoric.net/8.2/coverweb/sorapure/">http://kairos.technorhetoric.net/8.2/coverweb/sorapure/</a>. Unfortunately, that article was built using the now-deprecated Adobe Flash, so it no longer displays the interactive features that illustrated each of the principles. (You can still read a PDF description of what used to be there.) On the plus side, Sorapure's examples were actually created by her students, so if anyone is looking for an independent project, you could do worse than creating a new set of illustrative examples for Manovich's principles (or Murray's, for that matter)!</p>
@@ -122,7 +122,7 @@ After a few minutes, I'll ask everyone to share one thing, to which the only res
 
 <details><summary>EXT: writing to grok</summary>
 
-<p>I sometimes call this practice "grok-writing," but you're not likely to hear anyone else call it that – unless they've taken my classes, I guess. The phrase "to grok" comes from Robert Heinlein's science fiction novel _Stranger in a Strange Land_ (first printing, Putnam 1961). Leaving aside, for now, the weird gender-relations of the novel, Heinlein spends a lot of the book harping on how hard it is to translate the word "grok" from Martian to English. It's often rendered as "drink" or especially "drink in." But in general (albeit nerdy) use &mdash; and certainly as I will use it from time to time in this course &mdash; to grok [something] means "to understand [something] fully," in the sense that (a) you no longer need to think consciously about how [something] works, and (b) you could make modifications if the need arose. It's drinking in the sense of absorbing, making it part of you.</p>
+<p>I sometimes call this practice "grok-writing," but you're not likely to hear anyone else call it that – unless they've taken my classes, I guess. The phrase "to grok" comes from Robert Heinlein's science fiction novel <em>>Stranger in a Strange Land</em> (first printing, Putnam 1961). Leaving aside, for now, the weird gender-relations of the novel, Heinlein spends a lot of the book harping on how hard it is to translate the word "grok" from Martian to English. It's often rendered as "drink" or especially "drink in." But in general (albeit nerdy) use &mdash; and certainly as I will use it from time to time in this course &mdash; to grok [something] means "to understand [something] fully," in the sense that (a) you no longer need to think consciously about how [something] works, and (b) you could make modifications if the need arose. It's drinking in the sense of absorbing, making it part of you.</p>
 
 <details>
     <summary>More detail and some fun quotes</summary>
@@ -130,7 +130,7 @@ After a few minutes, I'll ask everyone to share one thing, to which the only res
     <blockquote>
         <p>The Martian Race had encountered the people of the fifth planet, grokked them completely, and had taken action; asteroid ruins were all that remained, save that the Martians continued to cherish and praise the people they had destroyed. This new work of art was one of many attempts to grok the whole beautiful experience in all its complexity in one opus. But before it could be judged it was necessary to grok how to judge it. (Heinlein 93)</p>
     </blockquote>
-    <p>Wikipedia's <a href="https://en.wikipedia.org/w/index.php?title=Grok&amp;oldid=695270451#In_computer_programmer_culture">current page on "Grok"</a> features this definition, which matches my experience of the term's usage:</p>
+    <p>Wikipedia's <a href="https://en.wikipedia.org/w/index.php?title=Grok&amp;oldid=695270451#In_computer_programmer_culture">current page on "Grok"</a> features the following definition, which matches my experience of the term's usage:</p>
     <blockquote>
         <p>The <a href="https://en.wikipedia.org/wiki/Jargon_File">Jargon File</a>, which describes itself as a "Hacker's Dictionary" and has been published under that name three times, puts grok in a programming context:</p>
         <blockquote>
@@ -139,7 +139,7 @@ After a few minutes, I'll ask everyone to share one thing, to which the only res
     </blockquote>
 </details> <!--/ fun quotes -->
 
-<p><strong>Grok-<em>writing</em></strong>, as I will use the term, means _using writing to internalize a discussion_: to drink it in and set it down and make what had been only air and vibrations &ndash; ephemeral sound &ndash; into something you can return to, perhaps repeatedly. In other words, please save your grok-writing somewhere you'll be able to find it again.</p>
+<p><strong>Grok-<em>writing</em></strong>, as I will use the term, means <em>using writing to internalize a discussion</em>: to drink it in and set it down and make what had been only air and vibrations &ndash; ephemeral sound &ndash; into something you can return to, perhaps repeatedly. One implication: please save your grok-writing somewhere you'll be able to find it again!</p>
 
 <p>Procedurally, this also draws on the Canadian tradition of "inkshedding," whereby we all write privately in a public space, but knowing that <strong>we will be expected to share <em>>something</em> from what we just wrote</strong>. I won't collect it, and we won't discuss it. Instead, we'll go around and each read some excerpt (how long is up to each of us) and then say, simply, "Thank you."</p>
 
@@ -194,7 +194,7 @@ If time allows, please log in and post a quick intro at the link above! I'll try
 
 ## Homework!
 
-This is probably the most time I'll need to explain homework, both because it's our first time and because we have *two* weeks to cover: Monday is a holiday, so there's no synchronous class next week.
+This is probably the most time I'll need to explain homework, both because it's our first time and because we have *two* weeks to cover: next Monday is a holiday, so there's no synchronous class next week.
 
 Thank you for bearing with me!
 
@@ -218,10 +218,10 @@ The first set of assigned readings below is in prep for that office hour visit; 
         - [Sample DSAM project reflections](../sample-projects.md) from years past
         - Murray, Janet H. “Affordances of the Digital Medium.” <em>Inventing the Medium: Principles of Interaction Design as a Cultural Practice</em>, The MIT Press, 2011, pp. 51–85. <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66">https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66</a>.
         - Sorapure, Madeline. "Five Principles of New Media: Or, Playing Lev Manovich." <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 8, no. 2, <a href="http://kairos.technorhetoric.net/8.2/coverweb/sorapure/">http://kairos.technorhetoric.net/8.2/coverweb/sorapure/</a>. NB: The obsolescence of Adobe Flash is both unfortunate and also a lesson in the challenges of technical debt. :\
-        - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
+        - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950&ppg=186">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
         <!-- - N Katherine Hayles. “PRINT IS FLAT, CODE IS DEEP: The Importance of Media-Specific Analysis.” _Transmedia Frictions_, edited by Tara McPherson and Marsha Kinder, 1st ed., University of California Press, 2014, pp. 20–33. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.1525/j.ctt6wqc2f.6">https://doi.org/10.1525/j.ctt6wqc2f.6</a>. -->
 3. Attend your scheduled office-hour meeting
-4. Begin your [Mindful Practice Journal](projects.md) by taking notes in prep for, and in the aftermath of, that meeting.
+4. Begin your [Mindful Practice Journal](../projects#mindful-practice-journal) by taking notes in prep for, and in the aftermath of, that meeting.
 
 ### For week 3
 
