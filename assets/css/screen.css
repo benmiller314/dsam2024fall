@@ -363,6 +363,7 @@ aside {
 
 .prereqs {
     background-color: rgba(234, 230, 114, .33);
+    margin-bottom: 2em;
 }
 
 .prereqs details summary {

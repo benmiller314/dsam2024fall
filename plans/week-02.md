@@ -4,6 +4,23 @@
 
 <div class="alert alert-danger">Reminder: no synchronous class this week!</div>
 
+<section class="prereqs">
+<details><summary><strong>Texts to have read / watched</strong></summary>
+    <ul>
+        <li>Posner, Miriam. “How Did They Make That? The Video!” Miriam Posner's Blog, April 17, 2014. <a href="http://miriamposner.com/blog/how-did-they-make-that-the-video/">http://miriamposner.com/blog/how-did-they-make-that-the-video/</a>.</li>
+        <li>Posner, Miriam. How Did They Make That? 29 Aug. 2013, <a href="https://miriamposner.com/blog/how-did-they-make-that/">https://miriamposner.com/blog/how-did-they-make-that/</a>.</li>
+        <li>Risam, Roopika, and Alex Gil. “Introduction: The Questions of Minimal Computing.” Digital Humanities Quarterly, vol. 16, no. 2, 2022, <a href="http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html">http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html</a></li>
+    </ul>
+</details>
+<details><summary><strong>Writing to turn in</strong></summary>
+    <ul>
+        <li>survey about your work environment, etc, including a letter to Ben in response to his, if you didn't during lesson 1</li>
+        <li>an intro post to the <a href="{{site.github_url}}/discussions/1">discussion forum</a></li>
+    </ul>
+</details>
+</section>
+
+
 I (Ben) know many of you have already signed up to meet in [office hours](office) some time this week. I'll see you there! And if none of those times work, let's figure out something else by email.
 
 ## What to expect in those meetings
