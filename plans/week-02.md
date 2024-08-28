@@ -21,7 +21,7 @@
 </section>
 
 
-I (Ben) know many of you have already signed up to meet in [office hours](office) some time this week. I'll see you there! And if none of those times work, let's figure out something else by email.
+I (Ben) know many of you have already signed up to meet in [office hours](../office) some time this week. I'll see you there! And if none of those times work, let's figure out something else by email.
 
 ## What to expect in those meetings
 
