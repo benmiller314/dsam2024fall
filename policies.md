@@ -2,6 +2,7 @@
 
 - [Attendance](#attendance)
 - [Inclusion and Access](#inclusion-and-access)
+- [Title IX and Mandatory Reporting](#title-ix-and-mandatory-reporting)
 - [Avoiding Plagiarism](#avoiding-plagiarism)
 - [On Artificial Intelligence](#on-artificial-intelligence)
 - [Feedback, Assessment, and Grades](#feedback-assessment-and-grades)
@@ -27,7 +28,7 @@ While we're on the subject of email, I am obligated to include the standard stat
 <p>The University provides an e-mail forwarding service that allows students to read their e- mail via other service providers (e.g., Hotmail, AOL, Yahoo). Students that choose to forward their e-mail from their pitt.edu address to another address do so at their own risk. If e-mail is lost as a result of forwarding, it does not absolve the student from responding to official communications sent to their University e-mail address. To forward e-mail sent to your University account, go to <a href="http://accounts.pitt.edu">http://accounts.pitt.edu</a>, log into your account, click on Edit Forwarding Addresses, and follow the instructions on the page. Be sure to log out of your account when you have finished. (For the full E-mail Communication Policy, go to <a href="https://www.bc.pitt.edu/policies/policy/09/09-10-01.html">www.bc.pitt.edu/policies/policy/09/09-10-01.html</a>.)</p>
 </details>
 
-## Title IX and Required Reporting
+## Title IX and Mandatory Reporting
 The University is committed to combatting sexual misconduct. As a result, University faculty and staff members are required to report any instances of sexual misconduct – including harassment and sexual violence – to the University’ s Title IX office, both so that the victim may be provided appropriate resources/support options and so that the office can attempt to keep track of repeat offenders or other patterns of behavior on or around campus. 
 
 What this means is that as your instructor, I am required to report any incidents of sexual misconduct that are directly reported to me, or of which I am somehow made aware. 
