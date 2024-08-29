@@ -27,6 +27,17 @@ While we're on the subject of email, I am obligated to include the standard stat
 <p>The University provides an e-mail forwarding service that allows students to read their e- mail via other service providers (e.g., Hotmail, AOL, Yahoo). Students that choose to forward their e-mail from their pitt.edu address to another address do so at their own risk. If e-mail is lost as a result of forwarding, it does not absolve the student from responding to official communications sent to their University e-mail address. To forward e-mail sent to your University account, go to <a href="http://accounts.pitt.edu">http://accounts.pitt.edu</a>, log into your account, click on Edit Forwarding Addresses, and follow the instructions on the page. Be sure to log out of your account when you have finished. (For the full E-mail Communication Policy, go to <a href="https://www.bc.pitt.edu/policies/policy/09/09-10-01.html">www.bc.pitt.edu/policies/policy/09/09-10-01.html</a>.)</p>
 </details>
 
+## Title IX and Required Reporting
+The University is committed to combatting sexual misconduct. As a result, University faculty and staff members are required to report any instances of sexual misconduct – including harassment and sexual violence – to the University’ s Title IX office, both so that the victim may be provided appropriate resources/support options and so that the office can attempt to keep track of repeat offenders or other patterns of behavior on or around campus. 
+
+What this means is that as your instructor, I am required to report any incidents of sexual misconduct that are directly reported to me, or of which I am somehow made aware. 
+
+There are two important exceptions: a list of the designated University employees who, as counselors and medical professionals, do not have this reporting responsibility and can maintain confidentiality, can be found at [www.titleix.pitt.edu/report/confidentiality](https://www.titleix.pitt.edu/report/confidentiality). An important exemption to the reporting requirement exists for academic work: disclosures about sexual misconduct that are shared as part of an academic project, classroom discussion, or course assignment are not required to be disclosed to the University’ s Title IX office. 
+
+If you are the victim of sexual misconduct, Pitt encourages you to reach out to these resources: *Title IX Office: 412-648-7860 *SHARE @ the University Counseling Center: 412-648-7930 (8:30 a.m. to 5 p.m. MF) and 412-648-7856 (after business hours). If you have a safety concern, please contact the University of Pittsburgh Police, 412-624-2121. Other reporting information is available at [titleix.pitt.edu/report-0](https://titleix.pitt.edu/report-0). 
+
+If you come to talk to me and I feel like it might be something I am required to report, I will say, “I am happy to listen and support you, but this discussion might fall under mandated reporting. Is that okay?’ The Title IX office aims to be very nice and, even if I report something you discussed with me as required, _Title IX cannot force you to do anything_. They will ask to talk with you, then they will present you with options: one will be to report behavior experienced against you; one will be to request through the University to keep said person who committed that behavior far away from you; and one will be to do nothing. They will also most likely inform you of our on-campus therapists’ office.
+
 
 ## Avoiding Plagiarism
 
