@@ -55,7 +55,7 @@ When we get back together on September 9th, I'd like to continue our conversatio
 
 There's only one new **reading**, but there are also **downloads** that you should make sure to start early; if you run into trouble, I can help you troubleshoot during office hours. 
 
-I'll also ask you to **write** a post to a new discussion forum in response to the readings (link coming soon), to give you a chance to think in writing about the readings and to seed our in-class conversation. 
+I'll also ask you to **write** a post to [a new discussion forum in response to the readings](https://github.com/benmiller314/dsam2024fall/discussions/2), to give you a chance to think in writing about the readings and to seed our in-class conversation. 
 
 
 To prepare for week 3:
