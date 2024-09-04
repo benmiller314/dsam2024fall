@@ -15,7 +15,7 @@
 <details><summary><strong>Writing to turn in</strong></summary>
     <ul>
         <li>survey about your work environment, etc, including a letter to Ben in response to his, if you didn't during lesson 1</li>
-        <li>an intro post to the <a href="{{site.github_url}}/discussions/1">discussion forum</a></li>
+        <li>an intro post to the <a href="{{site.repo_url}}/discussions/1">discussion forum</a></li>
     </ul>
 </details>
 </section>
