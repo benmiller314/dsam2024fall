@@ -64,7 +64,7 @@ To prepare for week 3:
 * **create a GitHub account** if you don't already have one. 
     - Think about your username: it can, but need not, indicate your real name or match your other online profiles. (Pros and cons either way.)
 * **install the [GitHub Desktop](https://desktop.github.com) app** and any dependencies it recommends. (NB: This may take up to 20 minutes, so please don't wait until the morning of class.)
-    - NB: If you get an error saying it's not an approved app from the app store, don't worry: it's safe! In this case, istead of double-clicking to open the installer, right-click and choose "Open" to give yourself permission to open it anyway.
+    - NB: If you get an error saying it's not an approved app from the app store, don't worry: it's safe! In this case, instead of double-clicking to open the installer, right-click and choose "Open" to give yourself permission to open it anyway.
 
 and **read**:
 

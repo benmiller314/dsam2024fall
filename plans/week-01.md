@@ -157,7 +157,7 @@ Assuming we left off at 10:30, let's aim to start up again at 10:40 or so. That 
 <a id="second-half"></a>
 
 ## A letter from Ben
-You can download it from the website in [MS Word](/{{site.course.base_path}}uploads/letter-from-ben-2024.docx) or [Markdown](/{{site.course.base_path}}uploads/letter-from-ben-2024.md) format if you'd like to follow along.
+You can download it from the website in [MS Word](/{{site.course.base_path}}uploads/letter-from-ben-2024.docx) or [HTML (technically Markdown, but still: browser-ready)](/{{site.course.base_path}}uploads/letter-from-ben-2024) format if you'd like to follow along.
 
 ## A letter back to Ben
 I'd love to know what you're thinking, after hearing what I've been thinking! To help you all answer at once, without talking over each other, I'd like to find out *in writing*.

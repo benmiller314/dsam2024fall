@@ -116,14 +116,16 @@ To prepare for week 4, **read**:
 * Onuoha, Mimi. On Missing Data Sets. 2016. 16 July 2024. GitHub, <a href="https://github.com/MimiOnuoha/missing-datasets">https://github.com/MimiOnuoha/missing-datasets</a>.
 * Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.” <em>Journal of Digital Humanities</em>, Nov. 2013, <a href="https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/">https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/</a>.
 * Ghorayshi, Azeen. “No One Knows How Many L.G.B.T.Q. Americans Die by Suicide.” <em>The New York Times</em>, 1 June 2023. NYTimes.com, <a href="https://www.nytimes.com/2023/06/01/health/lgbtq-suicide-data.html">https://www.nytimes.com/2023/06/01/health/lgbtq-suicide-data.html</a>.
+
+and **watch**:
+
+* Brown, AmyJo. “Building Your Own Data Set: A Journalist’s Approach.” _What Are Digital Humanities?_, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/brown/">https://cmu-lib.github.io/dhlg/project-videos/brown/</a>.
+
 * EXT for eager readers:
     - D’Ignazio and Klein. "3. On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." <em>Data Feminism</em>, MIT Press, 2020. pp. 73-96.
     - Drucker, Johanna. “Humanities Approaches to Graphical Display.” <em>Digital Humanities Quarterly</em>, vol. 005, no. 1, Mar. 2011, <a href="http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html</a>.
 
 
-and **watch**:
-
-* Brown, AmyJo. “Building Your Own Data Set: A Journalist’s Approach.” _What Are Digital Humanities?_, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/brown/">https://cmu-lib.github.io/dhlg/project-videos/brown/</a>.
 
 
 <h3 id="week-04"><a href='plans/week-04'>Week 4: Mon, Sep 16</a> – Data: By whom? For what?</h3>

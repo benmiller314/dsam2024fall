@@ -12,15 +12,16 @@ bannertitle: "image modified from still of *The Legend of Zelda* by Shigeru Miya
 
 Table of contents:
 
-- [Services at Pitt](#services-at-pitt)
-- [Help with Git and GitHub](#help-with-git-and-github)
-    - [Dealing with Large Files](#dealing-with-large-files)
-- [Text Editors](#text-editors)
-- [Digital Literacies Tutorials](#digital-literacies-tutorials)
-- [Options for publishing to the web](#options-for-publishing-to-the-web)
+* [Services at Pitt](#services-at-pitt)
+* [Help with Git and GitHub](#help-with-git-and-github)
+    - [Dealing with Large Files (including how to shrink images)](#dealing-with-large-files)
+* [Text Editors](#text-editors)
+* [Transcription services](#transcription-services)
+* [Digital Literacies Tutorials](#digital-literacies-tutorials)
+* [Options for publishing to the web](#options-for-publishing-to-the-web)
     - [How to hide your website from search engines](#how-to-hide-your-website-from-search-engines)
-- [Academic Journals](#academic-journals)
-- [Other Resource Roundups](#other-resource-roundups)
+* [Academic Journals](#academic-journals)
+* [Other Resource Roundups](#other-resource-roundups)
 
 <!-- /TOC -->
 
@@ -98,7 +99,7 @@ Table of contents:
     <ul>
         <li>For any file/folder on <strong>Windows:</strong> <a href="http://www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/">www.makeuseof.com/tag/the-top-3-file-compression-extraction-softwares/</a></li>
         <li>For any file/folder on <strong>Mac:</strong> <a href="https://mac.eltima.com/best-archiver-mac.html">mac.eltima.com/best-archiver-mac.html</a></li>
-        <li><strong>For JPEG files</strong>, specifically: <a href="http://www.jpegmini.com/app">www.jpegmini.com/app</a>
+        <li>To shrink the dimensions or resolution of static images like .jpg and .png, search for "local image reducer" and the year. For me, in 2024, I found this <a href="https://icecreamapps.com/learn/best-image-resizers.html">list of image-resizing software</a> that unsurprisingly includes its own Icecream software for Windows – but also a reminder that MacOS has this capability built in for free, in Preview.
             <ul><li>For more on .png vs .jpg file formats, see this <a href="https://www.techsmith.com/blog/jpg-vs-png/">overview</a> or this more <a href="https://www.digitaltrends.com/photography/jpeg-vs-png/">technical explanation</a>.</li></ul>
         </li>
     </ul>
@@ -145,6 +146,20 @@ Table of contents:
 
 <a href="#top"><em>Back to top</em></a>
 
+## Transcription services
+
+If you're recording video, whether for your projects or for in-class presentations, it's a good idea to produce a text-only version as well. Not only will this help non-sighted people access your work, but it will also help enable search and improve <abbr title="search engine optimization">SEO</abbr>. 
+
+If you're working from a script, great! There's your transcript. Taking this approach will also help you take advantage of your existing skills in revising text en route to producing your video draft, so you can spend less time editing in video software. 
+
+But if you're more of an extemporaneous speaker, not to worry; there are now also affordable (and even free) tools to extract text from video and audio files after the fact.
+
+<dl>
+<dt><a href="https://www.rev.com/">Rev (https://www.rev.com)</a></dt>
+<dd>My current favorite transcription service as of 2024. In its free tier, Rev allows up to 45 minutes of transcripts and captions per month and doesn't lock your files into their system: you can download in various <a href="https://kairos.technorhetoric.net/20.2/inventio/stolley/">"LO-FI"</a> formats compatible with many other platforms. After uploading a video or audio file, an AI language detection system will generate a transcript in minutes; an integrated playback and editing system makes it easy to proofread.</dd>
+</dl>
+
+<a href="#top"><em>Back to top</em></a>
 
 ## Digital Literacies Tutorials
 
