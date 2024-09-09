@@ -179,15 +179,6 @@ and **watch**:
 
 * Brown, AmyJo. “Building Your Own Data Set: A Journalist’s Approach.” _What Are Digital Humanities?_, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/brown/">https://cmu-lib.github.io/dhlg/project-videos/brown/</a>.
 
-* EXT for eager readers:
-    - D’Ignazio and Klein. "3. On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." <em>Data Feminism</em>, MIT Press, 2020. pp. 73-96.
-    - Drucker, Johanna. “Humanities Approaches to Graphical Display.” <em>Digital Humanities Quarterly</em>, vol. 005, no. 1, Mar. 2011, <a href="http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html</a>.
-
-
-
-
-and **read**:
-
-
-
-See you soon!
+EXT for eager readers:
+- D’Ignazio and Klein. "3. On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." <em>Data Feminism</em>, MIT Press, 2020. pp. 73-96.
+- Drucker, Johanna. “Humanities Approaches to Graphical Display.” <em>Digital Humanities Quarterly</em>, vol. 005, no. 1, Mar. 2011, <a href="http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html</a>.
