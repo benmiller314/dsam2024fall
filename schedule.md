@@ -64,7 +64,7 @@ or something else you suggest (with enough lead time...)! We'll vote asynchronou
 
 
 
-<a id="current"></a>
+
 <h3 id="week-01"><a href='plans/week-01'>Week 1: Mon, Aug 26</a> – Digital + Studies</h3>
 
 For next time: **Schedule a meeting with Ben** for some time next week (that isn't Monday) to talk about possible sources/objects for you to process and present on. See the [office hours](office) page for how to claim a slot or request an alternative if the usual slots won't work for you.
@@ -103,7 +103,7 @@ and **read**:
     - Stolley's "[README for The Lo-Fi Manifesto, v 2.0](https://kairos.technorhetoric.net/20.2/inventio/stolley/readme/)"
     - Stolley's notes on his earlier draft, "[Lo-Fi Manifesto, v 1.2](https://kairos.technorhetoric.net/20.2/inventio/stolley/1.2)"
 
-
+<a id="current"></a>
 <h3 id="week-03"><a href='plans/week-03'>Week 3: Mon, Sep 09</a> – GitHub, versioning, circulation</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
