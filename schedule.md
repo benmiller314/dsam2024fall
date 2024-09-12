@@ -106,7 +106,7 @@ and **read**:
 <a id="current"></a>
 <h3 id="week-03"><a href='plans/week-03'>Week 3: Mon, Sep 09</a> – GitHub, versioning, circulation</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please check the [discussion forum]({{repo_url}}/discussions) and add your thoughts.
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please check the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
 To prepare for week 4, **read**:
 
@@ -139,7 +139,7 @@ For week 5, [**pre-record** a 5-minute presentation](projects#presentations-and-
 * What are your long-term goals? 
 * What are your next steps? 
 
-Post your video to the [discussion forum]({{repo_url}}/discussions); in the same post, include a link to your developing public-facing project.
+Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your developing public-facing project.
 
 NB: _bring your own dongle_, if you need one.
 
@@ -147,7 +147,7 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 <h3 id="week-05">Week 5: Mon, Sep 23 – Project presentations, iteration 1: Sources</h3>
 
-Post **feedback for your partners** on their current project iteration as a reply to last week's [discussion forum]({{repo_url}}/discussions) post.
+Post **feedback for your partners** on their current project iteration as a reply to last week's [discussion forum]({{site.repo_url}}/discussions) post.
 
 In preparation for week 6, please **read**:
 
@@ -163,7 +163,7 @@ In preparation for week 6, please **read**:
 
 <h3 id="week-06"><a href='plans/week-06'>Week 6: Mon, Sep 30</a> – Code: What is it? Why does it matter?</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{repo_url}}/discussions) and add your thoughts.
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
 In preparation for week 7, please **watch / read**:
 
@@ -205,7 +205,7 @@ In preparation for week 9, [**pre-record** a 5-minute presentation](projects#pre
 * What have you learned in the process? 
 * What are your next steps? 
 
-Post your video to the [discussion forum]({{repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time.
+Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time.
 
 NB: _bring your own dongle_, if you need one.
 
@@ -239,14 +239,14 @@ In preparation for week 10, please **read / watch**:
 
 <h3 id="week-10"><a href='plans/week-10'>Week 10: Mon, Oct 28</a> – Digital accessibility</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{repo_url}}/discussions) and add your thoughts.
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
 Readings / resources for next week are t.b.d. based on the vote!
 
 
 <h3 id="week-11"><a href='plans/week-11'>Week 11: Mon, Nov 04</a> – People's choice 1</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{repo_url}}/discussions) and add your thoughts.
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
 Readings / resources for next week are t.b.d. based on the vote!
 
@@ -262,7 +262,7 @@ In preparation for week 13, [**pre-record** a 5-minute presentation](projects#pr
 * What are your next steps to deepen your questions and answers? 
 * What have you learned in the process? 
 
-Post your video to the [discussion forum]({{repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time.
+Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time.
 
 NB: _bring your own dongle_, if you need one.
 
@@ -292,7 +292,7 @@ In preparation for our final class, **pre-record** a now-<strong>10</strong>-min
 * When you look back at your initial goals, where have you ended up? 
 * What have you learned in the process that could apply to future projects? 
 
-Post your video to the [discussion forum]({{repo_url}}/discussions); in the same post, include a link to your still-developing public-facing project, even if it's the same link as last time.
+Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your still-developing public-facing project, even if it's the same link as last time.
 
 NB: _bring your own dongle_, if you need one. 
 
