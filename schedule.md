@@ -106,7 +106,7 @@ and **read**:
 <a id="current"></a>
 <h3 id="week-03"><a href='plans/week-03'>Week 3: Mon, Sep 09</a> – GitHub, versioning, circulation</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please check the [discussion forum]({{repo_url}}/discussions) and add your thoughts.
 
 To prepare for week 4, **read**:
 
@@ -115,7 +115,7 @@ To prepare for week 4, **read**:
     - "4. 'What Gets Counted Counts.' " pp. 97-124.
 * Onuoha, Mimi. On Missing Data Sets. 2016. 16 July 2024. GitHub, <a href="https://github.com/MimiOnuoha/missing-datasets">https://github.com/MimiOnuoha/missing-datasets</a>.
 * Schöch, Christof. “Big? Smart? Clean? Messy? Data in the Humanities.” <em>Journal of Digital Humanities</em>, Nov. 2013, <a href="https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/">https://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/</a>.
-* Ghorayshi, Azeen. “No One Knows How Many L.G.B.T.Q. Americans Die by Suicide.” <em>The New York Times</em>, 1 June 2023. NYTimes.com, <a href="https://www.nytimes.com/2023/06/01/health/lgbtq-suicide-data.html">https://www.nytimes.com/2023/06/01/health/lgbtq-suicide-data.html</a>.
+* Ghorayshi, Azeen. “No One Knows How Many L.G.B.T.Q. Americans Die by Suicide.” <em>The New York Times</em>, 1 June 2023. NYTimes.com, <a href="https://www.nytimes.com/2023/06/01/health/lgbtq-suicide-data.html">https://www.nytimes.com/2023/06/01/health/lgbtq-suicide-data.html</a> (also in [Pitt libraries](https://pitt.idm.oclc.org/login?url=https://www.proquest.com/newspapers/no-one-knows-how-many-lgbtq-americans-die-suicide/docview/2821465411/se-2?accountid=14709)).
 
 and **watch**:
 
@@ -130,7 +130,7 @@ and **watch**:
 
 <h3 id="week-04"><a href='plans/week-04'>Week 4: Mon, Sep 16</a> – Data: By whom? For what?</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). 
 
 For week 5, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to answer the following: 
 
@@ -139,13 +139,15 @@ For week 5, [**pre-record** a 5-minute presentation](projects#presentations-and-
 * What are your long-term goals? 
 * What are your next steps? 
 
+Post your video to the [discussion forum]({{repo_url}}/discussions); in the same post, include a link to your developing public-facing project.
+
 NB: _bring your own dongle_, if you need one.
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
 <h3 id="week-05">Week 5: Mon, Sep 23 – Project presentations, iteration 1: Sources</h3>
 
-Post **feedback for your partners** on their current project iteration.
+Post **feedback for your partners** on their current project iteration as a reply to last week's [discussion forum]({{repo_url}}/discussions) post.
 
 In preparation for week 6, please **read**:
 
@@ -161,7 +163,7 @@ In preparation for week 6, please **read**:
 
 <h3 id="week-06"><a href='plans/week-06'>Week 6: Mon, Sep 30</a> – Code: What is it? Why does it matter?</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{repo_url}}/discussions) and add your thoughts.
 
 In preparation for week 7, please **watch / read**:
 
@@ -203,6 +205,8 @@ In preparation for week 9, [**pre-record** a 5-minute presentation](projects#pre
 * What have you learned in the process? 
 * What are your next steps? 
 
+Post your video to the [discussion forum]({{repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time.
+
 NB: _bring your own dongle_, if you need one.
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. Also optionally, you may want to read <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#what-is-debugging">section 6.2</a> of Paul Ford's _What is Code?_: "What is debugging?"
@@ -210,7 +214,7 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 <h3 id="week-09"><a href='plans/week-09'>Week 9: Mon, Oct 21</a> – Project presentations, iteration 2: Processed</h3>
 
-Post **feedback for your partners** on their current project iteration.
+Post **feedback for your partners** on their current project iteration, as a reply to last week's discussion post.
 
 In preparation for week 10, please **read / watch**:
 
@@ -235,14 +239,14 @@ In preparation for week 10, please **read / watch**:
 
 <h3 id="week-10"><a href='plans/week-10'>Week 10: Mon, Oct 28</a> – Digital accessibility</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{repo_url}}/discussions) and add your thoughts.
 
 Readings / resources for next week are t.b.d. based on the vote!
 
 
 <h3 id="week-11"><a href='plans/week-11'>Week 11: Mon, Nov 04</a> – People's choice 1</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{repo_url}}/discussions) and add your thoughts.
 
 Readings / resources for next week are t.b.d. based on the vote!
 
@@ -258,6 +262,8 @@ In preparation for week 13, [**pre-record** a 5-minute presentation](projects#pr
 * What are your next steps to deepen your questions and answers? 
 * What have you learned in the process? 
 
+Post your video to the [discussion forum]({{repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time.
+
 NB: _bring your own dongle_, if you need one.
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. 
@@ -265,7 +271,7 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 <h3 id="week-13"><a href='plans/week-13'>Week 13: Mon, Nov 18</a> – Project presentations, iteration 3: And...?</h3>
 
-Post **feedback for your partners** on their current project iteration.
+Post **feedback for your partners** on their current project iteration as a reply to last week's discussion forum post.
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
@@ -286,6 +292,8 @@ In preparation for our final class, **pre-record** a now-<strong>10</strong>-min
 * When you look back at your initial goals, where have you ended up? 
 * What have you learned in the process that could apply to future projects? 
 
+Post your video to the [discussion forum]({{repo_url}}/discussions); in the same post, include a link to your still-developing public-facing project, even if it's the same link as last time.
+
 NB: _bring your own dongle_, if you need one. 
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. 
@@ -293,7 +301,7 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 <h3 id="week-16"><a href='plans/week-16'>Week 16: Mon, Dec 09</a> – Project presentations, iteration 4: Presented</h3>
 
-Enjoy the break!
+Thanks for a great semester. Enjoy the break!
 
 
 <div class="footnote-block" style="margin-top:3em;">
