@@ -120,7 +120,7 @@ Again, let's try to use the [shared notes doc](https://bit.ly/dsam2024fall-notes
 
 After a few minutes, I'll ask everyone to share one thing, to which the only response will be "thank you."
 
-<details><summary>EXT: writing to grok</summary>
+<details id="an-explanation"><summary>EXT: why I call this "writing to grok"</summary>
 
 <p>I sometimes call this practice "grok-writing," but you're not likely to hear anyone else call it that – unless they've taken my classes, I guess. The phrase "to grok" comes from Robert Heinlein's science fiction novel <em>>Stranger in a Strange Land</em> (first printing, Putnam 1961). Leaving aside, for now, the weird gender-relations of the novel, Heinlein spends a lot of the book harping on how hard it is to translate the word "grok" from Martian to English. It's often rendered as "drink" or especially "drink in." But in general (albeit nerdy) use &mdash; and certainly as I will use it from time to time in this course &mdash; to grok [something] means "to understand [something] fully," in the sense that (a) you no longer need to think consciously about how [something] works, and (b) you could make modifications if the need arose. It's drinking in the sense of absorbing, making it part of you.</p>
 
@@ -225,7 +225,7 @@ The first set of assigned readings below is in prep for that office hour visit; 
 
 ### For week 3
 
-When we get back together on September 9th, we'll be talking about GitHub, filetypes, and version control, with only one new reading. BUT there are also **downloads** that you should make sure to start early; if you run into trouble, I can help you troubleshoot during office hours. 
+When we get back together on September 9th, we'll be talking about GitHub, filetypes, and version control, with only one new reading. BUT there are also **downloads** that you should make sure to start early; if you run into trouble, I can help you troubleshoot during office hours.
 
 There will also be another discussion forum post besides the introductory one, to give you a chance to think in writing about the readings and to seed our in-class conversation. I'll remind you to look for the link next week.
 
@@ -249,4 +249,3 @@ There will also be another discussion forum post besides the introductory one, t
     </li>
 </ul>
 </details>
-

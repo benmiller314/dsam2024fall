@@ -103,7 +103,7 @@ and **read**:
     - Stolley's "[README for The Lo-Fi Manifesto, v 2.0](https://kairos.technorhetoric.net/20.2/inventio/stolley/readme/)"
     - Stolley's notes on his earlier draft, "[Lo-Fi Manifesto, v 1.2](https://kairos.technorhetoric.net/20.2/inventio/stolley/1.2)"
 
-<a id="current"></a>
+
 <h3 id="week-03"><a href='plans/week-03'>Week 3: Mon, Sep 09</a> – GitHub, versioning, circulation</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please check the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -127,7 +127,7 @@ and **watch**:
 
 
 
-
+<a id="current"></a>
 <h3 id="week-04"><a href='plans/week-04'>Week 4: Mon, Sep 16</a> – Data: By whom? For what?</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). 

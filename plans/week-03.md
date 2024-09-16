@@ -164,7 +164,7 @@ After a few minutes, I'll ask everyone to share one thing, to which the only res
 
 ## For week 4
 
-In additions to the readings below and your own ongoing [Mindful Practice Journals](../projects#mindful-practice-journals) as you begin work on your semester-long projects, I'll also ask you to **write** a brief post to the [discussion forum](https://github.com/benmiller314/dsam2024fall/discussions/), to give you a chance to think in writing about the readings and to seed our in-class conversation.
+In additions to the readings below and your own ongoing [Mindful Practice Journals](../projects#mindful-practice-journals) as you begin work on your semester-long projects, I'll also ask you to **write** a brief post to the [discussion forum](https://github.com/benmiller314/dsam{{site.course.slugterm}}/discussions/), to give you a chance to think in writing about the readings and to seed our in-class conversation.
 
 But first, please **read** <span title="It may look like a lot, but without EXTs it's the equivalent of only about 72 pages. EXTs push that up to 118.">the following</span>.
 
@@ -177,7 +177,7 @@ But first, please **read** <span title="It may look like a lot, but without EXTs
 
 and **watch**:
 
-* Brown, AmyJo. “Building Your Own Data Set: A Journalist’s Approach.” _What Are Digital Humanities?_, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/brown/">https://cmu-lib.github.io/dhlg/project-videos/brown/</a>.
+* Brown, AmyJo. “Building Your Own Data Set: A Journalist’s Approach.” <em>What Are Digital Humanities?</em>, 11 Nov. 2022, <a href="https://cmu-lib.github.io/dhlg/project-videos/brown/">https://cmu-lib.github.io/dhlg/project-videos/brown/</a>.
 
 EXT for eager readers:
 - D’Ignazio and Klein. "3. On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints." <em>Data Feminism</em>, MIT Press, 2020. pp. 73-96.
