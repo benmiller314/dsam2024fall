@@ -145,7 +145,7 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 
 <a id="current"></a>
-<h3 id="week-05">Week 5: Mon, Sep 23 – Project presentations, iteration 1: Sources</h3>
+<h3 id="week-05"><a href="plans/week-05">Week 5: Mon, Sep 23</a> – Project presentations, iteration 1: Sources</h3>
 
 Post **feedback for your partners** on their current project iteration as a reply to last week's [discussion forum]({{site.repo_url}}/discussions) post.
 
