@@ -17,7 +17,7 @@
         </ul>
     </details>
     <details><summary><strong>Writing to turn in</strong></summary>
-        <ul><li>a brief post to the <a href="https://github.com/benmiller314/dsam2024fall/discussions/3">discussion forum</a></li></ul>
+        <ul><li>a brief post to the <a href="{{site.repo_url}}/discussions/3">discussion forum</a></li></ul>
     </details>
 </section>
 
@@ -199,7 +199,7 @@ No new reading! Instead, prepare a 5-minute presentation on your semester-long D
 * What are your long-term goals in pursuing this research?
 * What are your next steps?
 
-NB: Five minutes is not a lot of time to answer all those questions, but it is enough time if your responses are focused. To help you practice until you achieve this goal, and to preserve an archive we can revisit, I'm asking you to **record your presentation before class and post it to the [discussion forum]({{site.repo_url/discussions}})**. You'll then have the option of either playing the video next class (which guarantees the same timing) or re-presenting live, treating the video as a rehearsal (which spares you from hearing your own voice on a recording). Your choice, while classtime lasts!
+NB: Five minutes is not a lot of time to answer all those questions, but it is enough time if your responses are focused. To help you practice until you achieve this goal, and to preserve an archive we can revisit, I'm asking you to **record your presentation before class and post it to the [discussion forum]({{site.repo_url}}/discussions)**. You'll then have the option of either playing the video next class (which guarantees the same timing) or re-presenting live, treating the video as a rehearsal (which spares you from hearing your own voice on a recording). Your choice, while classtime lasts!
 
 In addition, you should have put some materials into some kind of repository, file, or folder where you can **begin building a public-facing "deliverable" version of your project**, however nascent it is for now. (NB: This repository can be, but does not need to be, a GitHub repo. Other good options include Google Sheets; blogs or other websites, whether built with content management systems or GitHub Pages or OpenFuego; or file folders shared using OneDrive.) **Link to this public-facing project in your forum post.**
 

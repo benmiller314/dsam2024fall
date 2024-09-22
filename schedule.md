@@ -126,8 +126,6 @@ and **watch**:
     - Drucker, Johanna. “Humanities Approaches to Graphical Display.” <em>Digital Humanities Quarterly</em>, vol. 005, no. 1, Mar. 2011, <a href="http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html">http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html</a>.
 
 
-
-<a id="current"></a>
 <h3 id="week-04"><a href='plans/week-04'>Week 4: Mon, Sep 16</a> – Data: By whom? For what?</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). 
@@ -145,6 +143,8 @@ NB: _bring your own dongle_, if you need one.
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
+
+<a id="current"></a>
 <h3 id="week-05">Week 5: Mon, Sep 23 – Project presentations, iteration 1: Sources</h3>
 
 Post **feedback for your partners** on their current project iteration as a reply to last week's [discussion forum]({{site.repo_url}}/discussions) post.
@@ -154,9 +154,10 @@ In preparation for week 6, please **read**:
 * Ford, Paul. <em>What Is Code? If You Don’t Know, You Need to Read This</em>, Bloomberg.com, <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/</a>. 
     - Section 1: "The Man in the Taupe Blazer."
     - [Section 6.5](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#and-now-for-something-beautiful): "And Now for Something Beautiful."
-* Vee, Annette. “Introduction: Computer Programming as Literacy.” <em>Coding Literacy</em>, MIT Press, 2017, pp. 1–42, <a href="https://doi.org/10.7551/mitpress/10655.003.0003">https://doi.org/10.7551/mitpress/10655.003.0003</a>.
-* Miller, Benjamin. “Chapter 17: The Pleasurable Difficulty of Programming.” <em>Methods and Methodologies for Research in Digital Writing and Rhetoric: Centering Positionality in Computers and Writing Scholarship</em>, Volume 2, edited by Victor Del Hierro and Crystal VanKooten, The WAC Clearinghouse; University Press of Colorado, 2022, pp. 159–83. <a href="https://doi.org/10.37514/PRA-B.2022.1664.2.17">https://doi.org/10.37514/PRA-B.2022.1664.2.17</a>.
-* Montfort, Nick. "Appendix A: Why Program?" <em>Exploratory Programming for the Arts and Humanities</em>, 2nd ed., The MIT Press, 2021, pp. 319–330, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/1">https://mitpress.ublish.com/ebook/epah2e-preview/12629/1</a>.
+* Vee, Annette. “Introduction: Computer Programming as Literacy.” <em>Coding Literacy</em>, MIT Press, 2017, pp. 1–42, <a href="https://doi.org/10.7551/mitpress/10655.003.0003">https://doi.org/10.7551/mitpress/10655.003.0003</a>.  <a href="https://direct-mit-edu.pitt.idm.oclc.org/books/monograph/3543/Coding-LiteracyHow-Computer-Programming-Is">(Pitt library link)</a>.
+* Montfort, Nick. "Appendix A: Why Program?" <em>Exploratory Programming for the Arts and Humanities</em>, 2nd ed., The MIT Press, 2021, pp. 319–330, <a href="https://mitpress.ublish.com/ebook/epah2e-preview/12629/319">https://mitpress.ublish.com/ebook/epah2e-preview/12629/319</a>.
+* Miller, Benjamin. “Chapter 17: The Pleasurable Difficulty of Programming.” <em>Methods and Methodologies for Research in Digital Writing and Rhetoric: Centering Positionality in Computers and Writing Scholarship</em>, Volume 2, edited by Victor Del Hierro and Crystal VanKooten, The WAC Clearinghouse; University Press of Colorado, 2022, pp. 159–83. <a href="https://doi.org/10.37514/PRA-B.2022.1664.2.17">https://doi.org/10.37514/PRA-B.2022.1664.2.17</a>. (<a href="https://wac.colostate.edu/docs/books/positionality/chapter17.pdf">Direct link to chapter PDF</a>.)
+
 * EXT for eager readers:
     - Montfort, Nick, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C Marino, Michael Mateas, Casey Reas, Mark Sample, and Noah Vawter. “10: Introduction.” _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_, The MIT Press, 2012, pp. 1–17. direct.mit.edu, <a href="https://doi.org/10.7551/mitpress/9040.001.0001">https://doi.org/10.7551/mitpress/9040.001.0001</a>.
     
