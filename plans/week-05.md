@@ -6,16 +6,12 @@
 
 * [Preamble](#preamble): Workshop + peer review plan (~9:00-9:10)
 * [Presentations](#first-half): first half
-    - presentation 1 (~ 9:15-9:30)
-    - presentation 2 (~ 9:30-9:45)
-    - presentation 3 (~ 9:50-10:05)
-    - presentation 4 (~ 10:05-10:20)
-* Break (10 minutes)
+    - presentation 1 (~ 9:15-9:45)
+    - presentation 2 (~ 9:50-10:20)
+    * Break (10 minutes)
 * [Presentations](#second-half): second half
-    - presentation 5 (~ 10:40-10:55)
-    - presentation 6 (~ 10:55-11:10)
-    - presentation 7 (~ 11:15-11:30)
-    - presentation 8 (~ 11:30-11:45)
+    - presentation 5 (~ 10:40-11:10)
+    - presentation 6 (~ 11:15-11:45)
 * [Homework for next time](#hw): peer review letters; reading about code
 
 <a id="preamble"></a>
@@ -25,7 +21,7 @@ Welcome back, and welcome to our first day of presentations! I'm excited to hear
 
 ### A workshop cycle
 
-Here's how I'd like it to work. Each person's project will get about 15 minutes:
+Here's how I'd like it to work. Each person's project will get about ~~15~~25 minutes:
 
 1. The first five minutes will be the **presentation** you've pre-recorded.
 2. From there, the rest of us start by **saying back** the heart of the project, with a **...?** at the end, opening a space for the presenter to say more.
@@ -114,8 +110,8 @@ I've split presentations in two sets of four, with peer reviews crossing from on
 
 * Nick
 * Gissell
-* Cody
-* Jiating
+* EXT: Cody
+* EXT: Jiating
 
 That process, again: (1) presentation, (2) saying back…?, (3)&nbsp;conversation, (4)&nbsp;quick notes (while the next person sets up).
 
@@ -129,8 +125,8 @@ We should hit the break at around 10:20 today.
 
 * Kimmy
 * Cate
-* Brenda
-* Yi
+* EXT: Brenda
+* EXT: Yi
 
 That process, one more time: (1) presentation, (2) saying back…?, (3)&nbsp;conversation, (4)&nbsp;writing notes (while the next person sets up).
 
@@ -141,7 +137,7 @@ That process, one more time: (1) presentation, (2) saying back…?, (3)&nbsp;con
 
 * If you haven't yet posted a link to a public-facing deliverable, please do so ASAP: even if it's just the text of your presentation or a folder with a CSV dataset and a README file, that will be essential for your peer reviewers – and for your own later reflection.
     - I'd be happy to help you create a GitHub repo if you'd like it.
-* Conversely, if you haven't yet posted a video, please do! If it's short enough you should be able to just drag the .mp4 or similar file into the editing box of a new post. If you're down to 5 minutes but it's getting bounced for size, you can share a link to your file on OneDrive. 
+* Conversely, if you haven't yet posted a video, please do! If it's short enough you should be able to just drag the .mp4 or similar file into the editing box of a new post. If you're down to 5 minutes but it's getting bounced for size, you can share a link to your file on OneDrive.
 
 ## EXT: Writing
 

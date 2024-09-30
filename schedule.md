@@ -80,7 +80,7 @@ and **read**:
 * EXT for eager readers:
     - [Sample DSAM project reflections](./sample-projects) from years past
     - Murray, Janet H. “Affordances of the Digital Medium.” <em>Inventing the Medium: Principles of Interaction Design as a Cultural Practice</em>, The MIT Press, 2011, pp. 51–85. <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66">https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=3339350&ppg=66</a>.
-    - Sorapure, Madeline. "Five Principles of New Media: Or, Playing Lev Manovich." <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 8, no. 2, <a href="http://kairos.technorhetoric.net/8.2/coverweb/sorapure/">http://kairos.technorhetoric.net/8.2/coverweb/sorapure/</a>. 
+    - Sorapure, Madeline. "Five Principles of New Media: Or, Playing Lev Manovich." <em>Kairos: A Journal of Rhetoric, Technology, and Pedagogy</em>, vol. 8, no. 2, <a href="http://kairos.technorhetoric.net/8.2/coverweb/sorapure/">http://kairos.technorhetoric.net/8.2/coverweb/sorapure/</a>.
         * NB: this article was built using the now-deprecated Adobe Flash, so it no longer displays the interactive features that illustrated each of the principles. (You can still read a PDF description of what used to be there.) But it's still a more concise encapsulation than reading Manovich's <em>The Language of New Media</em>.
     - D’Ignazio, Catherine, and Lauren F. Klein. “7: Show Your Work.” <em>Data Feminism</em>, MIT Press, 2020, pp. 173–202. ProQuest Ebook Central, <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950">https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950</a>.
     <!-- - N Katherine Hayles. “PRINT IS FLAT, CODE IS DEEP: The Importance of Media-Specific Analysis.” _Transmedia Frictions_, edited by Tara McPherson and Marsha Kinder, 1st ed., University of California Press, 2014, pp. 20–33. pitt.primo.exlibrisgroup.com, <a href="https://doi.org/10.1525/j.ctt6wqc2f.6">https://doi.org/10.1525/j.ctt6wqc2f.6</a>. -->
@@ -128,14 +128,14 @@ and **watch**:
 
 <h3 id="week-04"><a href='plans/week-04'>Week 4: Mon, Sep 16</a> – Data: By whom? For what?</h3>
 
-Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). 
+Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-For week 5, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to answer the following: 
+For week 5, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to answer the following:
 
-* What sources / objects are you working with? 
-* What questions do you have about them? 
-* What are your long-term goals? 
-* What are your next steps? 
+* What sources / objects are you working with?
+* What questions do you have about them?
+* What are your long-term goals?
+* What are your next steps?
 
 Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your developing public-facing project.
 
@@ -144,14 +144,13 @@ NB: _bring your own dongle_, if you need one.
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
 
-<a id="current"></a>
 <h3 id="week-05"><a href="plans/week-05">Week 5: Mon, Sep 23</a> – Project presentations, iteration 1: Sources</h3>
 
 Post **feedback for your partners** on their current project iteration as a reply to last week's [discussion forum]({{site.repo_url}}/discussions) post.
 
 In preparation for week 6, please **read**:
 
-* Ford, Paul. <em>What Is Code? If You Don’t Know, You Need to Read This</em>, Bloomberg.com, <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/</a>. 
+* Ford, Paul. <em>What Is Code? If You Don’t Know, You Need to Read This</em>, Bloomberg.com, <a href="http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/</a>.
     - Section 1: "The Man in the Taupe Blazer."
     - [Section 6.5](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#and-now-for-something-beautiful): "And Now for Something Beautiful."
 * Vee, Annette. “Introduction: Computer Programming as Literacy.” <em>Coding Literacy</em>, MIT Press, 2017, pp. 1–42, <a href="https://doi.org/10.7551/mitpress/10655.003.0003">https://doi.org/10.7551/mitpress/10655.003.0003</a>.  <a href="https://direct-mit-edu.pitt.idm.oclc.org/books/monograph/3543/Coding-LiteracyHow-Computer-Programming-Is">(Pitt library link)</a>.
@@ -160,8 +159,10 @@ In preparation for week 6, please **read**:
 
 * EXT for eager readers:
     - Montfort, Nick, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C Marino, Michael Mateas, Casey Reas, Mark Sample, and Noah Vawter. “10: Introduction.” _10 PRINT CHR$(205.5+RND(1)); : GOTO 10_, The MIT Press, 2012, pp. 1–17. direct.mit.edu, <a href="https://doi.org/10.7551/mitpress/9040.001.0001">https://doi.org/10.7551/mitpress/9040.001.0001</a>.
-    
 
+
+
+<a id="current"></a>
 <h3 id="week-06"><a href='plans/week-06'>Week 6: Mon, Sep 30</a> – Code: What is it? Why does it matter?</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -178,9 +179,9 @@ what-is-generative-ai-comprehensive-guide-beginners</a>.
 
 * EXT: eager learners can read / watch the following:
     - Alammar, Jay. "ChatGPT Has Never Seen a SINGLE Word (Despite Reading Most of The Internet). Meet LLM Tokenizers." YouTube, 26 Jul 2023. <a href="https://www.youtube.com/watch?v=uSinkCeUg9U">https://www.youtube.com/watch?v=uSinkCeUg9U</a>.
-    - Karpathy, Andrej. "State of GPT \| BRK216HFS." Microsoft Build 2023. YouTube, 25 May 2023. <a href="https://www.youtube.com/watch?v=bZQun8Y4L2A">https://www.youtube.com/watch?v=bZQun8Y4L2A</a>. 
+    - Karpathy, Andrej. "State of GPT \| BRK216HFS." Microsoft Build 2023. YouTube, 25 May 2023. <a href="https://www.youtube.com/watch?v=bZQun8Y4L2A">https://www.youtube.com/watch?v=bZQun8Y4L2A</a>.
         * NB: at 42 minutes, this is long; the first 20 minutes go into some more detail on how large language models are trained and built up, and is perhaps the more DSAM-level portion; the second half is advice on how to work with models, e.g. through prompt engineering, and what may be coming next.
-    - Kozyrkov, Cassie. "Introduction to ML and AI - MFML Part 1." posted to YouTube 3 Oct 2021, but filmed in 2018. <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U">https://www.youtube.com/watch?v=lYWt-aCnE2U</a>. 
+    - Kozyrkov, Cassie. "Introduction to ML and AI - MFML Part 1." posted to YouTube 3 Oct 2021, but filmed in 2018. <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U">https://www.youtube.com/watch?v=lYWt-aCnE2U</a>.
         * NB: another long video, and part of an even longer series. I recommend the following sections:
         * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U&t=973s">from 16:13</a> to 34:45: The process of building a regression model and why that matters.
         * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U">from 39:42</a> to 45:37: Why did AI start booming in the late 2010s?
@@ -199,12 +200,12 @@ By Friday, look through the options for the three upcoming People's Choice weeks
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-In preparation for week 9, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to *look back through your journal* to answer the following: 
+In preparation for week 9, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to *look back through your journal* to answer the following:
 
 * What sources / objects are you working with? (Remind us or update us)
-* What have you done with or to those sources? 
-* What have you learned in the process? 
-* What are your next steps? 
+* What have you done with or to those sources?
+* What have you learned in the process?
+* What are your next steps?
 
 Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time.
 
@@ -235,7 +236,7 @@ In preparation for week 10, please **read / watch**:
         * <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=86">3: "On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints"</a>
         * <a href="https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=138">5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars</a>
     - W3C Web Accessibility Initiative (WAI), <a href="https://www.w3.org/WAI/people-use-web/user-stories/">"Stories of Web Users"</a>
-    
+
 
 
 <h3 id="week-10"><a href='plans/week-10'>Week 10: Mon, Oct 28</a> – Digital accessibility</h3>
@@ -256,18 +257,18 @@ Readings / resources for next week are t.b.d. based on the vote!
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-In preparation for week 13, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to *look back through your journal* to answer the following: 
+In preparation for week 13, [**pre-record** a 5-minute presentation](projects#presentations-and-peer-review) on your independent project, which we can view in class and discuss. For this iteration, you should be able to *look back through your journal* to answer the following:
 
 * What questions are you pursuing by processing your sources / objects? (Remind us or update us)
 * What answers do you have so far, however tentative?
-* What are your next steps to deepen your questions and answers? 
-* What have you learned in the process? 
+* What are your next steps to deepen your questions and answers?
+* What have you learned in the process?
 
 Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time.
 
 NB: _bring your own dongle_, if you need one.
 
-Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. 
+Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
 
 <h3 id="week-13"><a href='plans/week-13'>Week 13: Mon, Nov 18</a> – Project presentations, iteration 3: And...?</h3>
@@ -286,18 +287,18 @@ Readings / resources for next class are t.b.d. based on the vote. Have a great b
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-In preparation for our final class, **pre-record** a now-<strong>10</strong>-minute presentation on your independent project, which we can view in class and discuss. For this iteration, you should be able to _look back through your journal and your **public-facing project site**_ to answer the following: 
+In preparation for our final class, **pre-record** a now-<strong>10</strong>-minute presentation on your independent project, which we can view in class and discuss. For this iteration, you should be able to _look back through your journal and your **public-facing project site**_ to answer the following:
 
 * What materials (sources, processing steps, arguments) are you providing on your site?
 * How have you prepared your materials for presentation to a public readership?
-* When you look back at your initial goals, where have you ended up? 
-* What have you learned in the process that could apply to future projects? 
+* When you look back at your initial goals, where have you ended up?
+* What have you learned in the process that could apply to future projects?
 
 Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your still-developing public-facing project, even if it's the same link as last time.
 
-NB: _bring your own dongle_, if you need one. 
+NB: _bring your own dongle_, if you need one.
 
-Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. 
+Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
 
 <h3 id="week-16"><a href='plans/week-16'>Week 16: Mon, Dec 09</a> – Project presentations, iteration 4: Presented</h3>
