@@ -1,5 +1,5 @@
 
-# Week 12: Artificial Intelligence and Large Language Models
+# Week 7: Artificial Intelligence and Large Language Models
 <span class="date">October 7, 2024</span>
 
 <section class="prereqs">
