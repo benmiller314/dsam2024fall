@@ -181,12 +181,12 @@ I'd love to see some of your poem-generators in action! To make your examples mo
 
 As always, continue working on your project – now with a little more feedback – and take notes in your [Mindful Practice Journal](projects.md).
 
-I'll also ask you to [add your thoughts to the discussion forum]({{site.repo_url}}/discussions) after reading.
+I'll also ask you to **[add your thoughts to the discussion forum]({{site.repo_url}}/discussions) after reading**.
 
 In preparation for <a title="required reading: 71 page-equivalents; EXT reading adds 55 for a total of 126">week 7, on artificial intelligence and machine learning</a>, please **watch / read**:
 
-* "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty." WIRED, YouTube, 18 Aug 2021. <a href="https://www.youtube.com/watch?v=5q87K1WaoFI">https://www.youtube.com/watch?v=5q87K1WaoFI</a>.
-* Newhauser, Mary. “What Is Generative AI? A Comprehensive Guide for Everyone.” GPTech, 26 June 2023, <a href="https://www.gptechblog.com/what-is-generative-ai-comprehensive-guide-beginners">https://www.gptechblog.com/</a>
+* "Computer Scientist Explains Machine Learning in 5 Levels of Difficulty." _WIRED_, YouTube, 18 Aug 2021. <a href="https://www.youtube.com/watch?v=5q87K1WaoFI">https://www.youtube.com/watch?v=5q87K1WaoFI</a>.
+* Newhauser, Mary. “What Is Generative AI? A Comprehensive Guide for Everyone.” GPTech, 26 June 2023, <a href="https://www.gptechblog.com/what-is-generative-ai-comprehensive-guide-beginners">https://www.gptechblog.com/</a>.
 * Crawford, Kate, and Trevor Paglen. “Excavating AI: The Politics of Training Sets for Machine Learning.” 19 Sep 2019, <a href="https://excavating.ai">https://excavating.ai</a>.
 * Onuoha, Mimi and Mother Cyborg (Diana Nucera). “A People’s Guide To Tech: Artificial Intelligence.” Allied Media Projects, Aug 2018, <a href="https://alliedmedia.org/resources/peoples-guide-to-ai">https://alliedmedia.org/resources/peoples-guide-to-ai</a>.
 * Shane, Janelle. “An Exercise in Frustration.” AI Weirdness, 21 May 2024, <a href="https://www.aiweirdness.com/an-exercise-in-frustration/">https://www.aiweirdness.com/an-exercise-in-frustration/</a>.

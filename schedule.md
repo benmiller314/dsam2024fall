@@ -162,7 +162,6 @@ In preparation for week 6, please **read**:
 
 
 
-<a id="current"></a>
 <h3 id="week-06"><a href='plans/week-06'>Week 6: Mon, Sep 30</a> – Code: What is it? Why does it matter?</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -188,11 +187,13 @@ what-is-generative-ai-comprehensive-guide-beginners</a>.
         * <a href="https://www.youtube.com/watch?v=lYWt-aCnE2U&t=3264s">from 54:28</a> to 1:07:05: When can you trust machine learning?
     - Cheung, Diana. “Demystifying Generative AI: Introducing the Underlying Technologies & Models of Generative AI.” Codesmith.io/Blog, Aug 30, 2023, <a href="https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai">https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai</a>.
 
+
+<a id="current"></a>
 <h3 id="week-07"><a href='plans/week-07'>Week 7: Mon, Oct 07</a> – AI: Machines learning to classify and predict</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-By Friday, look through the options for the three upcoming People's Choice weeks, and <a class="disabled" aria-disabled="true" title="link to poll coming soon">register your preferences</a>.
+By Friday, look through the options for the three upcoming People's Choice weeks, and <a href="https://forms.gle/y5d2pCbQoyfdA3ag9">register your preferences</a>.
 
 
 
@@ -207,7 +208,7 @@ In preparation for week 9, [**pre-record** a 5-minute presentation](projects#pre
 * What have you learned in the process?
 * What are your next steps?
 
-Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time.
+Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your developing [public-facing project](projects#palimpsest-of-public-iteration), even if it's the same link as last time.
 
 NB: _bring your own dongle_, if you need one.
 
