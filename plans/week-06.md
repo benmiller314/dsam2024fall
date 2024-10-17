@@ -1,6 +1,6 @@
 
 # Week 6: What is code? Why does it matter?
-<span class="date">September 30, 2023</span>
+<span class="date">September 30, 2024</span>
 
 <section class="prereqs">
     <details><summary><strong>Texts to have read / watched</strong></summary>
