@@ -188,7 +188,7 @@ what-is-generative-ai-comprehensive-guide-beginners</a>.
     - Cheung, Diana. “Demystifying Generative AI: Introducing the Underlying Technologies & Models of Generative AI.” Codesmith.io/Blog, Aug 30, 2023, <a href="https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai">https://www.codesmith.io/blog/demystifying-generative-ai-introducing-the-underlying-technologies-models-of-generative-ai</a>.
 
 
-<a id="current"></a>
+
 <h3 id="week-07"><a href='plans/week-07'>Week 7: Mon, Oct 07</a> – AI: Machines learning to classify and predict</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
@@ -214,7 +214,7 @@ NB: _bring your own dongle_, if you need one.
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. Also optionally, you may want to read <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#what-is-debugging">section 6.2</a> of Paul Ford's _What is Code?_: "What is debugging?"
 
-
+<a id="current"></a>
 <h3 id="week-09"><a href='plans/week-09'>Week 9: Mon, Oct 21</a> – Project presentations, iteration 2: Processed</h3>
 
 Post **feedback for your partners** on their current project iteration, as a reply to last week's discussion post.
