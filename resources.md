@@ -148,9 +148,9 @@ Table of contents:
 
 ## Transcription services
 
-If you're recording video, whether for your projects or for in-class presentations, it's a good idea to produce a text-only version as well. Not only will this help non-sighted people access your work, but it will also help enable search and improve <abbr title="search engine optimization">SEO</abbr>. 
+If you're recording video, whether for your projects or for in-class presentations, it's a good idea to produce a text-only version as well. Not only will this help non-sighted people access your work, but it will also help enable search and improve <abbr title="search engine optimization">SEO</abbr>.
 
-If you're working from a script, great! There's your transcript. Taking this approach will also help you take advantage of your existing skills in revising text en route to producing your video draft, so you can spend less time editing in video software. 
+If you're working from a script, great! There's your transcript. Taking this approach will also help you take advantage of your existing skills in revising text en route to producing your video draft, so you can spend less time editing in video software.
 
 But if you're more of an extemporaneous speaker, not to worry; there are now also affordable (and even free) tools to extract text from video and audio files after the fact.
 
@@ -158,6 +158,8 @@ But if you're more of an extemporaneous speaker, not to worry; there are now als
 <dt><a href="https://www.rev.com/">Rev (https://www.rev.com)</a></dt>
 <dd>My current favorite transcription service as of 2024. In its free tier, Rev allows up to 45 minutes of transcripts and captions per month and doesn't lock your files into their system: you can download in various <a href="https://kairos.technorhetoric.net/20.2/inventio/stolley/">"LO-FI"</a> formats compatible with many other platforms. After uploading a video or audio file, an AI language detection system will generate a transcript in minutes; an integrated playback and editing system makes it easy to proofread.</dd>
 </dl>
+
+Have a service or strategy you prefer? Please tell me about it, so I can add it here!
 
 <a href="#top"><em>Back to top</em></a>
 

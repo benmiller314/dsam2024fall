@@ -65,7 +65,7 @@ NB: I often use that EXT notation to signal an "extension activity," i.e. someth
 
 ## Discussion: What are we studying in "digital studies"?
 
-### Part 1: Studies
+### Part 1: Studies {#studies}
 
 Let's talk! Please tell us (1) your name, (2) your preferred pronouns if you'd like, and then (3) your brief answer to the _second_ of the seed prompts above: What's an area or field you're familiar with that uses "studies" in its name, and what does it mean to add that term or take it away?
 
@@ -75,7 +75,7 @@ Oh, also! Should we want to take notes, we have a shared google doc just for tha
 NB: When taking collaborative notes, I recommend always leaving at least one blank line underneath where you're typing; it lets others jump in. (So when you do jump in, start by adding at least one blank line underneath where you're typing, to let others do the same.)
 </aside>
 
-### Part 2: Digital
+### Part 2: Digital {#digital}
 
 Janet H. Murray, author of _Hamlet on the Holodeck_ and _Inventing the Medium_, posits that there are four main "[affordances](https://en.wikipedia.org/wiki/Affordance)," or salient enactable properties, of digital media. As [she summarizes her argument](https://inventingthemedium.com/four-affordances/),
 

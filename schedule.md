@@ -7,7 +7,7 @@ banneralt: "banner: phases of the moon"
 
 # Class-by-Class Schedule
 
-<nav id="shortcuts" class="alert alert-white">
+<nav id="shortcuts" class="alert alert-white" aria-label="Shortcut">
 <a href="#current">Jump to latest lesson plan</a>. For the in-class notes doc, go to <a href="https://bit.ly/dsam{{site.course.slugterm}}-notes">bit.ly/dsam{{site.course.slugterm}}-notes</a>.
 </nav>
 
@@ -214,7 +214,7 @@ NB: _bring your own dongle_, if you need one.
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation. Also optionally, you may want to read <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/#what-is-debugging">section 6.2</a> of Paul Ford's _What is Code?_: "What is debugging?"
 
-<a id="current"></a>
+
 <h3 id="week-09"><a href='plans/week-09'>Week 9: Mon, Oct 21</a> – Project presentations, iteration 2: Processed</h3>
 
 Post **feedback for your partners** on their current project iteration, as a reply to last week's discussion post.
@@ -239,22 +239,34 @@ In preparation for week 10, please **read / watch**:
     - W3C Web Accessibility Initiative (WAI), <a href="https://www.w3.org/WAI/people-use-web/user-stories/">"Stories of Web Users"</a>
 
 
-
+<a id="current"></a>
 <h3 id="week-10"><a href='plans/week-10'>Week 10: Mon, Oct 28</a> – Digital accessibility</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
-Readings / resources for next week are t.b.d. based on the vote!
+To prepare for week 11 (on data exploration), please...
 
+* **Download** [OpenRefine](https://openrefine.org/), a "powerful[,] free, open source tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data."
+* **Read / watch** the following:
+    - Gradek, Bob, and Liz Monk. "Dataset Summaries: Pivot Tables." vimeo, 2022. [https://vimeo.com/703773939](https://vimeo.com/703773939).
+    - van Hooland, Seth, Ruben Verborgh, and Max De Wilde. “Cleaning Data with OpenRefine.” _Programming Historian_, Aug. 2013. [https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine](https://programminghistorian.org/en/lessons/cleaning-data-with-openrefine).
+    - Cairo, Alberto. “6: Exploring Data with Simple Charts.” The Truthful Art: Data, Charts, and Maps for Communication, New Riders, 2016. learning.oreilly.com, [https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch06.html](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch06.html).
+        * NB: to view the content, click "SIGN IN" at the top of the page, and begin logging in with your Pitt email address; you should then get the option to "Sign in with SSO" (single sign-on), which will take you to the Pitt Passport screen.
+    - D’Ignazio, Catherine, and Lauren F. Klein. “5: Unicorns, Janitors, Ninjas, Wizards, and Rock Stars.” _Data Feminism_, MIT Press, 2020, pp. 125–48. [https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=138](https://ebookcentral.proquest.com/lib/pitt-ebooks/reader.action?docID=6120950&ppg=138).
+* EXT for eager readers:
+    - Arnold, Taylor, and Lauren Tilton. “New Data? The Role of Statistics in DH.” _Debates in the Digital Humanities 2019_, Univ of Minnesota Press, 2019, [https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/a2a6a192-f04a-4082-afaa-97c76a75b21c#ch24).
+    - Crump, Jon. “Generating an Ordered Data Set from an OCR Text File.” _Programming Historian_, Nov. 2014. [https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file](https://programminghistorian.org/en/lessons/generating-an-ordered-data-set-from-an-OCR-text-file).
+        * A tutorial of intermediate difficulty – it relies on at least a little knowledge of regular expressions and Python – but could be very beneficial as a model to those of you working with paginated textual corpora.
+    - For a much more in-depth treatment of this topic, see [R for Data Science](https://r4ds.hadley.nz/whole-game), by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, which will teach you how to make data figures like those Alberto Cairo uses. It may take... some time, though. (Likely more than one or two weeks.)
 
-<h3 id="week-11"><a href='plans/week-11'>Week 11: Mon, Nov 04</a> – People's choice 1</h3>
+<h3 id="week-11"><a href='plans/week-11'>Week 11: Mon, Nov 04</a> – Data 2: Exploration, Slicing, Cleaning (the people's choice)</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
 Readings / resources for next week are t.b.d. based on the vote!
 
 
-<h3 id="week-12"><a href='plans/week-12'>Week 12: Mon, Nov 11</a> – People's choice 2</h3>
+<h3 id="week-12"><a href='plans/week-12'>Week 12: Mon, Nov 11</a> – Data 3: Visualization and Analysis (the people's choice)</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
@@ -284,7 +296,7 @@ Continue working on your project, and take notes in your [Mindful Practice Journ
 Readings / resources for next class are t.b.d. based on the vote. Have a great break!
 
 
-<h3 id="week-15"><a href='plans/week-15'>Week 15: Mon, Dec 02</a> – People's choice 3</h3>
+<h3 id="week-15"><a href='plans/week-15'>Week 15: Mon, Dec 02</a> – Multimodal pedagogy and assessment (the people's choice)</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 

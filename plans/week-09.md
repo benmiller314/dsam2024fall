@@ -13,7 +13,7 @@
     - presentation 3 (~ 10:40-11:10)
     - presentation 4 (~ 11:15-11:45)
     - [What did The People choose?](#survey-results)
-* [Homework for next time](#hw): peer review letters; reading about code
+* [Homework for next time](#hw): peer review letters; reading about accessibility
 
 <a id="preamble"></a>
 ## Preamble: Workshop + peer review plan
