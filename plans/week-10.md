@@ -90,7 +90,7 @@ I'm guessing we'll hit the break at around 10:40 or so. Try to be back for a 10:
 There are lots of ways.
 
 <ol>
-    <li>We might try the [WAVE browser extension/plugin](https://wave.webaim.org/).
+    <li>We might try the <a href="https://wave.webaim.org/">WAVE browser extension/plugin</a>.
         <figure>
             <img alt="course homepage with the WAVE extension enabled" src="../assets/img/wave-accessibility-inspector.png" />
             <figcaption>The WAVE extension will quickly summarize both inhospitable features (errors, alerts) and hospitable features (features, structural elements) of the current web page, and labels them with icons. Further tabs provide details and reference materials you can use to improve.</figcaption>
