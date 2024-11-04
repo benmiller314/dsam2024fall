@@ -239,7 +239,7 @@ In preparation for week 10, please **read / watch**:
     - W3C Web Accessibility Initiative (WAI), <a href="https://www.w3.org/WAI/people-use-web/user-stories/">"Stories of Web Users"</a>
 
 
-<a id="current"></a>
+
 <h3 id="week-10"><a href='plans/week-10'>Week 10: Mon, Oct 28</a> – Digital accessibility</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -259,11 +259,25 @@ To prepare for week 11 (on data exploration), please...
         * A tutorial of intermediate difficulty – it relies on at least a little knowledge of regular expressions and Python – but could be very beneficial as a model to those of you working with paginated textual corpora.
     - For a much more in-depth treatment of this topic, see [R for Data Science](https://r4ds.hadley.nz/whole-game), by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, which will teach you how to make data figures like those Alberto Cairo uses. It may take... some time, though. (Likely more than one or two weeks.)
 
+
+<a id="current"></a>
 <h3 id="week-11"><a href='plans/week-11'>Week 11: Mon, Nov 04</a> – Data 2: Exploration, Slicing, Cleaning (the people's choice)</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
 
-Readings / resources for next week are t.b.d. based on the vote!
+In preparation for <a title="required reading: 69 page-equivalents; EXT reading adds 22 for a total of 91">week 12, on visualizing data</a>, please read:
+
+* Cairo, Alberto. _The Truthful Art: Data, Charts, and Maps for Communication_, New Riders, 2016
+    - “3: The Truth Continuum.” [https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch03.html](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch03.html).
+    - “5: Basic Principles of Visualization.” [https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html](https://learning.oreilly.com/library/view/the-truthful-art/9780133440492/ch05.html).
+* D’Ignazio, Catherine, and Lauren F. Klein. “Chapter Six: The Numbers Don’t Speak for Themselves.” _Data Feminism_, MIT Press, 2020, pp. 149–72. mitpressonpubpub.mitpress.mit.edu, [https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950](https://ebookcentral.proquest.com/lib/pitt-ebooks/detail.action?docID=6120950).
+* Datawrapper Academy – the documentation center for one of my go-to tools for visually presenting data once I know what I want it to say.
+    - "Our Explanatory Approach to Visualizing Data." 31 Aug. 2020, [https://academy.datawrapper.de/article/279-our-explanatory-approach](https://academy.datawrapper.de/article/279-our-explanatory-approach).
+    - "How to Create Your First Datawrapper Chart." 24 Oct. 2023, [https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart](https://academy.datawrapper.de/article/245-how-to-create-your-first-datawrapper-chart).
+    - "How to Prepare Your Data for Datawrapper in Excel or Google Sheets." 13 June 2022, [https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets](https://academy.datawrapper.de/article/240-how-to-prepare-your-data-for-datawrapper-in-excel-or-google-sheets).
+    - "How to Create a Dot Plot." 24 June 2020, [https://academy.datawrapper.de/article/122-how-to-create-a-dot-plot](https://academy.datawrapper.de/article/122-how-to-create-a-dot-plot).
+    - "How to Create a Locator Map." 11 June 2021, [https://academy.datawrapper.de/article/161-how-to-create-a-locator-map](https://academy.datawrapper.de/article/161-how-to-create-a-locator-map).
+    - "What to Consider When Creating Pie Charts." 4 Jan. 2021, [https://academy.datawrapper.de/article/127-what-to-consider-when-creating-a-pie-chart](https://academy.datawrapper.de/article/127-what-to-consider-when-creating-a-pie-chart).
 
 
 <h3 id="week-12"><a href='plans/week-12'>Week 12: Mon, Nov 11</a> – Data 3: Visualization and Analysis (the people's choice)</h3>
