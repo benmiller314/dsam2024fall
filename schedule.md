@@ -38,11 +38,11 @@ Week | Date | Lesson Title
 8 | Mon, Oct 14 | [**No class: Fall Break** (reflection and planning)](#week-08) <!-- Sukkot begins Wed night. -->
 9 | Mon, Oct 21 | [Iteration 2: Processed](#week-09) <!-- Descriptive metadata. Exhibits. Hoshanna Rabba begins Wed night 10/23. Monitored withdrawal by Friday 10/25 -->
 10 | Mon, Oct 28 | [Digital accessibility](#week-10) <!-- Structured content and navigability. Font sizes and color. Alternative presentations. Spring enrollment begins. -->
-11 | Mon, Nov 04 | [People's choice 1](#week-11) <!-- "family weekend" Friday 11/8 – Sun 11/10-->
-12 | Mon, Nov 11 | [People's choice 2](#week-12)
+11 | Mon, Nov 04 | [People's choice 1: Data exploration](#week-11) <!-- "family weekend" Friday 11/8 – Sun 11/10-->
+12 | Mon, Nov 11 | [People's choice 2: Data visualization](#week-12)
 13 | Mon, Nov 18 | [Iteration 3: And...?](#week-13) <!-- making an argument -->
 14 | Mon, Nov 25 | [**No class: Thanksgiving Break** (digesting)](#week-14)
-15 | Mon, Dec 02 | [People's choice 3](#week-15)
+15 | Mon, Dec 02 | [People's choice 3: Multimodal pedagogy](#week-15)
 16 | Mon, Dec 09 | [Iteration 4: Presented](#week-16) <!-- facing the public -->
 {: .table .table-sm}
 
