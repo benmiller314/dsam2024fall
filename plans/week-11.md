@@ -91,12 +91,12 @@ Finished with all the above? Use the remaining time to work on your project.
 *  And if it's _between 10 and 10:15_, let's make sure you know how to get data *out*.
 
 
-<!-- <div class="alert alert-info">
+<div class="alert alert-info">
     <p>A key takeaway: <strong>Categorical variables are fundamentally</strong> <em><strong>ways to slice or subset your data.</strong></em></p>
     <p>You can <strong>filter to one value</strong> within a category as a way of making an otherwise overwhelming dataset manageable: e.g. to look at just pothole requests, or just garbage collection, rather than all of the hundreds of types of requests in the 311 database.</p>
     <p>You can <strong>group across multiple values</strong> within a category to see how other variables change when summarized within these groups: e.g. to see how tree counts vary by neighborhood, you first aggregate the tree counts for each neighborhood value.</p>
     <p>By combining those approaches, you can zoom in on the questions that really matter &ndash; and the answers you're able to communicate.</p>
-</div> -->
+</div>
 
 ## Break (10 minutes)
 I'm guessing we'll hit the break at around 10:20 or so. Try to be back for a 10:30 start, so we have a full hour to get into the readings.
