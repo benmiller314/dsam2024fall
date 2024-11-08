@@ -1,5 +1,5 @@
 
-# Week 11: Exploration, Slicing, Cleaning
+# Week 11: Data Exploration, Slicing, Cleaning
 <span class="date">November 4, 2024</span>
 
 <section class="prereqs">

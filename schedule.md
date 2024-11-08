@@ -291,11 +291,11 @@ In preparation for week 13, [**pre-record** a 5-minute presentation](projects#pr
 * What are your next steps to deepen your questions and answers?
 * What have you learned in the process?
 
-Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time.
+Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the same post, include a link to your developing public-facing project, even if it's the same link as last time. _NB: By the end of the term, you should have at least a landing page introducing your project to new viewers, even if that landing page is just a README file or tab within a worksheet._
 
-NB: _bring your own dongle_, if you need one.
+<div class="alert alert-warning">NEW: Based on our conversation in week 11, all videos should be <strong>posted by Friday, Nov 15</strong> so we can all <strong>watch them before class.</strong> This should allow us to dive right into sayback and feedback during next week's class.</div>
 
-Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
+Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation and public-facing site.
 
 
 <h3 id="week-13"><a href='plans/week-13'>Week 13: Mon, Nov 18</a> – Project presentations, iteration 3: And...?</h3>
