@@ -17,6 +17,7 @@ Table of contents:
     - [Dealing with Large Files (including how to shrink images)](#dealing-with-large-files)
 * [Text Editors](#text-editors)
 * [Transcription services](#transcription-services)
+* [Extraction services](#extraction-services)
 * [Digital Literacies Tutorials](#digital-literacies-tutorials)
 * [Options for publishing to the web](#options-for-publishing-to-the-web)
     - [How to hide your website from search engines](#how-to-hide-your-website-from-search-engines)
@@ -148,7 +149,7 @@ Table of contents:
 
 ## Transcription services
 
-If you're recording video, whether for your projects or for in-class presentations, it's a good idea to produce a text-only version as well. Not only will this help non-sighted people access your work, but it will also help enable search and improve <abbr title="search engine optimization">SEO</abbr>.
+If you're recording video, whether for your projects or for in-class presentations, it's a good idea to produce a text-only version as well. Not only will this help non-sighted people access your work, but it will also help enable search and improve <abbr title="search engine optimization" aria-label="Search Engine Optimization">SEO</abbr>.
 
 If you're working from a script, great! There's your transcript. Taking this approach will also help you take advantage of your existing skills in revising text en route to producing your video draft, so you can spend less time editing in video software.
 
@@ -160,6 +161,21 @@ But if you're more of an extemporaneous speaker, not to worry; there are now als
 </dl>
 
 Have a service or strategy you prefer? Please tell me about it, so I can add it here!
+
+<a href="#top"><em>Back to top</em></a>
+
+## Extraction Services
+
+In some ways the opposite of transcription, these are tools that will help you recover text or data from sources that were encoded as images. There are a great many more of them out there than I can list (and more all the time), but here are a few that come with recent recommendations.
+
+<dl>
+<dt><a href="https://tabula.technology/">Tabula</a></dt>
+    <dd>As they put it on their site, "If you’ve ever tried to do anything with data provided to you in PDFs, you know how painful it is — there's no easy way to copy-and-paste rows of data out of PDF files. Tabula allows you to extract that data into a CSV or Microsoft Excel spreadsheet using a simple, easy-to-use interface. Tabula works on Mac, Windows and Linux. [...] Tabula was created by journalists for journalists and anyone else working with data locked away in PDFs. Tabula will always be free and open source." Recommended by Cody Hmelar in 2024.</dd>
+<dt><a href="https://library.pitt.edu/text-mining-and-analysis">Pitt Library Digital Scholarship Services</a></dt>
+    <dd>DSS offers help with many things DSAM-related, but one of them is a dedicated <abbr title="Optical Character Recognition" aria-label="Optical Character Recognition">OCR</abbr> workstation in Hillman Library preloaded with ABBYY FineReader. You can walk up to the station, or reserve ahead of time to make sure it'll be available.</dd>
+<dt><a href="https://www.handwritingocr.com/">HandwritingOCR</a></dt>
+    <dd>This is a <em>paid</em> service that uses a privacy-law-compliant AI trained on public domain and licensed datasets to convert images of writing – especially but not exclusively handwritten – to structured digital text. Recommended by Reddit user <a href="https://www.reddit.com/user/mcw1980/">mcw1980</a> after a fairly extensive <a href="https://www.reddit.com/r/computervision/comments/1ctf0jh/2024_review_of_ocr_tools_extracting_text_from/?rdt=38422">test of competing services</a> as of May 2024. Should work across a number of language groups, though I don't know how many mcw1980 tested. The pay-as-you-go cost in November 2024 was $12 for 100 pages.</dd>
+</dl>
 
 <a href="#top"><em>Back to top</em></a>
 
