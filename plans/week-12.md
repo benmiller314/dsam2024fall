@@ -258,3 +258,8 @@ Feeling good on all the above? Use the remaining time to work on your project.
 * **Watch all your classmates' videos before class.** This should allow us to dive right into sayback and feedback during next week's class.
 
 * Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation and public-facing site.
+
+EXT: Hungry for still more resources on data visualization? I just discovered this open-access textbook that looks quite promising: Dougherty, Jack, and Ilya Ilyankou. Hands-On Data Visualization. O’Reilly Media, 2021 (online version updated October 2024). [https://handsondataviz.org/](https://handsondataviz.org/).
+
+Here's their abstract:
+> Tell your story and show it with data, using free and easy-to-learn tools on the web. This introductory book teaches you how to design interactive charts and customized maps for your website, beginning with easy drag-and-drop tools, such as Google Sheets, Datawrapper, and Tableau Public. You will also gradually learn how to edit open-source code templates built with Chart.js, Highcharts, and Leaflet on GitHub. Follow along with the step-by-step tutorials, real-world examples, and online resources. This book is ideal for students, non-profit organizations, small business owners, local governments, journalists, academics, or anyone who wants to tell their story and show the data. No coding experience is required.
