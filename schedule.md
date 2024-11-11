@@ -260,7 +260,6 @@ To prepare for week 11 (on data exploration), please...
     - For a much more in-depth treatment of this topic, see [R for Data Science](https://r4ds.hadley.nz/whole-game), by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund, which will teach you how to make data figures like those Alberto Cairo uses. It may take... some time, though. (Likely more than one or two weeks.)
 
 
-<a id="current"></a>
 <h3 id="week-11"><a href='plans/week-11'>Week 11: Mon, Nov 04</a> – Data 2: Exploration, Slicing, Cleaning (the people's choice)</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md). After reading, please head to the [discussion forum]({{site.repo_url}}/discussions) and add your thoughts.
@@ -279,7 +278,7 @@ In preparation for <a title="required reading: 69 page-equivalents; EXT reading 
     - "How to Create a Locator Map." 11 June 2021, [https://academy.datawrapper.de/article/161-how-to-create-a-locator-map](https://academy.datawrapper.de/article/161-how-to-create-a-locator-map).
     - "What to Consider When Creating Pie Charts." 4 Jan. 2021, [https://academy.datawrapper.de/article/127-what-to-consider-when-creating-a-pie-chart](https://academy.datawrapper.de/article/127-what-to-consider-when-creating-a-pie-chart).
 
-
+<a id="current"></a>
 <h3 id="week-12"><a href='plans/week-12'>Week 12: Mon, Nov 11</a> – Data 3: Visualization and Analysis (the people's choice)</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
