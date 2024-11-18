@@ -278,7 +278,7 @@ In preparation for <a title="required reading: 69 page-equivalents; EXT reading 
     - "How to Create a Locator Map." 11 June 2021, [https://academy.datawrapper.de/article/161-how-to-create-a-locator-map](https://academy.datawrapper.de/article/161-how-to-create-a-locator-map).
     - "What to Consider When Creating Pie Charts." 4 Jan. 2021, [https://academy.datawrapper.de/article/127-what-to-consider-when-creating-a-pie-chart](https://academy.datawrapper.de/article/127-what-to-consider-when-creating-a-pie-chart).
 
-<a id="current"></a>
+
 <h3 id="week-12"><a href='plans/week-12'>Week 12: Mon, Nov 11</a> – Data 3: Visualization and Analysis (the people's choice)</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
@@ -296,17 +296,39 @@ Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation and public-facing site.
 
-
+<a id="current"></a>
 <h3 id="week-13"><a href='plans/week-13'>Week 13: Mon, Nov 18</a> – Project presentations, iteration 3: And...?</h3>
 
 Post **feedback for your partners** on their current project iteration as a reply to last week's discussion forum post.
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
+See below for readings we'll discuss after the break.
+
 
 <h3 id="week-14"><a href='plans/week-14'>Week 14: Mon, Nov 25</a> – <strong>No Class: Thanksgiving Break</strong> (digesting)</h3>
 
-Readings / resources for next class are t.b.d. based on the vote. Have a great break!
+In preparation for week 15, please read:
+
+<ul>
+    <li>Walsh, Brandon. “The Three-Speed Problem in Digital Humanities Pedagogy.” <em>What We Teach When We Teach DH: Digital Humanities in the Classroom</em>, edited by Brian Croxall and Diane K Jakacki, University of Minnesota Press, 2023, <a href="https://dhdebates.gc.cuny.edu/read/88567843-f1df-4d1b-8057-74ca99c8916f/section/fdb7ea0a-5c9e-404a-ab9d-3a24fe6de61c#ch18">https://dhdebates.gc.cuny.edu/read/88567843-f1df-4d1b-8057-74ca99c8916f/section/fdb7ea0a-5c9e-404a-ab9d-3a24fe6de61c#ch18</a>.</li>
+    <li>Davis, Rebecca Frost, Matthew K. Gold, and Katherine D. Harris. <em>Digital Pedagogy in the Humanities</em>, edited by Rebecca Frost Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers, Modern Language Association, 2020.<ul>
+        <li>Read the “Introduction: Curating <em>Digital Pedagogy in the Humanities</em>,” <strong> focusing on the first part: up to but not including "History of the Development of <em>DPDH</em>"</strong>. <a href="https://digitalpedagogy.hcommons.org/introduction">https://digitalpedagogy.hcommons.org/introduction</a>; the rest of the introduction is an EXT.</li>
+        <li>Also read Virginia Kuhn's section on “Multimodal”: her curatorial intro and comments on several example projects. <a href="https://digitalpedagogy.hcommons.org/keyword/Multimodal">https://digitalpedagogy.hcommons.org/keyword/Multimodal</a>.</li>
+    </ul></li>
+    <li>Reilly, Colleen A, and Anthony T Atkins. “Rewarding Risk: Designing Aspirational Assessment Processes for Digital Writing Projects.” <em>Digital Writing: Assessment and Evaluation</em>, edited by Heidi McKee and Dànielle Nicole DeVoss, Computers and Composition Digital Press / Utah State University Press, 2013, <a href="https://ccdigitalpress.org/dwae/04_reilly.html">https://ccdigitalpress.org/dwae/04_reilly.html</a>.</li>
+    <li>Brenner, Aaron L. "Presentation: Developing a Collaborative Pedagogy in the Digital Humanities." <a href="https://abrennr.net/portfolio/presentation-developing-a-collaborative-pedagogy-in-the-digital-humanities">https://abrennr.net/portfolio/presentation-developing-a-collaborative-pedagogy-in-the-digital-humanities</a>. July 2015.</li>
+</ul>
+
+<ul><li>EXTs for eager readers:
+    <ul>
+        <li>The National Writing Project MAP Group (Elyse Eidman-Aadahl, Kristine Blair, Dànielle Nicole DeVoss, Will Hochman, Lanette Jimerson, Chuck Jurich, Sandy Murphy, Becky Rupert, Carl Whithaus, and Joe Wood). “Developing Domains for Multimodal Writing Assessment.” <em>Digital Writing Assessment and Evaluation</em>, edited by Heidi McKee and Dànielle Nicole DeVoss, Computers and Composition Digital Press / Utah State University Press, 2013, <a href="https://ccdigitalpress.org/book/dwae/07_nwp.html">https://ccdigitalpress.org/book/dwae/07_nwp.html</a>.</li>
+        <li>Further readings in <em>Digital Pedagogy in the Humanities</em>: start with the keywords, and see what catches your eye! <a href="https://digitalpedagogy.hcommons.org/keyword/">https://digitalpedagogy.hcommons.org/keyword/</a>. Please report back if you find something you think your classmates will appreciate.</li>
+        <li>Emily Wierszewski. “‘Something Old, Something New’: Evaluative Criteria in Teacher Responses to Student Multimodal Texts.” <em>Digital Writing Assessment and Evaluation</em>, edited by Heidi McKee and Dànielle Nicole DeVoss, Computers and Composition Digital Press / Utah State University Press, 2013, <a href="https://ccdigitalpress.org/book/dwae/05_wierszewski.html">https://ccdigitalpress.org/book/dwae/05_wierszewski.html</a>.</li>
+        <li>Langmead, Alison, and Annette Vee. “Teaching the Digital Humanities to a Broad Undergraduate Population.” <em>What We Teach When We Teach DH: Digital Humanities in the Classroom</em>, edited by Brian Croxall and Diane K Jakacki, University of Minnesota Press, 2023, <a href="https://dhdebates.gc.cuny.edu/read/88567843-f1df-4d1b-8057-74ca99c8916f/section/fdb7ea0a-5c9e-404a-ab9d-3a24fe6de61c#ch18">https://dhdebates.gc.cuny.edu/read/88567843-f1df-4d1b-8057-74ca99c8916f/section/fdb7ea0a-5c9e-404a-ab9d-3a24fe6de61c#ch18</a>.</li>
+    </ul>
+</li></ul>
+
 
 
 <h3 id="week-15"><a href='plans/week-15'>Week 15: Mon, Dec 02</a> – Multimodal pedagogy and assessment (the people's choice)</h3>
