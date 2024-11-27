@@ -317,7 +317,7 @@ In preparation for week 15, please read:
         <li>Also read Virginia Kuhn's section on “Multimodal”: her curatorial intro and comments on several example projects. <a href="https://digitalpedagogy.hcommons.org/keyword/Multimodal">https://digitalpedagogy.hcommons.org/keyword/Multimodal</a>.</li>
     </ul></li>
     <li>Reilly, Colleen A, and Anthony T Atkins. “Rewarding Risk: Designing Aspirational Assessment Processes for Digital Writing Projects.” <em>Digital Writing: Assessment and Evaluation</em>, edited by Heidi McKee and Dànielle Nicole DeVoss, Computers and Composition Digital Press / Utah State University Press, 2013, <a href="https://ccdigitalpress.org/dwae/04_reilly.html">https://ccdigitalpress.org/dwae/04_reilly.html</a>.</li>
-    <li>Brenner, Aaron L. "Presentation: Developing a Collaborative Pedagogy in the Digital Humanities." <a href="https://abrennr.net/portfolio/presentation-developing-a-collaborative-pedagogy-in-the-digital-humanities">https://abrennr.net/portfolio/presentation-developing-a-collaborative-pedagogy-in-the-digital-humanities</a>. July 2015.</li>
+    <li>Brenner, Aaron L. "Presentation: Developing a Collaborative Pedagogy in the Digital Humanities." <a href="https://abrennr.net/portfolio/presentation-developing-a-collaborative-pedagogy-in-the-digital-humanities">https://abrennr.net/portfolio/presentation-developing-a-collaborative-pedagogy-in-the-digital-humanities</a>. July 2015.<ul><li>Alison was able to share more of <a href="https://pitt-my.sharepoint.com/:b:/g/personal/millerb_pitt_edu/EYB81PtqQPRJn0fFB1kdaI4BFxL9TMnF_JUQ6sgiXNKLsQ?e=kSpDxD">the slides from that presentation</a>. Thanks!</li></ul></li>
 </ul>
 
 <ul><li>EXTs for eager readers:
