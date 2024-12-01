@@ -296,7 +296,7 @@ Post your video to the [discussion forum]({{site.repo_url}}/discussions); in the
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation and public-facing site.
 
-<a id="current"></a>
+
 <h3 id="week-13"><a href='plans/week-13'>Week 13: Mon, Nov 18</a> – Project presentations, iteration 3: And...?</h3>
 
 Post **feedback for your partners** on their current project iteration as a reply to last week's discussion forum post.
@@ -330,12 +330,12 @@ In preparation for week 15, please read:
 </li></ul>
 
 
-
+<a id="current"></a>
 <h3 id="week-15"><a href='plans/week-15'>Week 15: Mon, Dec 02</a> – Multimodal pedagogy and assessment (the people's choice)</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
 
-In preparation for our final class, **pre-record** a now-<strong>10</strong>-minute presentation on your independent project, which we can view in class and discuss. For this iteration, you should be able to _look back through your journal and your **public-facing project site**_ to answer the following:
+In preparation for our final class, <del>pre-record</del>**prepare** a now-<strong>10-minute</strong> presentation on your independent project, which we can view in class and discuss. For this iteration, you should be able to _look back through your journal and your **public-facing project site**_ to answer the following:
 
 * What materials (sources, processing steps, arguments) are you providing on your site?
 * How have you prepared your materials for presentation to a public readership?
@@ -351,7 +351,11 @@ Optionally, schedule a meeting with Ben in [office hours](office) for early feed
 
 <h3 id="week-16"><a href='plans/week-16'>Week 16: Mon, Dec 09</a> – Project presentations, iteration 4: Presented</h3>
 
-Thanks for a great semester. Enjoy the break!
+<div class="alert alert-info">
+Final reflections are due one week from the end of class, i.e. by noon on Monday, December 16.
+</div>
+
+Thanks for a great semester – and enjoy the break!
 
 
 <div class="footnote-block" style="margin-top:3em;">
