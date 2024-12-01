@@ -52,6 +52,19 @@ This being an introductory seminar, I'm not expecting everyone to get to a compl
 
 ## Final Reflection
 
-Reflecting on what you learn in the process is at least as important as reaching any particular goals you set early on. The last assignment for the semester is a **reflective letter to me**, both articulating your learning in the class and illustrating your claims about that learning by _calling attention to features of your products or your processes_. The goal here is less a restatement of what you’ve already written than an opportunity to think synthetically, across iterations and into the future.
+Reflecting on what you learn in the process is at least as important as reaching any particular goals you set early on. The last assignment for the semester is a **reflective letter to me and your own future self**, both articulating your learning in the class and illustrating your claims about that learning by _calling attention to features of your products or your processes_. The goal here is less a restatement of what you’ve already written than an opportunity to think synthetically, across iterations and into the future.
+
+In particular:
+
+1. What **methods and workflows** have worked for you (perhaps as compared to those that have not)? What were the challenges and the joys that keep you moving through them?
+
+2. What surprised you, or what **surprises** you now as you look back? e.g. What things did you learn that you did not expect to learn, or not learn that you had expected to? What realizations or questions do those surprises point you toward?
+
+3. What **feedback** has been most helpful to you, and how did you receive it? What have you done as a result of that feedback? Did *giving* feedback help you as well? In what ways?
+
+4. Thinking about the **digital tools and digital objects** of study you encountered this semester, are there any you want to explore further? What are your plans for doing so?
+
+5. Finally, what evidence of **engagement with the course as a community** can you share that isn't covered by the above? You might, for example, point to successes in the [recurring seminar activities](policies#forms-of-engagement) from the syllabus, or offer answers to the related questions.
+
 
 To help you get there, I'll periodically ask you to take stock in writing of both your projects and our in-class discussion, linking the theories we've read to your independent work and vice versa.
