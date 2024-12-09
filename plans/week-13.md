@@ -21,11 +21,11 @@
 <a id="preamble"></a>
 ## Preamble: Workshop + peer review plan
 
-Welcome back, and welcome to our second day of presentations! I'm excited to hear more about how it's been going, and especially for you all to hear how it's been going for everyone else.
+Welcome back, and welcome to our third day of presentations! I'm excited to talk more about how it's been going, and especially about what insights or conclusions you're beginning to reach.
 
 ### An updated workshop cycle
 
-1. We're skipping the presentation itself, so we'll start with someone else **"saying back"** the project: summarizing the heart of what's new this time, i.e. what answers are being put forward, and how the project's creator knows. Add a **...?** to the end.
+1. We're skipping the presentation itself, so we'll start with someone else **"saying back"** the project: summarizing _the heart of what's new this time_, i.e. what answers are being put forward, and how the project's creator knows. Add a **...?** to the end.
 
 2. The author can then **affirm or clarify**, reaching out into the almost-said to help us all understand how the project is working and what questions you still need help with.
 

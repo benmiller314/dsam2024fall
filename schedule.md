@@ -330,7 +330,6 @@ In preparation for week 15, please read:
 </li></ul>
 
 
-<a id="current"></a>
 <h3 id="week-15"><a href='plans/week-15'>Week 15: Mon, Dec 02</a> – Multimodal pedagogy and assessment (the people's choice)</h3>
 
 Continue working on your project, and take notes in your [Mindful Practice Journal](projects.md).
@@ -348,7 +347,7 @@ NB: _bring your own dongle_, if you need one.
 
 Optionally, schedule a meeting with Ben in [office hours](office) for early feedback as you build your presentation.
 
-
+<a id="current"></a>
 <h3 id="week-16"><a href='plans/week-16'>Week 16: Mon, Dec 09</a> – Project presentations, iteration 4: Presented</h3>
 
 <div class="alert alert-info">
