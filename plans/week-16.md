@@ -145,3 +145,5 @@ On the final [discussion forum]({{site.repo_url}}/discussions) for the semester,
 <div class="alert alert-warning">
 NB: If you do not feel comfortable sharing the repo or reflection with the public, please submit them instead by email.
 </div>
+
+Thank you for a great semester!!
