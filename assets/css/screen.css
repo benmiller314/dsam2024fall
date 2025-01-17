@@ -41,6 +41,18 @@ a {
 	text-decoration: underline;
 }
 
+/* Bottom menu for next / previous lesson navigation */
+ul#lesson-nav {
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+ul#lesson-nav a {
+    color: aliceblue;
+}
+
 /* Front page styling */
 body.front div#background {
     background-image: url(/../img/course-title.png);
