@@ -1,4 +1,3 @@
-
 # Lesson 1: Digital + Studies
 <span class="date">August 26, 2024</span>
 <section class="prereqs">

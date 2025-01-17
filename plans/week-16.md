@@ -83,12 +83,12 @@ OMETs are a pretty important way of getting your voices heard; they can also hav
     <p>I know some of you have already turned in your surveys for the Office of Measurement and Evaluation of Teaching (yep, that's what OMET stands for). If so, you can feel free to work on your own projects, though I hope what I'm about to say is still useful information. Actually, I hope you all know this stuff already, but my experience has been otherwise, so I try to say it in every class:</p>
     <div class="alert alert-info" style="color: #006eb3ff;">These evaluations of teaching serve multiple purposes, and go to multiple audiences:
         <ul>
-            <li>They go to the program director or  chair, to help determine if I should keep teaching this course;</li>
+            <li>They go to the program director or department chair, to help determine if I should keep teaching this course;</li>
             <li>they'll become part of my portfolio application for promotion, read by other faculty inside and outside my department;</li>
             <li>and, after grades are turned in, they'll go to me, so I can use them to revise and update the course. For that purpose, I especially value the free responses. (I've also added a few Likert questions that are particular to this course.)</li>
         </ul>
     </div>
-    <p>The same is true for all your professors. For pre-tenure professors, OMET reviews may make the difference in whether they get to stay at Pitt. So the OMETs are, as I said above, a pretty important way of getting your voices heard, which is a good thing; on the other hand, they can also powerfully affect hiring, especially for women, immigrants, and people of color.</p>
+    <p>The same is true for all your instructors. For professors without tenure, OMET reviews may make the difference in whether they get to stay at Pitt. So the OMETs are, as I said above, a pretty important way of getting your voices heard, which is a good thing; on the other hand, they can also powerfully affect hiring, especially for women, immigrants, and people of color.</p>
     <div class="alert alert-success" style="color: #008013ff;">If you haven't yet filled out your survey, please do so now. You should have a link to the survey on Canvas, or in your Pitt email.</div>
     <p>I'll leave the room and monitor the response rates, but no matter what we'll have to start presentations by around 10:10 to make sure we have time for everyone. If you're not done by around 10, save your responses to complete later today.</p>
 </details>

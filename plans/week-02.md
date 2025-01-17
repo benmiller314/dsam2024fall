@@ -1,4 +1,3 @@
-
 # Week 2: (Setting Up and Setting Out)
 <span class="date">September 2, 2024</span>
 
@@ -53,15 +52,15 @@ Planning on a small-scale deliverable from the outset, and then adding stretch g
 
 When we get back together on September 9th, I'd like to continue our conversation about what "digital" affords by thinking about reproduction, circulation, iteration, and difference detection. And we'll do it in the context of a slightly longer intro to GitHub than we achieved in lesson 1.
 
-There's only one new **reading**, but there are also **downloads** that you should make sure to start early; if you run into trouble, I can help you troubleshoot during office hours. 
+There's only one new **reading**, but there are also **downloads** that you should make sure to start early; if you run into trouble, I can help you troubleshoot during office hours.
 
-I'll also ask you to **write** a post to [a new discussion forum in response to the readings](https://github.com/benmiller314/dsam2024fall/discussions/2), to give you a chance to think in writing about the readings and to seed our in-class conversation. 
+I'll also ask you to **write** a post to [a new discussion forum in response to the readings](https://github.com/benmiller314/dsam2024fall/discussions/2), to give you a chance to think in writing about the readings and to seed our in-class conversation.
 
 
 To prepare for week 3:
 
 * **install a plain-text editor** if you don't already have one (e.g. [Pulsar](https://pulsar-edit.dev/) or [Visual Studio Code](https://code.visualstudio.com/)).
-* **create a GitHub account** if you don't already have one. 
+* **create a GitHub account** if you don't already have one.
     - Think about your username: it can, but need not, indicate your real name or match your other online profiles. (Pros and cons either way.)
 * **install the [GitHub Desktop](https://desktop.github.com) app** and any dependencies it recommends. (NB: This may take up to 20 minutes, so please don't wait until the morning of class.)
     - NB: If you get an error saying it's not an approved app from the app store, don't worry: it's safe! In this case, instead of double-clicking to open the installer, right-click and choose "Open" to give yourself permission to open it anyway.
